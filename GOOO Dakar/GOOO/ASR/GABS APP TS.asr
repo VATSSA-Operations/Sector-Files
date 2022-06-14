@@ -1,0 +1,171 @@
+// ##################################################################
+//                 ACCWAF | FIR GOOO | ASR | GAPS APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GAPS APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:GABS:name
+Airports:GABS:symbol
+Airports:GAMB:name
+Airports:GAMB:symbol
+Fixes:AMLAN:name
+Fixes:AMLAN:symbol
+Fixes:BIDOK:name
+Fixes:BIDOK:symbol
+Fixes:BIGET:name
+Fixes:BIGET:symbol
+Fixes:BONVI:name
+Fixes:BONVI:symbol
+Fixes:BS001:name
+Fixes:BS001:symbol
+Fixes:BS002:name
+Fixes:BS002:symbol
+Fixes:BS003:name
+Fixes:BS003:symbol
+Fixes:BS004:name
+Fixes:BS004:symbol
+Fixes:BS006:name
+Fixes:BS006:symbol
+Fixes:BS007:name
+Fixes:BS007:symbol
+Fixes:BS008:name
+Fixes:BS008:symbol
+Fixes:BS009:name
+Fixes:BS009:symbol
+Fixes:BS010:name
+Fixes:BS010:symbol
+Fixes:BS011:name
+Fixes:BS011:symbol
+Fixes:BS012:name
+Fixes:BS012:symbol
+Fixes:BS017:name
+Fixes:BS017:symbol
+Fixes:BS018:name
+Fixes:BS018:symbol
+Fixes:BS019:name
+Fixes:BS019:symbol
+Fixes:BS020:name
+Fixes:BS020:symbol
+Fixes:BS021:name
+Fixes:BS021:symbol
+Fixes:BS022:name
+Fixes:BS022:symbol
+Fixes:BS023:name
+Fixes:BS023:symbol
+Fixes:BS024:name
+Fixes:BS024:symbol
+Fixes:BS025:name
+Fixes:BS025:symbol
+Fixes:BS026:name
+Fixes:BS026:symbol
+Fixes:BS027:name
+Fixes:BS027:symbol
+Fixes:BS029:name
+Fixes:BS029:symbol
+Fixes:BS030:name
+Fixes:BS030:symbol
+Fixes:BS031:name
+Fixes:BS031:symbol
+Fixes:BS032:name
+Fixes:BS032:symbol
+Fixes:BS033:name
+Fixes:BS033:symbol
+Fixes:BS034:name
+Fixes:BS034:symbol
+Fixes:BS035:name
+Fixes:BS035:symbol
+Fixes:BS036:name
+Fixes:BS036:symbol
+Fixes:BS075:name
+Fixes:BS075:symbol
+Fixes:BUNVO:name
+Fixes:BUNVO:symbol
+Fixes:DEKAT:name
+Fixes:DEKAT:symbol
+Fixes:DENIS:name
+Fixes:DENIS:symbol
+Fixes:EDAMO:name
+Fixes:EDAMO:symbol
+Fixes:ENINO:name
+Fixes:ENINO:symbol
+Fixes:ENOLU:name
+Fixes:ENOLU:symbol
+Fixes:EPITI:name
+Fixes:EPITI:symbol
+Fixes:GARAN:name
+Fixes:GARAN:symbol
+Fixes:GATAM:name
+Fixes:GATAM:symbol
+Fixes:KOSIL:name
+Fixes:KOSIL:symbol
+Fixes:MELAP:name
+Fixes:MELAP:symbol
+Fixes:MINVO:name
+Fixes:MINVO:symbol
+Fixes:NAPTU:name
+Fixes:NAPTU:symbol
+Fixes:NEGLO:name
+Fixes:NEGLO:symbol
+Fixes:OPARA:name
+Fixes:OPARA:symbol
+Fixes:PIMTA:name
+Fixes:PIMTA:symbol
+Fixes:POTAL:name
+Fixes:POTAL:symbol
+Fixes:RIPUL:name
+Fixes:RIPUL:symbol
+Fixes:SEPAT:name
+Fixes:SEPAT:symbol
+Fixes:TOBAS:name
+Fixes:TOBAS:symbol
+Fixes:UBATI:name
+Fixes:UBATI:symbol
+Fixes:VOLNA:name
+Fixes:VOLNA:symbol
+Fixes:VOMTA:name
+Fixes:VOMTA:symbol
+Geo:GA Danger area D2 Sirakoroni - GND/FL410:
+Geo:GA Danger area D3 Sibi - FL050/FL410:
+Geo:GA Danger area D4 Simidji - FL050/FL410:
+Geo:GA Danger area D6 - GND/FL030:
+Geo:GA Prohibited area P1 - GND/FL410:
+Geo:GA Prohibited area P5 Kati - GND/FL030:
+Geo:GABS Danger area Fuel Dumping:
+Geo:GABS Groundlayout:
+VORs:BKO:frequency
+VORs:BKO:name
+VORs:BKO:symbol
+VORs:KAY:frequency
+VORs:KAY:name
+VORs:KAY:symbol
+VORs:MTI:frequency
+VORs:MTI:name
+VORs:MTI:symbol
+VORs:SKO:frequency
+VORs:SKO:name
+VORs:SKO:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC-TopSky
+WINDOWAREA:12.057113:-9.058370:13.149380:-7.016566

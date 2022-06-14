@@ -1,0 +1,33 @@
+Settings	SettingsfileSYMBOLOGY	\FBGR\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FBGR\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FBGR\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FBGR\Settings\Tags.txt
+Settings	SettingsfileSIL	\FBGR\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FBGR\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FBGR\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FBGR\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FBGR\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FBGR\Settings\Plugins.txt
+Settings	Settingsfile	\FBGR\Settings\General.txt
+Settings	SettingsfileSCREEN	\FBGR\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FBGR\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FBGR\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FBGR\Settings\PilotingList.txt
+Settings	alias	\FBGR\Alias\alias.txt
+Settings	airlines	\FBGR\ICAO\ICAO_Airlines.txt
+Settings	airports	\FBGR\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FBGR\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FBGR\NavData\airway.txt
+Settings	airportcoords	\FBGR\NavData\icao.txt
+LastSession	atis_airport	FBSK
+LastSession	atis2	$radioname
+LastSession	atis3	Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+LastSession	atis4	Visit us at vatssa.com
+RecentFiles	Recent1	\FBGR\ASR\1_CTR.asr
+RecentFiles	Recent2	\FBGR\ASR\2_APP.asr
+RecentFiles	Recent3	\FBGR\ASR\3_TWR.asr
+ASRFastKeys	1	\FBGR\ASR\1_CTR.asr
+ASRFastKeys	2	\FBGR\ASR\2_APP.asr
+ASRFastKeys	3	\FBGR\ASR\3_TWR.asr
+Plugins	Plugin0	\FBGR\Plugins\AfvEuroScopeBridge.dll
+Settings	sector	\FBGR-Package_20220519162608-220501-0001.sct

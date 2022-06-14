@@ -1,0 +1,35 @@
+//BEGIN SCALING (change values to your liking)
+
+//Cursors (derzeit nicht funktionell)
+//System_GUI_Scale_Cursors=1
+
+//Cursors (Not functional)
+//System_GUI_Scale_Cursors=1
+
+//Global Menu
+System_GUI_Scale_GlobalMenu=1.2
+
+//Radar Menu
+System_GUI_Scale_Menus=1.2
+
+//Route Vector
+System_GUI_Scale_Screen=1.1
+
+//Radar Targets
+System_GUI_Scale_Tracks=1
+
+//Normale Fenster
+System_GUI_Scale_Windows=1.2
+
+//END SCALING
+
+Setup_COOPANS=1
+
+Airspace_ASSR_Type=1
+Airspace_ASSR_StartCode=3300
+Airspace_ASSR_EndCode=3477
+Airspace_ModeS_Code=0
+Airspace_No_DUPE_Codes=2000,2200,1200,7000
+
+System_ASP_IasMach=28500
+System_MagModel_Year=2021

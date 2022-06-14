@@ -1,0 +1,154 @@
+// ##################################################################
+//                 ACCWAF | FIR DGAC | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.2
+// Update Date 03/05/2022
+
+// Changelog
+// v0.2 | Category Versioning Across WAF
+
+// Active Airports
+// DG | DGAA
+// DX | DXNG, DXXX
+
+
+// ##################################################################
+//                 General v0.1
+// ##################################################################
+
+// Airline Groups
+GROUP:StarAlliance:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:SIA:SAA:SWR:TAP:THA:THY:UAL
+GROUP:OneWorld:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
+GROUP:SkyTeam:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
+GROUP:Charter:TOM
+GROUP:Cargo:BOX:CAO:GEC##########################################
+
+GROUP:DGAA_INT:ETH:QTR:TAP:UAE
+
+
+// ##################################################################
+//                 DG GHANA
+// ##################################################################
+
+// ##################################################################
+//                 DGAA Accra
+// ##################################################################
+
+// APRON B | Cargo
+// Stand B1
+STAND:DGAA:B1:N005.35.51.2304:W000.10.25.7448:20
+USE:C
+
+// Stand B2
+STAND:DGAA:B2:N005.35.53.5668:W000.10.24.6936:20
+USE:C
+
+// Stand B3
+STAND:DGAA:B3:N005.35.55.7484:W000.10.23.862:20
+USE:C
+
+// APRON C | Terminal 3 (International)
+// Stand C1
+STAND:DGAA:C1:N005.35.59.3628:W000.10.21.9108:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+
+// Stand C2
+STAND:DGAA:C2:N005.36.01.5732:W000.10.21.09:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+
+// Stand C3
+STAND:DGAA:C3:N005.36.03.7332:W000.10.20.2872:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+
+// Stand C4
+STAND:DGAA:C4:N005.36.05.9724:W000.10.19.3152:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+PRIORITY:+3
+
+// Stand C5
+STAND:DGAA:C5:N005.36.08.0604:W000.10.18.4836:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+PRIORITY:+3
+
+// Stand C6
+STAND:DGAA:C6:N005.36.10.2492:W000.10.17.4792:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+
+// Stand C7
+STAND:DGAA:C7:N005.36.12.420:W000.10.16.572:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+
+// Stand C8
+STAND:DGAA:C8:N005.36.14.6988:W000.10.15.8196:20
+USE:A
+CALLSIGN:GROUP_DGAA_INT
+
+// APRON D | Terminal 2 (Domestic)
+// Stand D1
+STAND:DGAA:D1:N005.36.17.8236:W000.10.15.9924:20
+
+// Stand D2
+STAND:DGAA:D2:N005.36.20.1672:W000.10.14.8152:20
+
+// Stand D3
+STAND:DGAA:D3:N005.36.22.302:W000.10.13.818:20
+
+// Stand D4
+STAND:DGAA:D4:N005.36.24.462:W000.10.12.9504:20
+
+// Stand D5
+STAND:DGAA:D5:N005.36.26.712:W000.10.12.0612:20
+
+// Stand D6
+STAND:DGAA:D6:N005.36.29.142:W000.10.11.0676:20
+
+// APRON
+// Stand E1
+STAND:DGAA:E1:N005.36.30.7656:W000.10.09.1956:20
+
+// Stand E2
+STAND:DGAA:E2:N005.36.32.8608:W000.10.07.986:20
+
+// Stand E3
+STAND:DGAA:E3:N005.36.35.0424:W000.10.07.2804:20
+
+// APRON J | VIP Apron
+// Stand J
+STAND:DGAA:J:N005.35.43.67:W000.10.25.82:20
+MANUAL
+
+
+// ##################################################################
+//                 DX
+// ##################################################################
+
+// ##################################################################
+//                 DXNG
+// ##################################################################
+
+// DXNG
+STAND:DXNG:1:N009.46.37.45:E001.05.55.87:20
+STAND:DXNG:2:N009.46.35.15:E001.05.54.72:20
+STAND:DXNG:3:N009.46.32.92:E001.05.53.94:20
+STAND:DXNG:4:N009.46.30.75:E001.05.53.02:20
+
+// ##################################################################
+//                 DXXX 
+// ##################################################################
+
+// DXXX
+STAND:DXXX:1:N006.10.06.17:E001.15.11.71:20
+STAND:DXXX:2:N006.10.04.42:E001.15.09.27:20
+STAND:DXXX:3:N006.10.02.87:E001.15.08.07:20
+STAND:DXXX:4:N006.10.01.25:E001.15.07.12:20
+STAND:DXXX:5:N006.09.59.16:E001.15.04.34:20
+STAND:DXXX:6:N006.09.56.82:E001.15.04.34:20
+STAND:DXXX:7:N006.09.54.45:E001.15.02.46:20

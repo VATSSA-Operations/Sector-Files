@@ -1,0 +1,33 @@
+Settings	SettingsfileSYMBOLOGY	\GVSC\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\GVSC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\GVSC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\GVSC\Settings\Tags.txt
+Settings	SettingsfileSIL	\GVSC\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\GVSC\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\GVSC\Settings\DepartureList.txt
+Settings	SettingsfileARR	\GVSC\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\GVSC\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\GVSC\Settings\Plugins.txt
+Settings	Settingsfile	\GVSC\Settings\General.txt
+Settings	SettingsfileSCREEN	\GVSC\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\GVSC\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\GVSC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\GVSC\Settings\PilotingList.txt
+Settings	alias	\GVSC\Alias\alias.txt
+Settings	airlines	\GVSC\ICAO\ICAO_Airlines.txt
+Settings	airports	\GVSC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\GVSC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\GVSC\NavData\airway.txt
+Settings	airportcoords	\GVSC\NavData\icao.txt
+LastSession	atis_airport	GVCA
+LastSession	atis2	$radioname
+LastSession	atis3	Welcome to Cabo Verde FIR, part of Sub Saharan Africa Division
+LastSession	atis4	Visit us on vatssa.com
+RecentFiles	Recent1	\GVSC\ASR\1_CTR.asr
+RecentFiles	Recent2	\GVSC\ASR\2_APP.asr
+RecentFiles	Recent3	\GVSC\ASR\3_TWR.asr
+ASRFastKeys	1	\GVSC\ASR\1_CTR.asr
+ASRFastKeys	2	\GVSC\ASR\2_APP.asr
+ASRFastKeys	3	\GVSC\ASR\3_TWR.asr
+Plugins	Plugin0	\GVSC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Settings	sector	\GVSC-Package_20220520084149-220501-0002.sct

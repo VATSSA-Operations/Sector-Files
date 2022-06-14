@@ -1,0 +1,31 @@
+// -------VATSIM Sub-Sahara Africa Division - South Africa - GRPLUGIN SETTINGS
+// -------Created by Mickey Champion 1317411.
+// -------For permission to reuse, redistribute, or modify for use in other sector files, contact Mickey Champion.
+
+// Fonts
+Maps_Font=EuroScope
+TextNotes_Font=EuroScope
+GroundLabel_Font=EuroScope
+AppLabel_Font=EuroScope
+TowerLabel_Font=EuroScope
+
+// Filtering
+System_GroundMode_AltFilter_AAL=10000
+
+// Colors
+Color_Departure=20,255,255
+Color_Arrival=255,230,0
+Color_WForeground2=220,220,220
+Color_WTitleBar=32,32,32
+Color_SelectedLabelFill_App=30,30,30
+Color_SelectedLabelFill_Gnd=30,30,30
+
+// APP Window
+Track_PredictionLine_APP=1
+Track_HistoryDots_APP=5
+Window_APP_Scale=10.0
+Window_APP_Extensions=10
+Window_APP_Extensions_TickWidth=0.4
+Window_APP_AltFilter=10000
+AppLabel_UseSelColor=1
+TowerLabel_Transparency_Bg=255

@@ -1,0 +1,35 @@
+Settings	SettingsfileSYMBOLOGY	\FMMM\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FMMM\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FMMM\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FMMM\Settings\Tags_TS.txt
+Settings	SettingsfileSIL	\FMMM\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FMMM\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FMMM\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FMMM\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FMMM\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FMMM\Settings\Plugins.txt
+Settings	Settingsfile	\FMMM\Settings\General.txt
+Settings	SettingsfileSCREEN	\FMMM\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FMMM\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FMMM\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FMMM\Settings\PilotingList.txt
+Settings	alias	\FMMM\Alias\alias.txt
+Settings	airlines	\FMMM\ICAO\ICAO_Airlines.txt
+Settings	airports	\FMMM\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FMMM\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FMMM\NavData\airway.txt
+Settings	airportcoords	\FMMM\NavData\icao.txt
+LastSession	atis2	$radioname
+LastSession	atis3	Welcome to Madagascar, part of Sub-Saharan Africa (SSA)
+LastSession	atis4	Visit us at vatssa.com
+RecentFiles	Recent1	\FMMM\ASR\1_CTR.asr
+ASRFastKeys	1	\FMMM\ASR\1_CTR.asr
+ASRFastKeys	2	\FMMM\ASR\2_APP.asr
+ASRFastKeys	3	\FMMM\ASR\3_TWR.asr
+Plugins	Plugin0	\FMMM\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\FMMM\Plugins\Topsky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+TeamSpeakVccs	TsVccsMiniControlX	137
+TeamSpeakVccs	TsVccsMiniControlY	164
+Settings	sector	\FMMM-Package_20220519172745-220501-0001.sct

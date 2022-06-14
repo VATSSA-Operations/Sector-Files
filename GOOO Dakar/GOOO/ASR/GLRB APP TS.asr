@@ -1,0 +1,108 @@
+// ##################################################################
+//                 ACCWAF | FIR GOOO | ASR | GLRB APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GLRB APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:GFLL:name
+Airports:GFLL:symbol
+Airports:GLRB:name
+Airports:GLRB:symbol
+Airports:GUCY:name
+Airports:GUCY:symbol
+Fixes:ADAMS:name
+Fixes:ADAMS:symbol
+Fixes:ARCHE:name
+Fixes:ARCHE:symbol
+Fixes:BASSA:name
+Fixes:BASSA:symbol
+Fixes:BOAKA:name
+Fixes:BOAKA:symbol
+Fixes:BOBIN:name
+Fixes:BOBIN:symbol
+Fixes:CATHY:name
+Fixes:CATHY:symbol
+Fixes:CHRIS:name
+Fixes:CHRIS:symbol
+Fixes:DELTA:name
+Fixes:DELTA:symbol
+Fixes:DEMAR:name
+Fixes:DEMAR:symbol
+Fixes:DUCOR:name
+Fixes:DUCOR:symbol
+Fixes:EKENA:name
+Fixes:EKENA:symbol
+Fixes:ELLEN:name
+Fixes:ELLEN:symbol
+Fixes:ENDRR:name
+Fixes:ENDRR:symbol
+Fixes:FLODO:name
+Fixes:FLODO:symbol
+Fixes:GRADY:name
+Fixes:GRADY:symbol
+Fixes:GRAYE:name
+Fixes:GRAYE:symbol
+Fixes:JENDE:name
+Fixes:JENDE:symbol
+Fixes:JENNY:name
+Fixes:JENNY:symbol
+Fixes:LEYMA:name
+Fixes:LEYMA:symbol
+Fixes:MATRU:name
+Fixes:MATRU:symbol
+Fixes:NAGBE:name
+Fixes:NAGBE:symbol
+Fixes:PONKA:name
+Fixes:PONKA:symbol
+Fixes:RANDY:name
+Fixes:RANDY:symbol
+Fixes:REVES:name
+Fixes:REVES:symbol
+Fixes:RITAM:name
+Fixes:RITAM:symbol
+Fixes:ROOHN:name
+Fixes:ROOHN:symbol
+Fixes:RRCHY:name
+Fixes:RRCHY:symbol
+Fixes:SANFU:name
+Fixes:SANFU:symbol
+Fixes:TAMBA:name
+Fixes:TAMBA:symbol
+Fixes:TEKTO:name
+Fixes:TEKTO:symbol
+Fixes:WEEFU:name
+Fixes:WEEFU:symbol
+Geo:GFLL Groundlayout:
+Geo:GL Danger area D42 - GND/FL065:
+Geo:GL Danger area D43 - GND/FL065:
+Geo:GL Landmark Coast:
+Geo:GL Restricted area R41 - GND/A030:
+Geo:GLRB Groundlayout:
+Geo:GUCY Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC-TopSky
+WINDOWAREA:-1.616093:-44.616878:23.219175:1.808351
+PLUGIN:TopSky plugin:HideMapData:GOBD,GOOY,GBYD,DIAP
+PLUGIN:TopSky plugin:ShowMapData:GLRB,GFLL,GUCY

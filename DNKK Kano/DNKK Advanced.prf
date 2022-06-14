@@ -1,0 +1,39 @@
+Settings	SettingsfileSYMBOLOGY	\DNKK\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\DNKK\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\DNKK\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\DNKK\Settings\Tags.txt
+Settings	SettingsfileSIL	\DNKK\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\DNKK\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\DNKK\Settings\DepartureList.txt
+Settings	SettingsfileARR	\DNKK\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\DNKK\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\DNKK\Settings\Plugins.txt
+Settings	Settingsfile	\DNKK\Settings\General.txt
+Settings	SettingsfileSCREEN	\DNKK\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\DNKK\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\DNKK\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\DNKK\Settings\PilotingList.txt
+Settings	alias	\DNKK\Alias\alias.txt
+Settings	airlines	\DNKK\ICAO\ICAO_Airlines.txt
+Settings	airports	\DNKK\ICAO\ICAO_Airports.txt
+Settings	aircraft	\DNKK\ICAO\ICAO_Aircraft.txt
+Settings	airways	\DNKK\NavData\airway.txt
+Settings	airportcoords	\DNKK\NavData\icao.txt
+RecentFiles	Recent1	\DNKK\ASR\1 DNKK CTR TS.asr
+RecentFiles	Recent2	\DNKK\ASR\DNMM APP TS.asr
+RecentFiles	Recent3	\DNKK\ASR\DNMM AD GR.asr
+RecentFiles	Recent4	\DNKK\ASR\DNAA APP TS.asr
+RecentFiles	Recent5	\DNKK\ASR\DNKN APP TS.asr
+ASRFastKeys	1	\DNKK\ASR\1 DNKK CTR TS.asr
+ASRFastKeys	1	\DNKK\ASR\DNMM APP TS.asr
+ASRFastKeys	1	\DNKK\ASR\DNMM AD GR.asr
+ASRFastKeys	1	\DNKK\ASR\DNAA APP TS.asr
+ASRFastKeys	1	\DNKK\ASR\DNKN APP TS.asr
+Plugins	Plugin0	\DNKK\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\DNKK\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin2	\DNKK\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\DNKK\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Settings	sector	\DNKK-Package_20220520150230-220501-0001.sct

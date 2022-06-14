@@ -1,0 +1,70 @@
+// -------VATSSA - ACCVAN - GRPLUGIN SETTINGS
+// -------Created by Alec Walker - 916618
+// -------With thanks to Mickey Champion
+
+// System Parameters
+System_APM=0
+Equip_ProMode=1
+
+// Fonts
+Maps_Font=EuroScope
+TextNotes_Font=EuroScope
+GroundLabel_Font=EuroScope
+AppLabel_Font=EuroScope
+TowerLabel_Font=EuroScope
+
+// Filtering
+System_GroundMode_AltFilter_AAL=10000
+
+// Colors
+Color_WForeground2=220,220,220
+Color_WTitleBar=32,32,32
+Color_SelectedLabelFill_App=30,30,30
+Color_SelectedLabelFill_Gnd=30,30,30
+
+// APP Window
+Track_PredictionLine_APP=1
+Track_HistoryDots_APP=5
+Window_APP_Scale=10.0
+Window_APP_Extensions=10
+Window_APP_Extensions_TickWidth=0.4
+Window_APP_AltFilter=10000
+AppLabel_UseSelColor=1
+TowerLabel_Transparency_Bg=255
+
+// APP Path Definitions
+// AppPath=Icao:Name:EndLat:EndLon:InbdCrsT:Direction:EndAlt:VertAngle
+// -- FIMP --
+AppPath=FIMP:FIMP14:S020.25.34.880:E057.40.31.662:117:R:184:3
+AppPath=FIMP:FIMP32:S020.26.07.773:E057.41.40.060:297:L:98:3
+
+//Label Definition
+Label=GND:ARR:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
+Label=GND:ARR:1:CALLSIGN,0,0:STAND,0,1
+Label=GND:ARR:2:ATYP,0,0:WTC,0,1,0:RMK,0,1
+Label=GND:ARR:3:AFL,0,0,13:GS,0,1,0
+
+Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
+Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1:DEP,0,1
+Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0:RMK,0,1
+Label=GND:DEP:3:AFL,0,0,13:CFL,0,1:GS,0,1,0
+
+Label=GND:UNC:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
+Label=GND:UNC:1:TSSR,0,0
+Label=GND:UNC:2:AFL,0,0,13:GS,0,1,0
+Label=GND:UNC:3:
+
+Label=GND:OTH:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
+Label=GND:OTH:1:TSSR,0,0
+Label=GND:OTH:2:AFL,0,0,13:GS,0,1,0
+Label=GND:OTH:3:
+
+Label=APW:ARR:0:CALLSIGN,0,0
+Label=APW:ARR:1:
+Label=APW:ARR:2:
+Label=APW:ARR:3:
+
+Label=APP:ARR:0:CALLSIGN,0,0:AFL,0,1,13
+Label=APP:ARR:1:
+Label=APP:ARR:2:
+Label=APP:ARR:3:

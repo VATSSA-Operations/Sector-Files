@@ -1,0 +1,54 @@
+Settings	SettingsfileSYMBOLOGY	\HUEC\Settings\ACCRAC_SYMBOLOGY.txt
+Settings	SettingsfileVOICE	\HUEC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\HUEC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\HUEC\Settings\VATSSA_TAGS.txt
+Settings	SettingsfileSIL	\HUEC\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\HUEC\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\HUEC\Settings\DepartureList.txt
+Settings	SettingsfileARR	\HUEC\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\HUEC\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\HUEC\Settings\Plugins.txt
+Settings	Settingsfile	\HUEC\Settings\General.txt
+Settings	SettingsfileSCREEN	\HUEC\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\HUEC\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\HUEC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\HUEC\Settings\PilotingList.txt
+Settings	alias	\HUEC\Alias\alias.txt
+Settings	AtisFolder	\HUEC\ATIS\atisfiles.txt
+Settings	airlines	\HUEC\ICAO\ICAO_Airlines.txt
+Settings	airports	\HUEC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\HUEC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\HUEC\NavData\airway.txt
+Settings	airportcoords	\HUEC\NavData\icao.txt
+LastSession	atis_airport	HUEN
+LastSession	atis2	$radioname
+LastSession	atis3	Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
+LastSession	atis4	Visit us at vatssa.com
+RecentFiles	Recent1	\HUEC\ASR\1_CTR.asr
+RecentFiles	Recent2	\HUEC\ASR\3_TWR.asr
+RecentFiles	Recent3	\HUEC\ASR\2_APP.asr
+ASRFastKeys	1	\HUEC\ASR\1_CTR.asr
+ASRFastKeys	2	\HUEC\ASR\2_APP.asr
+ASRFastKeys	3	\HUEC\ASR\3_TWR.asr
+Plugins	Plugin0	\HUEC\Plugins\AfvEuroScopeBridge.dll
+Settings	sector	\HUEC-Package_20220519171558-220501-0001.sct
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin1	\HUEC\Plugins\DiscordEuroscope.dll
+Plugins	Plugin2	\HUEC\Plugins\TopSky.dll
+Plugins	Plugin3	\HUEC\Plugins\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

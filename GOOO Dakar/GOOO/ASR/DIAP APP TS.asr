@@ -1,0 +1,42 @@
+// ##################################################################
+//                 ACCWAF | FIR GVSC | ASR | DIAP APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 17/03/2022
+
+// Changelog
+// v0.0.1 | DIAP APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Fixes:ARLIX:name
+Fixes:ARLIX:symbol
+Geo:DI Danger area D6 Abidjan - GND/600M:
+Geo:DI Landmark Coast:
+Geo:DI Landmark Lakes:
+Geo:DI Prohibited area P1 Fetekro - GND/FL245:
+Geo:DI Restricted area R2 - FL100/FL245:
+Geo:DI Restricted area R4:
+Geo:DI Restricted area R5 - GND/600M:
+Geo:DIAP Danger area Fuel Dumping:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC-TopSky
+WINDOWAREA:3.760367:-7.301284:7.093701:-1.070194

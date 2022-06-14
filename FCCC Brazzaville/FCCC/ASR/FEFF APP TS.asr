@@ -1,0 +1,61 @@
+// ##################################################################
+//                 ACCWAF | FIR FCCC | ASR | FEFF APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | FEFF APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+Airports:FEFF:name
+Airports:FEFF:symbol
+Geo:FC Landmark Coast N:
+Geo:FC Landmark Coast S:
+Geo:FG Landmark Coast:
+Geo:FP Groundlayout Sao Tome:
+Geo:FP Landmark Coast:
+Geo:GEO:
+Runways:FEFF 16-34:centerline
+Runways:FEFF 16-34:extended centerline 1
+Runways:FEFF 16-34:extended centerline 1 left base
+Runways:FEFF 16-34:extended centerline 1 left ticks
+Runways:FEFF 16-34:extended centerline 1 left vectoring
+Runways:FEFF 16-34:extended centerline 1 right base
+Runways:FEFF 16-34:extended centerline 1 right ticks
+Runways:FEFF 16-34:extended centerline 1 right vectoring
+Runways:FEFF 16-34:extended centerline 2
+Runways:FEFF 16-34:extended centerline 2 left base
+Runways:FEFF 16-34:extended centerline 2 left ticks
+Runways:FEFF 16-34:extended centerline 2 left vectoring
+Runways:FEFF 16-34:extended centerline 2 right base
+Runways:FEFF 16-34:extended centerline 2 right ticks
+Runways:FEFF 16-34:extended centerline 2 right vectoring
+Runways:FEFF 16-34:name
+Stars:FEFF STAR 16 IPANI2A:
+Stars:FEFF STAR 16 NIRUP1D:
+Stars:FEFF STAR 16 RIROT2A:
+Stars:FEFF STAR 16 SOMSI1D:
+Stars:FEFF STAR 34 EBULA1B:
+Stars:FEFF STAR 34 IPANI2KB:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC-TopSky
+WINDOWAREA:1.490042:13.230376:7.305273:23.809186

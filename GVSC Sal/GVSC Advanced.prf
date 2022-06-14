@@ -1,0 +1,38 @@
+Settings	SettingsfileSYMBOLOGY	\GVSC\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\GVSC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\GVSC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\GVSC\Settings\Tags.txt
+Settings	SettingsfileSIL	\GVSC\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\GVSC\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\GVSC\Settings\DepartureList.txt
+Settings	SettingsfileARR	\GVSC\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\GVSC\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\GVSC\Settings\Plugins.txt
+Settings	Settingsfile	\GVSC\Settings\General.txt
+Settings	SettingsfileSCREEN	\GVSC\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\GVSC\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\GVSC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\GVSC\Settings\PilotingList.txt
+Settings	alias	\GVSC\Alias\alias.txt
+Settings	airlines	\GVSC\ICAO\ICAO_Airlines.txt
+Settings	airports	\GVSC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\GVSC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\GVSC\NavData\airway.txt
+Settings	airportcoords	\GVSC\NavData\icao.txt
+RecentFiles	Recent1	\GVSC\ASR\GVSC APP TS.asr
+RecentFiles	Recent2	\GVSC\ASR\GVAC AD GR.asr
+RecentFiles	Recent3	\GVSC\ASR\GVBA AD GR.asr
+RecentFiles	Recent4	\GVSC\ASR\GVNP AD GR.asr
+RecentFiles	Recent5	\GVSC\ASR\GVSV AD GR.asr
+ASRFastKeys	1	\GVSC\ASR\GVSC APP TS.asr
+ASRFastKeys	1	\GVSC\ASR\GVAC AD GR.asr
+ASRFastKeys	1	\GVSC\ASR\GVBA AD GR.asr
+ASRFastKeys	1	\GVSC\ASR\GVNP AD GR.asr
+ASRFastKeys	1	\GVSC\ASR\GVSV AD GR.asr
+Plugins	Plugin0	\GVSC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\GVSC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin2	\GVSC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin2Display0	Standard ES radar screen
+Settings	sector	\GVSC-Package_20220520084149-220501-0002.sct

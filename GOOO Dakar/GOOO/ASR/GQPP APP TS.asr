@@ -1,0 +1,89 @@
+// ##################################################################
+//                 ACCWAF | FIR GOOO | ASR | GQPP APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GQPP APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:GQPP:name
+Airports:GQPP:symbol
+Fixes:ARDAR:name
+Fixes:ARDAR:symbol
+Fixes:ARIDO:name
+Fixes:ARIDO:symbol
+Fixes:ERENA:name
+Fixes:ERENA:symbol
+Fixes:LOLOS:name
+Fixes:LOLOS:symbol
+Fixes:POBLA:name
+Fixes:POBLA:symbol
+Fixes:PP002:name
+Fixes:PP002:symbol
+Fixes:PP005:name
+Fixes:PP005:symbol
+Fixes:PP006:name
+Fixes:PP006:symbol
+Fixes:PP008:name
+Fixes:PP008:symbol
+Fixes:PP011:name
+Fixes:PP011:symbol
+Fixes:PP012:name
+Fixes:PP012:symbol
+Fixes:TUSUR:name
+Fixes:TUSUR:symbol
+Geo:DG Landmark Coast West:
+Geo:DI Landmark Coast:
+Geo:DI Landmark Lakes:
+Geo:GB Danger area D1 Kassa Kunda - SFC/FL055:
+Geo:GB Prohibited area P1 Banjul - SFC/FL055:
+Geo:GBYD Groundlayout:
+Geo:GCCC Landmark Coastline Sahara:
+Geo:GL Landmark Coast:
+Geo:GO Landmark Coast:
+Geo:GQ Danger area D10 Touila - GND/FL040:
+Geo:GQ Danger area D11 Ground Fire Area - GND/FL030:
+Geo:GQ Danger area D12 Ground Fire Area - GND/FL100:
+Geo:GQ Danger area D3 Parachute:
+Geo:GQ Danger area D4 Parachute:
+Geo:GQ Danger area D5 Gun Fire Training - GND/9000M:
+Geo:GQ Danger area D6 Gun Fire Training - GND/1000M:
+Geo:GQ Danger area D7 Aerial shots - GND/2000M:
+Geo:GQ Prohibited area P15 Nouakchott City - GND/A120:
+Geo:GQ Restricted area R8 National Park - GND/1000M:
+Geo:GQ Restricted area R9:
+Geo:GQNO Danger area Fuel Dumping:
+Geo:GQPP Danger area Fuel Dumping:
+Geo:GQPP Groundlayout:
+VORs:GDV:frequency
+VORs:GDV:name
+VORs:GDV:symbol
+VORs:PE:frequency
+VORs:PE:name
+VORs:PE:symbol
+VORs:ZRT:frequency
+VORs:ZRT:name
+VORs:ZRT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC-TopSky
+WINDOWAREA:20.491819:-17.732610:21.365632:-16.099168

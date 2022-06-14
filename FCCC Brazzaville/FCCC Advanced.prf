@@ -1,0 +1,56 @@
+Settings	SettingsfileSYMBOLOGY	\FCCC\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FCCC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FCCC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FCCC\Settings\Tags.txt
+Settings	SettingsfileSIL	\FCCC\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FCCC\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FCCC\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FCCC\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FCCC\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FCCC\Settings\Plugins.txt
+Settings	Settingsfile	\FCCC\Settings\General.txt
+Settings	SettingsfileSCREEN	\FCCC\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FCCC\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FCCC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FCCC\Settings\PilotingList.txt
+Settings	alias	\FCCC\Alias\alias.txt
+Settings	airlines	\FCCC\ICAO\ICAO_Airlines.txt
+Settings	airports	\FCCC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FCCC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FCCC\NavData\airway.txt
+Settings	airportcoords	\FCCC\NavData\icao.txt
+RecentFiles	Recent1	\FCCC\ASR\F1 FCCC CTR TS.asr
+RecentFiles	Recent2	\FCCC\ASR\FCBB AD GR.asr
+RecentFiles	Recent3	\FCCC\ASR\FCCB APP TS.asr
+RecentFiles	Recent4	\FCCC\ASR\FEFF AD GR.asr
+RecentFiles	Recent5	\FCCC\ASR\FEFF APP TS.asr.asr
+RecentFiles	Recent6	\FCCC\ASR\FGSL AD GR.asr
+RecentFiles	Recent7	\FCCC\ASR\FGSL APP TS.asr
+RecentFiles	Recent8	\FCCC\ASR\FKKD AD GR.asr
+RecentFiles	Recent9	\FCCC\ASR\FKKD APP TS.asr
+RecentFiles	Recent10	\FCCC\ASR\FOOG AD GR.asr
+RecentFiles	Recent11	\FCCC\ASR\FOOL AD GR.asr
+RecentFiles	Recent12	\FCCC\ASR\FOOL APP TS.asr
+RecentFiles	Recent13	\FCCC\ASR\FPST AD GR.asr
+RecentFiles	Recent14	\FCCC\ASR\FPST APP TS.asr
+ASRFastKeys	1	\FCCC\ASR\1 FCCC CTR TS.asr
+ASRFastKeys	1	\FCCC\ASR\FCBB AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FCCB APP TS.asr
+ASRFastKeys	1	\FCCC\ASR\FEFF AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FEFF APP TS.asr.asr
+ASRFastKeys	1	\FCCC\ASR\FGSL AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FGSL APP TS.asr
+ASRFastKeys	1	\FCCC\ASR\FKKD AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FKKD APP TS.asr
+ASRFastKeys	1	\FCCC\ASR\FOOG AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FOOL AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FOOL APP TS.asr
+ASRFastKeys	1	\FCCC\ASR\FPST AD GR.asr
+ASRFastKeys	1	\FCCC\ASR\FPST APP TS.asr
+Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\FCCC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin2	\FCCC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin2Display0	Standard ES radar screen
+Settings	sector	\FCCC-Install-Package_20220520084012-220501-0002.sct
