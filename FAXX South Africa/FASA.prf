@@ -25,13 +25,10 @@ Plugins	Plugin1	\FASA\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin2	\FASA\Plugins\Topsky\TopSky.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin3	\FASA\Plugins\ACCSAF Scope\ACCSAF Scope.dll
-Plugins	Plugin4	\FASA\Plugins\Maestro\MAESTRO.dll
-Plugins	Plugin4Display0	Standard ES radar screen
 RecentFiles	Recent1	\FASA\ASR\1_GEN.asr
 RecentFiles	Recent1	\FASA\ASR\2_TWR.asr
 ASRFastKeys	1	\FASA\ASR\1_GEN.asr
 ASRFastKeys	2	\FASA\ASR\FAOR_TWR GR.asr
 ASRFastKeys	3	\FASA\ASR\FACT_TWR GR.asr
 ASRFastKeys	4	\FASA\ASR\FAPE_TWR GR.asr
-Settings	sector	\FASA-Package_20220530153208-220501-0004.sct
+Settings	sector	\FASA-Package_20220616173902-220601-0001.sct
