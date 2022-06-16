@@ -16,42 +16,9 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Free Text:DGAA Parking\B1:freetext
-Free Text:DGAA Parking\B2:freetext
-Free Text:DGAA Parking\B3:freetext
-Free Text:DGAA Parking\C1:freetext
-Free Text:DGAA Parking\C2:freetext
-Free Text:DGAA Parking\C3:freetext
-Free Text:DGAA Parking\C4:freetext
-Free Text:DGAA Parking\C5:freetext
-Free Text:DGAA Parking\C6:freetext
-Free Text:DGAA Parking\C7:freetext
-Free Text:DGAA Parking\C8:freetext
-Free Text:DGAA Parking\D1:freetext
-Free Text:DGAA Parking\D2:freetext
-Free Text:DGAA Parking\D3:freetext
-Free Text:DGAA Parking\D4:freetext
-Free Text:DGAA Parking\D5:freetext
-Free Text:DGAA Parking\D6:freetext
-Free Text:DGAA Parking\E1:freetext
-Free Text:DGAA Parking\E2:freetext
-Free Text:DGAA Parking\E3:freetext
-Free Text:DGAA Taxiways and Aprons\A:freetext
-Free Text:DGAA Taxiways and Aprons\A:freetext
-Free Text:DGAA Taxiways and Aprons\A:freetext
-Free Text:DGAA Taxiways and Aprons\A:freetext
-Free Text:DGAA Taxiways and Aprons\A1:freetext
-Free Text:DGAA Taxiways and Aprons\A2:freetext
-Free Text:DGAA Taxiways and Aprons\A3:freetext
-Free Text:DGAA Taxiways and Aprons\Apron J:freetext
-Free Text:DGAA Taxiways and Aprons\Cargo:freetext
-Free Text:DGAA Taxiways and Aprons\Military:freetext
-Free Text:DGAA Taxiways and Aprons\Term 1:freetext
-Free Text:DGAA Taxiways and Aprons\Term 2:freetext
-Free Text:DGAA Taxiways and Aprons\Term 3:freetext
-Free Text:DGAA Taxiways and Aprons\Y:freetext
-Free Text:DGAA Taxiways and Aprons\Z:freetext
-Geo:DGAA Groundlayout:
+SECTORFILE:
+SECTORTITLE:
+Geo:DBBB Groundlayout:
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -64,9 +31,9 @@ SIMULATION_MODE:2
 DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:68.00000
-TAGFAMILY:AC-TopSky
-WINDOWAREA:5.595820:-0.186392:5.614441:-0.152456
-PLUGIN:Ground Radar plugin:AirportElevation:205
+TAGFAMILY:WAF TopSky
+WINDOWAREA:6.347078:2.366364:6.365699:2.400301
+PLUGIN:Ground Radar plugin:AirportElevation:19
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:DGAA
+PLUGIN:Ground Radar plugin:GroundMode:DBBB
 PLUGIN:TopSky plugin:NoDraw:1

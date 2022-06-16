@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2205/1  ++  Valid period: 19/MAY/2022 - 15/JUN/2022  ++  File-Publisher: Kano - DNKK                             ;
+;  AIRAC 2206/1  ++  Valid period: 16/JUN/2022 - 13/JUL/2022  ++  File-Publisher: Kano - DNKK                             ;
 ;=========================================================================================================================;
 VOICE
 AG:DNAA_APP Abuja Approach:127.900:novoice:DNAA_APP

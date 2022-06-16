@@ -17,6 +17,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:DNAA Groundlayout:
 Geo:DNEN Groundlayout:
 Geo:DNKA Groundlayout:
@@ -25,17 +27,17 @@ Geo:DNPO Groundlayout:
 Geo:DNYO Groundlayout:
 Geo:GEO:
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:-3
-SHOWLEADER:1
+SHOWLEADER:0
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:AC-TopSky
+TAGFAMILY:WAF TopSky
 WINDOWAREA:6.912219:4.615913:14.378886:18.328025
 PLUGIN:TopSky plugin:ShowMapData:DNKK

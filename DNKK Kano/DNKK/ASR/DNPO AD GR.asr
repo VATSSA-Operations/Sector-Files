@@ -49,7 +49,7 @@ DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:62.00000
 TAGFAMILY:AC-TopSky
-WINDOWAREA:5.007643:6.930476:5.026746:6.965557
+TAGFAMILY:WAF TopSky
 PLUGIN:Ground Radar plugin:AirportElevation:91
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:DNPO

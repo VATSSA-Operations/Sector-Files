@@ -2,12 +2,11 @@
 //                 ACCWAF | FIR DNKK | TopSky | Areas
 // ##################################################################
 
-// Version v0.2
-// Update Date 28/04/2022
+// Version v0.3
+// Update Date 06/06/2022
 
 // Changelog
-// v0.1 | DNKK Initial Setup
-// v0.2 | DNKK Danger Areas Added
+// v0.3 | NOTAMS Category Added
 
 // ##################################################################
 //                 CATEGORIES
