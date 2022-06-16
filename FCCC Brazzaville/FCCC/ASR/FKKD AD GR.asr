@@ -35,8 +35,6 @@ Free Text:FKKD Parking\C6:freetext
 Free Text:FKKD Parking\C7:freetext
 Free Text:FKKD Parking\C8:freetext
 Free Text:FKKD Parking\P:freetext
-Geo:FC Landmark Coast N:
-Geo:FC Landmark Coast S:
 Geo:FKKD Groundlayout Douala:
 SHOWC:1
 SHOWSB:1
@@ -50,7 +48,7 @@ SIMULATION_MODE:2
 DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:333.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:WAF TopSky
 WINDOWAREA:4.003580:9.706153:4.021207:9.738202
 PLUGIN:Ground Radar plugin:AirportElevation:33
 PLUGIN:Ground Radar plugin:AirportRadius:3

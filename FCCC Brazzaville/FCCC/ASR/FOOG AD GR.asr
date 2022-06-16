@@ -33,7 +33,7 @@ SIMULATION_MODE:2
 DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:68.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:WAF TopSky
 WINDOWAREA:-0.721607:8.738164:-0.707505:8.763744
 PLUGIN:Ground Radar plugin:AirportElevation:33
 PLUGIN:Ground Radar plugin:AirportRadius:3

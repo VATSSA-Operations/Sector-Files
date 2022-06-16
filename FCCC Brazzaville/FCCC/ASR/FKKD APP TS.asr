@@ -16,30 +16,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Airports:FKKD:name
-Airports:FKKD:symbol
-Geo:FC Landmark Coast N:
-Geo:FC Landmark Coast S:
-Geo:FG Landmark Coast:
 Geo:FP Groundlayout Sao Tome:
-Geo:FP Landmark Coast:
-Geo:GEO:
-Runways:FKKD 12-30:centerline
-Runways:FKKD 12-30:extended centerline 1
-Runways:FKKD 12-30:extended centerline 1 left base
-Runways:FKKD 12-30:extended centerline 1 left ticks
-Runways:FKKD 12-30:extended centerline 1 left vectoring
-Runways:FKKD 12-30:extended centerline 1 right base
-Runways:FKKD 12-30:extended centerline 1 right ticks
-Runways:FKKD 12-30:extended centerline 1 right vectoring
-Runways:FKKD 12-30:extended centerline 2
-Runways:FKKD 12-30:extended centerline 2 left base
-Runways:FKKD 12-30:extended centerline 2 left ticks
-Runways:FKKD 12-30:extended centerline 2 left vectoring
-Runways:FKKD 12-30:extended centerline 2 right base
-Runways:FKKD 12-30:extended centerline 2 right ticks
-Runways:FKKD 12-30:extended centerline 2 right vectoring
-Runways:FKKD 12-30:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -52,5 +29,6 @@ SIMULATION_MODE:1
 DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:0.00000
-TAGFAMILY:AC-TopSky
+TAGFAMILY:WAF TopSky
 WINDOWAREA:2.749919:6.323114:5.273414:13.093552
+PLUGIN:TopSky plugin:ShowMapData:FCCC,FKKD-APP

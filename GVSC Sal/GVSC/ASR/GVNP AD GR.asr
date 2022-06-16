@@ -2,27 +2,20 @@
 //                 ACCWAF | FIR GVSC | ASR | GVNP AD GR
 // ##################################################################
 
-// Version v0.3
-// Update Date 02/05/2022
+// Version v0.4
+// Update Date 01/06/2022
 
 // Changelog
-// v0.0.1 | GVNP AD GR Initial Setup
-// v0.0.2 | GVNP Region Polygons Included
-// v0.3 | Small Changes to ASR View and Orientation
+// v0.4 | Small Code Changes
 
 
 // ##################################################################
 //                 SETTINGS
 // ##################################################################
 
-
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Geo:GEO:
-Geo:GO Landmark Coast:
-Geo:GV Landmark Coast:
-Geo:GV MRVA:
 Geo:GVNP Groundlayout:
 Regions:GVNP Ground Layout:polygon
 SHOWC:1
@@ -37,10 +30,11 @@ SIMULATION_MODE:2
 DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:68.00000
-TAGFAMILY:AC-TopSky
+TAGFAMILY:WAF TopSky
 WINDOWAREA:14.936151:-23.497657:14.948050:-23.475204
 PLUGIN:Ground Radar plugin:AirportElevation:324
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:GVNP
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:GVNP
+PLUGIN:TopSky plugin:HideMapData:GVSC

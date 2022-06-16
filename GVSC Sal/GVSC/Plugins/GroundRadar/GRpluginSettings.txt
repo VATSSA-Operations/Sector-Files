@@ -203,7 +203,6 @@ List_Stand_Items=20
 //                 AIRPORT SETTINGS
 // ##################################################################
 
-
 // ##################################################################
 //                 GV AIRPORT SETTINGS
 // ##################################################################
@@ -212,7 +211,7 @@ List_Stand_Items=20
 Airport_Elevation=184
 Airport_Radius=3
 
-Window_APP=1,1260,340,600,300
+Window_APP=1,1300,350,500,250
 Window_APP_Rotation=90
 Window_APP_Scale=20
 Window_APP_Extensions=1
@@ -224,7 +223,7 @@ AppPath=GVAC:GVAC 01:N016.43.27.88:W022.56.56.02:011:L:184:3.0
 Airport_Elevation=91
 Airport_Radius=3
 
-Window_APP=1,950,400,600,300
+Window_APP=1,1100,500,500,250
 Window_APP_Rotation=73.6
 Window_APP_Scale=15
 Window_APP_Extensions=1
@@ -234,7 +233,7 @@ Window_APP_AltFilter=5000
 Airport_Elevation=324
 Airport_Radius=3
 
-Window_APP=1,300,350,600,300
+Window_APP=1,750,735,500,250
 Window_APP_Rotation=68
 Window_APP_Scale=20
 Window_APP_Extensions=1
@@ -244,8 +243,13 @@ Window_APP_AltFilter=5000
 Airport_Elevation=101
 Airport_Radius=3
 
-Window_APP=1,1300,350,600,300
+Window_APP=1,1350,400,500,250
 Window_APP_Rotation=37
 Window_APP_Scale=15
 Window_APP_Extensions=1
 Window_APP_AltFilter=5000
+
+
+// ##################################################################
+//                 END
+// ##################################################################

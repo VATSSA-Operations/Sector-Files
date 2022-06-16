@@ -20,7 +20,7 @@ GROUP:StarAlliance:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:S
 GROUP:OneWorld:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
 GROUP:SkyTeam:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
 GROUP:Charter:TOM
-GROUP:Cargo:BOX:CAO:GEC
+GROUP:Cargo:BOX:CAO:GEC:FDX:UPS
 
 
 // ##################################################################
@@ -209,3 +209,8 @@ STAND:GVSV:6:N016.50.05.81:W025.03.27.70:20
 
 // Stand 7
 STAND:GVSV:7:N016.50.04.87:W025.03.29.19:20
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

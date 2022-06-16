@@ -2,7 +2,7 @@
 //                 ACCWAF | FIR GVSC | TopSky | Settings
 // ##################################################################
 
-// Version v0.0.3
+// Version v0.5
 // Update Date 22/04/2022
 
 // Changelog
@@ -11,7 +11,7 @@
 // v0.0.3 | Category Fixes
 
 // ##################################################################
-//                   System Wide Settings
+//                 #1 SYSTEM SETTINGS v0.2
 // ##################################################################
 
 Setup_COOPANS=1
@@ -23,7 +23,7 @@ System_GUI_Font_1_Size=13
 
 
 // ##################################################################
-//                   Colour Settings
+//                 #2 COLORS v0.1
 // ##################################################################
 
 Color_Active_Map_Type_1=120,0,0
@@ -122,7 +122,6 @@ Color_Urgency_FL=225,25,25
 Color_VAW_Profile=152,202,172
 Color_VAW_Sector_Limits=145,95,30
 Color_VAW_Track_Position=219,219,219
-Color_VFR=150,150,150
 Color_Warning=255,100,50
 Color_Warning_FL=255,100,50
 Color_WM_Active_Fg=255,254,254
@@ -137,18 +136,59 @@ Color_Weather_Map=207,128,238
 
 
 // ##################################################################
-//                   Visual Settings
+//                 #3 VISUAL v0.2
 // ##################################################################
 
-Window_CPDLC_Current=1,0,750
-Window_QNHTL=1,1745,46
-Window_LFUNCFP=1,1745,215
-Window_WxMsgs=0,1400,46,340,180
-Window_PrimFreqMsg=0,0,1745,300,150
+Window_WxMsgs=1,1460,46,438,200
+
+Window_QNHTL=1,1728,250
+Window_LFUNCFP=1,1728,420
+
+Window_CPDLC_Setting=1,1300,650
+Window_ATCmsg=1,1460,650,438,120
+Window_PrimFreqMsg=1,1460,775,438,120
+Window_CPDLC_Current=1,1460,900
 
 
 // ##################################################################
-//                   CPDLC Settings
+//                 #4 TRACK v0.1
+// ##################################################################
+
+Track_HistoryDots=6
+Track_PredictionLine=1
+Track_DivergenceSymbol_Size=8
+
+
+// ##################################################################
+//                 #5 VECTORS v0.1
+// ##################################################################
+
+Vector_AHDG_FontSize=10
+Vector_AHDG_Label_Dist=1
+Vector_QDM_FontSize=10
+Vector_QDM_MaxNumber=12
+Vector_QDM_Airports=0
+Vector_MinSep_FontSize=10
+Vector_MinSep_Label_Time=1
+
+
+// ##################################################################
+//                 #6 HOLDINGS v0.1
+// ##################################################################
+
+Window_HoldList_MaxListItems=10
+Window_HoldList_Plugin=1
+Window_SM_AppHoldTime=5
+Window_SM_LeaveHoldBay=1
+Window_SM_LeaveHoldTime=10
+
+Malrt_Misap=MAPP
+Malrt_Inbound_EST=EST
+Malrt_Irregular=IRR
+
+
+// ##################################################################
+//                 #7 CPDLC v0.1
 // ##################################################################
 
 CPDLC_Default=1
@@ -173,25 +213,28 @@ CPDLC_FSM_CDA_Fail_Unable=CONTACT ATC BY VOICE @REFUSE NOT SUPPORTED BY DATALINK
 
 
 // ##################################################################
-//                   Holding Settings
-// ##################################################################
-
-Window_HoldList_MaxListItems=10
-Window_HoldList_Plugin=1
-Window_SM_AppHoldTime=5
-Window_SM_LeaveHoldBay=1
-Window_SM_LeaveHoldTime=10
-
-// ##################################################################
-//                   Radio Direction Finder Settings
+//                 #8 RDF v0.1
 // ##################################################################
 
 RDF_Mode=2
 RDF_Accuracy=5
 RDF_Floor=2500
 
-// NAT Track Information
-HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
+
+// ##################################################################
+//                 #9 RWY APP LINES v0.1
+// ##################################################################
+
+Color_Rwy_App_Line_Inuse=0,145,255
+RwyAppLines_Length=15
+RwyAppLines_Markers=3
+RwyAppLines_MarkerSpacing=5
+RwyAppLines_Auto=1
+
+
+// ##################################################################
+//                 #10 WX SERVER SETTINGS v0.1
+// ##################################################################
 
 // MET Settings (METAR, TAF & SIGMET)
 HTTP_METAR_Server=https://aviationweather.gov/
@@ -211,6 +254,11 @@ HTTP_SIGMET_Page_Prefix=data/iffdp/
 HTTP_SIGMET_Pages=6448
 HTTP_SIGMET_Page_Suffix=.txt
 
+
+// NAT Track Information
+HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
+
+
 // ##################################################################
 //                   Weather Radar Settings
 // ##################################################################
@@ -227,17 +275,9 @@ WXR_Echo_dBZ_Hi=20
 WXR_Echo_dBZ_Med=15
 WXR_Echo_dBZ_Lo=12
 
-// ##################################################################
-//                   Runway Approach Lines
-// ##################################################################
-
-RwyAppLines_Length=20
-RwyAppLines_Markers=5
-RwyAppLines_MarkerSpacing=2
-RwyAppLines_Auto=0
 
 // ##################################################################
-//                   Airspace
+//                   CUSTOM
 // ##################################################################
 
 Airspace_ASSR_Type=0
@@ -246,7 +286,7 @@ Airspace_NOTAM_Add=GVSC,GVAC,GVBA,GVNP,GVSV
 Airspace_NOTAM_Remove=GOOO,GDGG,GDGS,GDTT,GDPP
 Airspace_SIGMET_Areas=GVSC
 
-[GVSC_]
+[GVSC_APP]
 Airspace_NOTAM_Add=GVSC,GVAC,GVBA,GVNP,GVSV
 Airspace_NOTAM_Remove=GO,GQ
 Airspace_SIGMET_Areas=GVSC

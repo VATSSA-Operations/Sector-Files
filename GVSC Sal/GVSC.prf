@@ -30,4 +30,4 @@ ASRFastKeys	1	\GVSC\ASR\1_CTR.asr
 ASRFastKeys	2	\GVSC\ASR\2_APP.asr
 ASRFastKeys	3	\GVSC\ASR\3_TWR.asr
 Plugins	Plugin0	\GVSC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
-Settings	sector	\GVSC-Package_20220520084149-220501-0002.sct
+Settings	sector	\GVSC-Package_20220616130722-220601-0001.sct

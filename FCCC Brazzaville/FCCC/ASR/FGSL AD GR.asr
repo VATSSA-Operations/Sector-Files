@@ -39,7 +39,6 @@ Free Text:FGSL Taxiways and Aprons\Military Twy:freetext
 Free Text:FGSL Taxiways and Aprons\Presidential Apron:freetext
 Free Text:FGSL Taxiways and Aprons\Presidential Terminal:freetext
 Free Text:FGSL Taxiways and Aprons\Terminal:freetext
-Geo:FG Landmark Coast:
 Geo:FGSL Groundlayout Malabo:
 SHOWC:1
 SHOWSB:1
@@ -53,7 +52,7 @@ SIMULATION_MODE:2
 DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:48.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:WAF TopSky
 WINDOWAREA:3.747872:8.691516:3.765462:8.723490
 PLUGIN:Ground Radar plugin:AirportElevation:33
 PLUGIN:Ground Radar plugin:AirportRadius:3

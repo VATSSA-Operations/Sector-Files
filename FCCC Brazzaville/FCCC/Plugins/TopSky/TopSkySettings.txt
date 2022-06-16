@@ -10,18 +10,18 @@
 
 
 // ##################################################################
-//                 System Wide Settings
+//                 #1 SYSTEM SETTINGS v0.1
 // ##################################################################
 
-Setup_COOPANS=1
-System_MetarSourceVATSIM=0
+System_MetarSourceVATSIM=1
 System_QNHTL_ForceMetarSourceVATSIM=1
 System_UseMouseWheel=1
 
-System_GUI_Font_1_Size=15
+System_GUI_Font_1_Size=13
+
 
 // ##################################################################
-//                 Colour Settings
+//                 #2 COLORS v0.1
 // ##################################################################
 
 Color_Active_Map_Type_1=120,0,0
@@ -132,18 +132,63 @@ Color_Proposition_In=0,128,125
 Color_Proposition_Out=0,64,128
 Color_Weather_Map=207,128,238
 
-// ##################################################################
-//                   Visual Settings
-// ##################################################################
-
-Window_CPDLC_Current=1,0,750
-Window_QNHTL=1,1745,46
-Window_LFUNCFP=1,1745,206
-Window_WxMsgs=0,1400,46,340,180
-Window_PrimFreqMsg=0,0,1745,300,150
 
 // ##################################################################
-//                   CPDLC Settings
+//                 VISUAL v0.1
+// ##################################################################
+
+
+//Window_CPDLC_Current=1,0,750
+//Window_QNHTL=1,1745,46
+//Window_LFUNCFP=1,1745,215
+//Window_WxMsgs=0,1400,46,340,180
+//Window_PrimFreqMsg=0,0,1745,300,150
+
+Window_CPDLC_Current=1,1510,630
+Window_CPDLC_Setting=1,1300,710
+Window_ATCmsg=1,1460,710,438,120
+Window_PrimFreqMsg=1,1460,840,438,120
+
+
+// ##################################################################
+//                 #4 TRACK v0.1
+// ##################################################################
+
+Track_HistoryDots=6
+Track_PredictionLine=1
+Track_DivergenceSymbol_Size=8
+
+
+// ##################################################################
+//                 #5 VECTORS v0.1
+// ##################################################################
+
+Vector_AHDG_FontSize=10
+Vector_AHDG_Label_Dist=1
+Vector_QDM_FontSize=10
+Vector_QDM_MaxNumber=12
+Vector_QDM_Airports=0
+Vector_MinSep_FontSize=10
+Vector_MinSep_Label_Time=1
+
+
+// ##################################################################
+//                 #6 HOLDINGS v0.1
+// ##################################################################
+
+Window_HoldList_MaxListItems=10
+Window_HoldList_Plugin=1
+Window_SM_AppHoldTime=5
+Window_SM_LeaveHoldBay=1
+Window_SM_LeaveHoldTime=10
+
+Malrt_Misap=MAPP
+Malrt_Inbound_EST=EST
+Malrt_Irregular=IRR
+
+
+// ##################################################################
+//                 #7 CPDLC v0.1
 // ##################################################################
 
 CPDLC_Default=1
@@ -166,15 +211,6 @@ CPDLC_FSM_CDA=CDA RECEIVED @CLEARANCE CONFIRMED
 CPDLC_FSM_CDA_Fail_NoAck=ACK NOT RECEIVED @CLEARANCE CANCELLED @REVERT TO VOICE PROCEDURES
 CPDLC_FSM_CDA_Fail_Unable=CONTACT ATC BY VOICE @REFUSE NOT SUPPORTED BY DATALINK
 
-// ##################################################################
-//                   Holding Settings
-// ##################################################################
-
-Window_HoldList_MaxListItems=10
-Window_HoldList_Plugin=1
-Window_SM_AppHoldTime=5
-Window_SM_LeaveHoldBay=1
-Window_SM_LeaveHoldTime=10
 
 // ##################################################################
 //                   Radio Direction Finder Settings
@@ -221,14 +257,17 @@ WXR_Echo_dBZ_Hi=20
 WXR_Echo_dBZ_Med=15
 WXR_Echo_dBZ_Lo=12 
 
+
 // ##################################################################
 //                   Runway Approach Lines
 // ##################################################################
 
-RwyAppLines_Length=20
-RwyAppLines_Markers=5
-RwyAppLines_MarkerSpacing=2
-RwyAppLines_Auto=0
+Color_Rwy_App_Line_Inuse=0,145,255
+RwyAppLines_Length=15
+RwyAppLines_Markers=3
+RwyAppLines_MarkerSpacing=5
+RwyAppLines_Auto=1
+
 
 // ##################################################################
 //                   Airspace

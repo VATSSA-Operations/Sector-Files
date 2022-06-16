@@ -25,11 +25,11 @@ System_GUI_Scale_Tracks=1
 System_GUI_Scale_Windows=1
 
 /AUTO RWY APP LINES
-RwyAppLines_Auto=0
-RwyAppLines_Length=1
+Color_Rwy_App_Line_Inuse=0,145,255
+RwyAppLines_Length=15
 RwyAppLines_Markers=3
 RwyAppLines_MarkerSpacing=5
-Color_Rwy_App_Line_Inuse=110,110,110
+RwyAppLines_Auto=1
 
 /TAG SETUP
 Label_All_CRC=1

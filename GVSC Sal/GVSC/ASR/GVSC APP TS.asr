@@ -2,12 +2,11 @@
 //                 ACCWAF | FIR GVSC | ASR | TMA Sal TS
 // ##################################################################
 
-// Version 0.0.2
-// Update Date 22/04/2022
+// Version v0.4
+// Update Date 01/06/2022
 
 // Changelog
-// v0.0.1 | TMA Sal TopSky Initial Setup
-// v0.0.2 | GVAC, GVBA, GVNP, GVSV Region Polygons Included
+// v0.4 | Small Code Changes
 
 
 // ##################################################################
@@ -17,92 +16,17 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:GVSC-TMA:
-ARTCC high boundary:GVSC:
-ARTCC low boundary:GVAC-ATZ:
-ARTCC low boundary:GVBA-ATZ:
-ARTCC low boundary:GVNP-CTR:
-ARTCC low boundary:GVSV-CTR:
-Free Text:GV MSA\1700:freetext
-Free Text:GV MSA\2000:freetext
-Free Text:GV MSA\2500:freetext
-Free Text:GV MSA\2500:freetext
-Free Text:GV MSA\2500:freetext
-Free Text:GV MSA\2500:freetext
-Free Text:GV MSA\3400:freetext
-Free Text:GV MSA\3900:freetext
-Free Text:GV MSA\4600:freetext
-Free Text:GV MSA\6600:freetext
-Free Text:GV MSA\8500:freetext
-Free Text:GVAC Ground Labels\A1:freetext
-Free Text:GVAC Ground Labels\A2:freetext
-Free Text:GVAC Ground Labels\A3:freetext
-Free Text:GVAC Ground Labels\A4:freetext
-Free Text:GVAC Ground Labels\B:freetext
-Free Text:GVAC Ground Labels\C:freetext
-Free Text:GVAC Ground Labels\D:freetext
-Free Text:GVAC Ground Labels\E:freetext
-Free Text:GVAC Ground Labels\F:freetext
-Free Text:GVAC Ground Labels\Stand 1:freetext
-Free Text:GVAC Ground Labels\Stand 2:freetext
-Free Text:GVAC Ground Labels\Stand 3:freetext
-Free Text:GVAC Ground Labels\Stand 4:freetext
-Free Text:GVAC Ground Labels\Stand 5:freetext
-Free Text:GVAC Ground Labels\Stand 6:freetext
-Free Text:GVAC Ground Labels\Stand 7:freetext
-Free Text:GVAC Ground Labels\Terminal:freetext
-Free Text:GVAC Ground Labels\Tower:freetext
-Free Text:GVBA Ground Labels\1/1A:freetext
-Free Text:GVBA Ground Labels\2/2A/2B:freetext
-Free Text:GVBA Ground Labels\3/3A:freetext
-Free Text:GVBA Ground Labels\4:freetext
-Free Text:GVBA Ground Labels\5:freetext
-Free Text:GVBA Ground Labels\A:freetext
-Free Text:GVBA Ground Labels\Apron C:freetext
-Free Text:GVBA Ground Labels\B:freetext
-Free Text:GVBA Ground Labels\Terminal:freetext
-Free Text:GVNP Ground Labels\A:freetext
-Free Text:GVNP Ground Labels\B:freetext
-Free Text:GVNP Ground Labels\C:freetext
-Free Text:GVNP Ground Labels\Cargo:freetext
-Free Text:GVNP Ground Labels\Fire Station:freetext
-Free Text:GVNP Ground Labels\Stand 1:freetext
-Free Text:GVNP Ground Labels\Stand 2:freetext
-Free Text:GVNP Ground Labels\Stand 3:freetext
-Free Text:GVNP Ground Labels\Stand 4:freetext
-Free Text:GVNP Ground Labels\Stand 5:freetext
-Free Text:GVNP Ground Labels\Stand 6:freetext
-Free Text:GVNP Ground Labels\Stand 7/7A:freetext
-Free Text:GVNP Ground Labels\Stand 8/8A:freetext
-Free Text:GVNP Ground Labels\Terminal:freetext
-Free Text:GVSV Ground Labels\A:freetext
-Free Text:GVSV Ground Labels\B:freetext
-Free Text:GVSV Ground Labels\C:freetext
-Free Text:GVSV Ground Labels\C:freetext
-Free Text:GVSV Ground Labels\Stand 1:freetext
-Free Text:GVSV Ground Labels\Stand 2:freetext
-Free Text:GVSV Ground Labels\Stand 3:freetext
-Free Text:GVSV Ground Labels\Stand 4:freetext
-Free Text:GVSV Ground Labels\Stand 5:freetext
-Free Text:GVSV Ground Labels\Stand 6:freetext
-Free Text:GVSV Ground Labels\Stand 7:freetext
-Free Text:GVSV Ground Labels\Terminal:freetext
-Geo:GEO:
-Geo:GV Landmark Coast:
-Geo:GV MRVA:
 Geo:GVAC Groundlayout:
 Geo:GVBA Groundlayout:
 Geo:GVMA Groundlayout:
 Geo:GVNP Groundlayout:
 Geo:GVSF Groundlayout:
-Geo:GVSN Groundlayout:
 Geo:GVSV Groundlayout:
 Regions:GVAC Ground Layout:polygon
 Regions:GVBA Ground Layout:polygon
 Regions:GVMA Ground Layout:polygon
 Regions:GVNP Ground Layout:polygon
 Regions:GVSF Ground Layout:polygon
-Regions:GVSN Ground Layout:polygon
 Regions:GVSV Ground Layout:polygon
 SHOWC:1
 SHOWSB:1
@@ -116,5 +40,6 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:AC-TopSky
+TAGFAMILY:WAF TopSky
 WINDOWAREA:13.541560:-27.618657:17.515203:-20.120810
+PLUGIN:TopSky plugin:ShowMapData:GVSC-APP
