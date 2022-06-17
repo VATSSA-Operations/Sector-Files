@@ -29,5 +29,11 @@ Settings	sector	\FQBE-Package_20220616134757-220601-0001.sct
 Plugins	Plugin0	\FQBE\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\FQBE\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1	\FQBE\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FQBE\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FQBE\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display

@@ -23,11 +23,15 @@ RecentFiles	Recent1	\FMMM\ASR\1_CTR.asr
 ASRFastKeys	1	\FMMM\ASR\1_CTR.asr
 ASRFastKeys	2	\FMMM\ASR\2_APP.asr
 ASRFastKeys	3	\FMMM\ASR\3_TWR.asr
-Plugins	Plugin2	\FMMM\Plugins\Topsky\TopSky.dll
-Plugins	Plugin2Display0	Standard ES radar screen
 Settings	sector	\FMMM-Package_20220616142849-220601-0001.sct
 Plugins	Plugin0	\FMMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\FMMM\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1	\FMMM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FMMM\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FMMM\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
