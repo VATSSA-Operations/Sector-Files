@@ -19,15 +19,13 @@ Settings	airports	\GVSC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\GVSC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\GVSC\NavData\airway.txt
 Settings	airportcoords	\GVSC\NavData\icao.txt
-LastSession	atis_airport	GVCA
-LastSession	atis2	$radioname
-LastSession	atis3	Welcome to Cabo Verde FIR, part of Sub Saharan Africa Division
-LastSession	atis4	Visit us on vatssa.com
 RecentFiles	Recent1	\GVSC\ASR\1_CTR.asr
 RecentFiles	Recent2	\GVSC\ASR\2_APP.asr
 RecentFiles	Recent3	\GVSC\ASR\3_TWR.asr
 ASRFastKeys	1	\GVSC\ASR\1_CTR.asr
 ASRFastKeys	2	\GVSC\ASR\2_APP.asr
 ASRFastKeys	3	\GVSC\ASR\3_TWR.asr
-Plugins	Plugin0	\GVSC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Settings	sector	\GVSC-Package_20220616130722-220601-0001.sct
+Plugins	Plugin0	\GVSC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display

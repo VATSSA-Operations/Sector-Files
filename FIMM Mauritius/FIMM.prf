@@ -19,34 +19,23 @@ Settings	airports	\FIMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FIMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FIMM\NavData\airway.txt
 Settings	airportcoords	\FIMM\NavData\icao.txt
-LastSession	atis_airport	FIMP
-LastSession	atis2	$radioname
-LastSession	atis3	Welcome to Mauritius, part of Sub-Saharan Africa (SSA)
-LastSession	atis4	Covering FIMM, top down, where no local ATC available
 RecentFiles	Recent1	\FIMM\ASR\FIMM_CTR.asr
 RecentFiles	Recent2	\FIMM\ASR\FIMP_TWR.asr
 ASRFastKeys	1	\FIMM\ASR\FIMM_CTR.asr
 ASRFastKeys	2	\FIMM\ASR\FIMP_TWR.asr
 ASRFastKeys	3	\FIMM\ASR\FIMR_TWR.asr
 ASRFastKeys	4	\FIMM\ASR\FJDG_TWR.asr
-Plugins	Plugin0	\FIMM\Plugins\GRplugin.dll
-Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin2	\FIMM\Plugins\GRplugin.dll
+Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin1	\FIMM\Plugins\Topsky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-TeamSpeakVccs	TsVccsMiniControlX	1706
-TeamSpeakVccs	TsVccsMiniControlY	42
-Settings	AselKey	5111808
-Settings	FreqKey	3604480
 Settings	SettingsfileORIGPLANE	\FIMM\Settings\General.txt
 Settings	SettingsfileSTUP	\FIMM\Settings\General.txt
 Settings	SettingsfileTAXIOUT	\FIMM\Settings\General.txt
 Settings	SettingsfileTAKEOFF	\FIMM\Settings\General.txt
 Settings	SettingsfileADCS	\FIMM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\FIMM\Settings\General.txt
-Plugins	Plugin2	\FIMM\Plugins\AfvEuroScopeBridge.dll
-Plugins	Plugin2Display0	Standard ES radar screen
-TeamSpeakVccs	Ts3DialogLeft	0
-TeamSpeakVccs	Ts3DialogTop	0
-TeamSpeakVccs	Ts3DialogRight	750
-TeamSpeakVccs	Ts3DialogBottom	600
 Settings	sector	\FIMM-Package_20220616142803-220601-0001.sct
+Plugins	Plugin0	\FIMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display

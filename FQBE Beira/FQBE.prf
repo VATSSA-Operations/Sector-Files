@@ -19,15 +19,13 @@ Settings	airports	\FQBE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FQBE\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FQBE\NavData\airway.txt
 Settings	airportcoords	\FQBE\NavData\icao.txt
-LastSession	atis_airport	FQBR
-LastSession	atis2	$radioname
-LastSession	atis3	Welcome to Mozambique part of Sub-Saharan Africa Division (SSA)
-LastSession	atis4	Visit us at vatssa.com
 RecentFiles	Recent1	\FQBE\ASR\1_CTR.asr
 RecentFiles	Recent2	\FQBE\ASR\2_APP.asr
 RecentFiles	Recent3	\FQBE\ASR\3_TWR.asr
 ASRFastKeys	1	\FQBE\ASR\1_CTR.asr
 ASRFastKeys	2	\FQBE\ASR\2_APP.asr
 ASRFastKeys	3	\FQBE\ASR\3_TWR.asr
-Plugins	Plugin0	\FQBE\Plugins\AfvEuroScopeBridge.dll
 Settings	sector	\FQBE-Package_20220616134757-220601-0001.sct
+Plugins	Plugin0	\FQBE\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display

@@ -49,6 +49,8 @@ ASRFastKeys	1	\FCCC\ASR\FPST AD GR.asr
 ASRFastKeys	1	\FCCC\ASR\FPST APP TS.asr
 Settings	sector	\FCCC-Install-Package_20220616141340-220601-0001.sct
 Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1	\FCCC\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2	\FCCC\Plugins\TopSky\TopSky.dll

@@ -38,6 +38,8 @@ ASRFastKeys	1	\DGAC\ASR\DGAA APP TS.asr
 ASRFastKeys	1	\DGAC\ASR\DXXX APP TS.asr
 Settings	sector	\DGAC-Package_20220616153447-220601-0001.sct
 Plugins	Plugin0	\DGAC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1	\DGAC\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2	\DGAC\Plugins\TopSky\TopSky.dll
