@@ -26,10 +26,14 @@ ASRFastKeys	1	\HTDC\ASR\1_CTR.asr
 ASRFastKeys	2	\HTDC\ASR\2_APP.asr
 ASRFastKeys	3	\HTDC\ASR\3_TWR.asr
 Settings	sector	\HTDC-Package_20220616140227-220601-0001.sct
-Plugins	Plugin2	\HTDC\Plugins\TopSky.dll
-Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin0	\HTDC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\HTDC\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1	\HTDC\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\HTDC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\HTDC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display

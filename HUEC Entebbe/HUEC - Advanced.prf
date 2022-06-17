@@ -31,11 +31,14 @@ ASRFastKeys	1	\HUEC\ASR\1_CTR.asr
 ASRFastKeys	2	\HUEC\ASR\2_APP.asr
 ASRFastKeys	3	\HUEC\ASR\3_TWR.asr
 Settings	sector	\HUEC-Package_20220616135815-220601-0001.sct
-Plugins	Plugin4	\HUEC\Plugins\TopSky.dll
-Plugins	Plugin4Display0	Ground Radar display
-Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin0	\HUEC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\HUEC\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1	\HUEC\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\HUEC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\HUEC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
