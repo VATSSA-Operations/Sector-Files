@@ -1,0 +1,33 @@
+Settings	SettingsfileSYMBOLOGY	\FLFI\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FLFI\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FLFI\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FLFI\Settings\Tags.txt
+Settings	SettingsfileSIL	\FLFI\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FLFI\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FLFI\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FLFI\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FLFI\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FLFI\Settings\Plugins.txt
+Settings	Settingsfile	\FLFI\Settings\General.txt
+Settings	SettingsfileSCREEN	\FLFI\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FLFI\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FLFI\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FLFI\Settings\PilotingList.txt
+Settings	alias	\FLFI\Alias\alias.txt
+Settings	airlines	\FLFI\ICAO\ICAO_Airlines.txt
+Settings	airports	\FLFI\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FLFI\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FLFI\NavData\airway.txt
+Settings	airportcoords	\FLFI\NavData\icao.txt
+RecentFiles	Recent1	\FLFI\ASR\1_CTR.asr
+RecentFiles	Recent2	\FLFI\ASR\2_APP.asr
+RecentFiles	Recent3	\FLFI\ASR\3_TWR.asr
+ASRFastKeys	1	\FLFI\ASR\1_CTR.asr
+ASRFastKeys	2	\FLFI\ASR\2_APP.asr
+ASRFastKeys	3	\FLFI\ASR\3_TWR.asr
+Settings	sector	\FLFI-Package_20220616134408-220601-0001.sct
+Plugins	Plugin0	\FLFI\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FLFI\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display

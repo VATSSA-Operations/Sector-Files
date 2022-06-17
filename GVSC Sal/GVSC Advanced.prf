@@ -32,17 +32,18 @@ ASRFastKeys	1	\GVSC\ASR\GVSV AD GR.asr
 Settings	sector	\GVSC-Package_20220616130722-220601-0001.sct
 Plugins	Plugin0	\GVSC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	Ground Radar displayPlugins	Plugin1	\GVSC\Plugins\EasyTag\EasyTag.dll
-Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\GVSC\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin4	\GVSC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin2	\GVSC\Plugins\ESTimers\ESTimers.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3	\GVSC\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
-Plugins	Plugin4	\GVSC\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin5	\GVSC\Plugins\PushbackFlorian\PushbackFlorian.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen

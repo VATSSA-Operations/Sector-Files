@@ -1,0 +1,33 @@
+Settings	SettingsfileSYMBOLOGY	\FVHF\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FVHF\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FVHF\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FVHF\Settings\Tags.txt
+Settings	SettingsfileSIL	\FVHF\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FVHF\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FVHF\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FVHF\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FVHF\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FVHF\Settings\Plugins.txt
+Settings	Settingsfile	\FVHF\Settings\General.txt
+Settings	SettingsfileSCREEN	\FVHF\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FVHF\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FVHF\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FVHF\Settings\PilotingList.txt
+Settings	alias	\FVHF\Alias\alias.txt
+Settings	airlines	\FVHF\ICAO\ICAO_Airlines.txt
+Settings	airports	\FVHF\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FVHF\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FVHF\NavData\airway.txt
+Settings	airportcoords	\FVHF\NavData\icao.txt
+RecentFiles	Recent1	\FVHF\ASR\1_CTR.asr
+RecentFiles	Recent2	\FVHF\ASR\2_APP.asr
+RecentFiles	Recent3	\FVHF\ASR\3_TWR.asr
+ASRFastKeys	1	\FVHF\ASR\1_CTR.asr
+ASRFastKeys	2	\FVHF\ASR\2_APP.asr
+ASRFastKeys	3	\FVHF\ASR\3_TWR.asr
+Settings	sector	\FVHF-Package_20220616143050-220601-0001.sct
+Plugins	Plugin0	\FVHF\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FVHF\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display

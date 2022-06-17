@@ -1,0 +1,33 @@
+Settings	SettingsfileSYMBOLOGY	\FQBE\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FQBE\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FQBE\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FQBE\Settings\Tags.txt
+Settings	SettingsfileSIL	\FQBE\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FQBE\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FQBE\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FQBE\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FQBE\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FQBE\Settings\Plugins.txt
+Settings	Settingsfile	\FQBE\Settings\General.txt
+Settings	SettingsfileSCREEN	\FQBE\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FQBE\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FQBE\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FQBE\Settings\PilotingList.txt
+Settings	alias	\FQBE\Alias\alias.txt
+Settings	airlines	\FQBE\ICAO\ICAO_Airlines.txt
+Settings	airports	\FQBE\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FQBE\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FQBE\NavData\airway.txt
+Settings	airportcoords	\FQBE\NavData\icao.txt
+RecentFiles	Recent1	\FQBE\ASR\1_CTR.asr
+RecentFiles	Recent2	\FQBE\ASR\2_APP.asr
+RecentFiles	Recent3	\FQBE\ASR\3_TWR.asr
+ASRFastKeys	1	\FQBE\ASR\1_CTR.asr
+ASRFastKeys	2	\FQBE\ASR\2_APP.asr
+ASRFastKeys	3	\FQBE\ASR\3_TWR.asr
+Settings	sector	\FQBE-Package_20220616134757-220601-0001.sct
+Plugins	Plugin0	\FQBE\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FQBE\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
