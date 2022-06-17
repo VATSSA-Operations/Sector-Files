@@ -34,6 +34,8 @@ ASRFastKeys	1	\GOOO\ASR\GLRB AD GR.asr
 ASRFastKeys	1	\GOOO\ASR\GOBD APP TS.asr
 ASRFastKeys	1	\GOOO\ASR\GOBD AD GR.asr
 Plugins	Plugin0	\GOOO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1	\GOOO\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2	\GOOO\Plugins\TopSky\TopSky.dll

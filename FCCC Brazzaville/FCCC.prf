@@ -25,9 +25,7 @@ RecentFiles	Recent3	\FCCC\ASR\3_TWR.asr
 ASRFastKeys	1	\FCCC\ASR\1_CTR.asr
 ASRFastKeys	2	\FCCC\ASR\2_APP.asr
 ASRFastKeys	3	\FCCC\ASR\3_TWR.asr
-Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
-TeamSpeakVccs	TsVccsMiniControlX	10
-TeamSpeakVccs	TsVccsMiniControlY	925
-Settings	AselKey	5111808
-Settings	FreqKey	3604480
 Settings	sector	\FCCC-Install-Package_20220616141340-220601-0001.sct
+Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display

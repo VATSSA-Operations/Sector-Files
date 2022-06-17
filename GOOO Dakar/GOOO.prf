@@ -29,5 +29,7 @@ RecentFiles	Recent3	\GOOO\ASR\3_TWR.asr
 ASRFastKeys	1	\GOOO\ASR\1_CTR.asr
 ASRFastKeys	2	\GOOO\ASR\2_APP.asr
 ASRFastKeys	3	\GOOO\ASR\3_TWR.asr
-Plugins	Plugin0	\GOOO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Settings	sector	\GOOO-Package_20220520102412-220501-0001.sct
+Plugins	Plugin0	\GOOO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
