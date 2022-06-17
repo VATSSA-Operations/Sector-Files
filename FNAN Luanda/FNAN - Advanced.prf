@@ -1,0 +1,35 @@
+Settings	SettingsfileSYMBOLOGY	\FNAN\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FNAN\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FNAN\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FNAN\Settings\Tags.txt
+Settings	SettingsfileSIL	\FNAN\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FNAN\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FNAN\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FNAN\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FNAN\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FNAN\Settings\Plugins.txt
+Settings	Settingsfile	\FNAN\Settings\General.txt
+Settings	SettingsfileSCREEN	\FNAN\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FNAN\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FNAN\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FNAN\Settings\PilotingList.txt
+Settings	alias	\FNAN\Alias\alias.txt
+Settings	airlines	\FNAN\ICAO\ICAO_Airlines.txt
+Settings	airports	\FNAN\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FNAN\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FNAN\NavData\airway.txt
+Settings	airportcoords	\FNAN\NavData\icao.txt
+RecentFiles	Recent1	\FNAN\ASR\1_CTR.asr
+RecentFiles	Recent2	\FNAN\ASR\2_APP.asr
+RecentFiles	Recent3	\FNAN\ASR\3_TWR.asr
+ASRFastKeys	1	\FNAN\ASR\1_CTR.asr
+ASRFastKeys	2	\FNAN\ASR\2_APP.asr
+ASRFastKeys	3	\FNAN\ASR\3_TWR.asr
+Plugins	Plugin2	\FNAN\Plugins\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Settings	sector	\FNAN-Package_20220616132857-220601-0001.sct
+Plugins	Plugin0	\FNAN\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FNAN\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display

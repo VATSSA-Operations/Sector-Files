@@ -1,0 +1,41 @@
+Settings	SettingsfileSYMBOLOGY	\FIMM\Settings\Symbols_TS.txt
+Settings	SettingsfileVOICE	\FIMM\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FIMM\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FIMM\Settings\Tags_TS.txt
+Settings	SettingsfileSIL	\FIMM\Settings\Lists_TS.txt
+Settings	SettingsfileSEL	\FIMM\Settings\Lists_TS.txt
+Settings	SettingsfileDEP	\FIMM\Settings\Lists_TS.txt
+Settings	SettingsfileARR	\FIMM\Settings\Lists_TS.txt
+Settings	SettingsfileFP	\FIMM\Settings\Lists_TS.txt
+Settings	SettingsfilePLUGINS	\FIMM\Settings\Plugins.txt
+Settings	Settingsfile	\FIMM\Settings\General.txt
+Settings	SettingsfileSCREEN	\FIMM\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FIMM\Settings\Lists_TS.txt
+Settings	SettingsfileVCCS	\FIMM\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FIMM\Settings\PilotingList.txt
+Settings	alias	\FIMM\Alias\alias.txt
+Settings	airlines	\FIMM\ICAO\ICAO_Airlines.txt
+Settings	airports	\FIMM\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FIMM\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FIMM\NavData\airway.txt
+Settings	airportcoords	\FIMM\NavData\icao.txt
+RecentFiles	Recent1	\FIMM\ASR\FIMM_CTR.asr
+RecentFiles	Recent2	\FIMM\ASR\FIMP_TWR.asr
+ASRFastKeys	1	\FIMM\ASR\FIMM_CTR.asr
+ASRFastKeys	2	\FIMM\ASR\FIMP_TWR.asr
+ASRFastKeys	3	\FIMM\ASR\FIMR_TWR.asr
+ASRFastKeys	4	\FIMM\ASR\FJDG_TWR.asr
+Plugins	Plugin2	\FIMM\Plugins\Topsky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Settings	SettingsfileORIGPLANE	\FIMM\Settings\General.txt
+Settings	SettingsfileSTUP	\FIMM\Settings\General.txt
+Settings	SettingsfileTAXIOUT	\FIMM\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\FIMM\Settings\General.txt
+Settings	SettingsfileADCS	\FIMM\Settings\General.txt
+Settings	SettingsfileTAXIIN	\FIMM\Settings\General.txt
+Settings	sector	\FIMM-Package_20220616142803-220601-0001.sct
+Plugins	Plugin0	\FIMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FIMM\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display

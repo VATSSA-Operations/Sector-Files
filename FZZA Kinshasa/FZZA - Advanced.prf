@@ -1,0 +1,33 @@
+Settings	SettingsfileSYMBOLOGY	\FZZA\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FZZA\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FZZA\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FZZA\Settings\Tags.txt
+Settings	SettingsfileSIL	\FZZA\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FZZA\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FZZA\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FZZA\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FZZA\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FZZA\Settings\Plugins.txt
+Settings	Settingsfile	\FZZA\Settings\General.txt
+Settings	SettingsfileSCREEN	\FZZA\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FZZA\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FZZA\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FZZA\Settings\PilotingList.txt
+Settings	alias	\FZZA\Alias\alias.txt
+Settings	airlines	\FZZA\ICAO\ICAO_Airlines.txt
+Settings	airports	\FZZA\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FZZA\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FZZA\NavData\airway.txt
+Settings	airportcoords	\FZZA\NavData\icao.txt
+RecentFiles	Recent1	\FZZA\ASR\1_CTR.asr
+RecentFiles	Recent2	\FZZA\ASR\2_APP.asr
+RecentFiles	Recent3	\FZZA\ASR\3_TWR.asr
+ASRFastKeys	1	\FZZA\ASR\1_CTR.asr
+ASRFastKeys	2	\FZZA\ASR\2_APP.asr
+ASRFastKeys	3	\FZZA\ASR\3_TWR.asr
+Settings	sector	\FZZA-Install-Package_20220616132106-220601-0001.sct
+Plugins	Plugin0	\FZZA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FZZA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
