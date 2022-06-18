@@ -37,3 +37,6 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3	\FZZA\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin4	\FZZA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
