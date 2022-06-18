@@ -18,12 +18,6 @@ Settings	airlines	\FASA\ICAO\ICAO_Airlines.txt
 Settings	airports	\FASA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FASA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FASA\NavData\airway.txt
-Plugins	Plugin1	\FASA\Plugins\Ground Radar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin2	\FASA\Plugins\Topsky\TopSky.dll
-Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin2Display1	Standard ES radar screen
 RecentFiles	Recent1	\FASA\ASR\1_GEN.asr
 RecentFiles	Recent1	\FASA\ASR\2_TWR.asr
 ASRFastKeys	1	\FASA\ASR\1_GEN.asr
@@ -34,3 +28,9 @@ Settings	sector	\FASA-Package_20220616173902-220601-0001.sct
 Plugins	Plugin0	\FASA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FASA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin2	\FASA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen

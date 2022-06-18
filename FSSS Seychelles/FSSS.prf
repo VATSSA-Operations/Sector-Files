@@ -25,7 +25,7 @@ RecentFiles	Recent3	\FSSS\ASR\3_TWR.asr
 ASRFastKeys	1	\FSSS\ASR\1_CTR.asr
 ASRFastKeys	2	\FSSS\ASR\2_APP.asr
 ASRFastKeys	3	\FSSS\ASR\3_TWR.asr
-Plugins	Plugin1	\FSSS\Plugins\Topsky\TopSky.dll
+Plugins	Plugin1	\FSSS\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Settings	sector	\FSSS-Package_20220616142950-220601-0001.sct
 Plugins	Plugin0	\FSSS\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll

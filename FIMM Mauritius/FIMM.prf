@@ -25,9 +25,9 @@ ASRFastKeys	1	\FIMM\ASR\FIMM_CTR.asr
 ASRFastKeys	2	\FIMM\ASR\FIMP_TWR.asr
 ASRFastKeys	3	\FIMM\ASR\FIMR_TWR.asr
 ASRFastKeys	4	\FIMM\ASR\FJDG_TWR.asr
-Plugins	Plugin2	\FIMM\Plugins\GRplugin.dll
+Plugins	Plugin2	\FIMM\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin1	\FIMM\Plugins\Topsky\TopSky.dll
+Plugins	Plugin1	\FIMM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Settings	SettingsfileORIGPLANE	\FIMM\Settings\General.txt
 Settings	SettingsfileSTUP	\FIMM\Settings\General.txt
