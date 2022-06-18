@@ -1,27 +1,27 @@
-Settings	SettingsfileSYMBOLOGY	\FLFI\Settings\Symbology.txt
+Settings	SettingsfileSYMBOLOGY	\FLFI\Settings\VATSSA_Symbology_Advanced.txt
 Settings	SettingsfileVOICE	\FLFI\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\FLFI\Settings\Profiles.txt
-Settings	SettingsfileTAGS	\FLFI\Settings\Tags.txt
-Settings	SettingsfileSIL	\FLFI\Settings\SectorInboundList.txt
-Settings	SettingsfileSEL	\FLFI\Settings\SectorExitList.txt
-Settings	SettingsfileDEP	\FLFI\Settings\DepartureList.txt
-Settings	SettingsfileARR	\FLFI\Settings\ArrivalList.txt
-Settings	SettingsfileFP	\FLFI\Settings\FPList.txt
-Settings	SettingsfilePLUGINS	\FLFI\Settings\Plugins.txt
-Settings	Settingsfile	\FLFI\Settings\General.txt
-Settings	SettingsfileSCREEN	\FLFI\Settings\Screen.txt
-Settings	SettingsfileCONFLICT	\FLFI\Settings\Conflict.txt
+Settings	SettingsfileTAGS	\FLFI\Settings\VATSSA_Tags_Advanced.txt
+Settings	SettingsfileSIL	\FLFI\Settings\VATSSA_SectorInboundList_Advanced.txt
+Settings	SettingsfileSEL	\FLFI\Settings\VATSSA_SectorExitList_Advanced.txt
+Settings	SettingsfileDEP	\FLFI\Settings\VATSSA_DepartureList_Advanced.txt
+Settings	SettingsfileARR	\FLFI\Settings\VATSSA_ArrivalList_Advanced.txt
+Settings	SettingsfileFP	\FLFI\Settings\VATSSA_FPList_Advanced.txt
+Settings	SettingsfilePLUGINS	\FLFI\Settings\VATSSA_Plugins_Advanced.txt
+Settings	Settingsfile	\FLFI\Settings\VATSSA_General_Advanced.txt
+Settings	SettingsfileSCREEN	\FLFI\Settings\VATSSA_Screen_Advanced.txt
+Settings	SettingsfileCONFLICT	\FLFI\Settings\VATSSA_Conflict_Advanced.txt
 Settings	SettingsfileVCCS	\FLFI\Settings\VCCS.txt
-Settings	SettingsfilePILOTING	\FLFI\Settings\PilotingList.txt
+Settings	SettingsfilePILOTING	\FLFI\Settings\VATSSA_PilotingList_Advanced.txt
 Settings	alias	\FLFI\Alias\alias.txt
 Settings	airlines	\FLFI\ICAO\ICAO_Airlines.txt
 Settings	airports	\FLFI\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FLFI\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FLFI\NavData\airway.txt
 Settings	airportcoords	\FLFI\NavData\icao.txt
-RecentFiles	Recent1	\FLFI\ASR\1_CTR.asr
-RecentFiles	Recent2	\FLFI\ASR\2_APP.asr
-RecentFiles	Recent3	\FLFI\ASR\3_TWR.asr
+RecentFiles	Recent1	\FLFI\ASR\1 FLFI CTR TS.asr
+RecentFiles	Recent2	\FLFI\ASR\FLKK AD GR.asr
+RecentFiles	Recent3	\FLFI\ASR\FLKK APP TS.asr
 ASRFastKeys	1	\FLFI\ASR\1_CTR.asr
 ASRFastKeys	2	\FLFI\ASR\2_APP.asr
 ASRFastKeys	3	\FLFI\ASR\3_TWR.asr
@@ -40,3 +40,26 @@ Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin4	\FLFI\Plugins\TopSky\TopSky.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
+RecentFiles	Recent4	\FLFI\ASR\FLFI_CTR.asr
+LastSession	connecttype	0
+LastSession	callsign	FLKK_APP
+LastSession	realname	810471
+LastSession	certificate	810471
+LastSession	password	728424
+LastSession	facility	5
+LastSession	rating	3
+LastSession	server	AMSTERDAM
+LastSession	tovatsim	1
+LastSession	atis2	Welcome to $radioname
+LastSession	atis3	Part of Sub-Saharan Africa Division (SSA)
+LastSession	atis4	Visit us at vatssa.com
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent5	\FLFI\ASR\1_CTR.asr
+RecentFiles	Recent6	\FLFI\ASR\2_APP.asr
+RecentFiles	Recent7	\FLFI\ASR\3_TWR.asr
+RecentFiles	Recent8	\FLFI\ASR\3_TWR.asr
+RecentFiles	Recent9	\FLFI\ASR\3_TWR.asr
+RecentFiles	Recent10	\FLFI\ASR\3_TWR.asr
+RecentFiles	Recent11	\FLFI\ASR\3_TWR.asr

@@ -1,0 +1,36 @@
+// ##################################################################
+//                 ACCVATSSA | FIR FLFI | ASR | FLKK APP TS
+// ##################################################################
+
+// Version v0.1
+// Update Date 18/06/2022
+
+// Changelog
+// v0.1 | FLKK APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:FLKK Groundlayout Airport real:
+Regions:FLKK Airport Layout curre:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-16.164111:26.898826:-14.497444:30.006396
+PLUGIN:TopSky plugin:ShowMapData:FLKK

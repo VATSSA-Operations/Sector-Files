@@ -1,0 +1,40 @@
+// ##################################################################
+//                 ACCVATSSA | FIR FLFI | ASR | FLKK AD GR
+// ##################################################################
+
+// Version v0.1
+// Update Date 18/06/2022
+
+// Changelog
+// v0.1 | FLKK AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Geo:FLKK Groundlayout Airport real:
+Regions:FLKK Airport Layout curre:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-15.342311:28.422176:-15.312287:28.478157
+PLUGIN:Ground Radar plugin:AirportElevation:3780
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FLKK
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FLKK

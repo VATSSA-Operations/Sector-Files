@@ -1,0 +1,40 @@
+// ##################################################################
+//                 ACCVATSSA | FIR FLFI | ASR | FLFI CTR TS
+// ##################################################################
+
+// Version v0.1
+// Update Date 18/06/2022
+
+// Changelog
+// v0.1 | FLFI CTR TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:FLHN Groundlayout Airport real:
+Geo:FLKK Groundlayout Airport real:
+Geo:FLSK Groundlayout Airport current:
+Regions:FLHN Airport Layout curre:polygon
+Regions:FLKK Airport Layout curre:polygon
+Regions:FLSK Airport Layout currr:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+WINDOWAREA:-24.200000:3.504819:0.997208:50.486076
+TAGFAMILY:VATSSA TopSky
+PLUGIN:TopSky plugin:HideMapData:
+PLUGIN:TopSky plugin:ShowMapData:FLFI
