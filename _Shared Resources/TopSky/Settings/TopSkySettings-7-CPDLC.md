@@ -3,6 +3,7 @@
 // ##################################################################
 
 CPDLC_Default=1
+CPDLC_MinLevel=195
 CPDLC_Server=http://www.hoppie.nl/
 CPDLC_Page=acars/system/connect.html
 CPDLC_PlaySound=1

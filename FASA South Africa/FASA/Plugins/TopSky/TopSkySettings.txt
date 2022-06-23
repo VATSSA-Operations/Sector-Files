@@ -224,7 +224,7 @@ Vector_AHDG_Label_Dir=1
 
 /CPDLC
 CPDLC_Default=1
-CPDLC_MinLevel=145
+CPDLC_MinLevel=195
 CPDLC_PlaySound=1
 CPDLC_CFL=1
 CPDLC_DCT=1
