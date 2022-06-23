@@ -1,0 +1,33 @@
+// ##################################################################
+//                 ACCWAF | FIR FWLL | ASR | FWLL CTR TS
+// ##################################################################
+
+// Version v0.1
+// Update Date 23/06/2022
+
+// Changelog
+// v0.1 | FWLL CTR TS ASR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-18.183720:24.955746:-9.049257:41.958688
+PLUGIN:TopSky plugin:ShowMapData:FWLL

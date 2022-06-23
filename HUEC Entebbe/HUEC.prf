@@ -1,7 +1,7 @@
 Settings	SettingsfileSYMBOLOGY	\HUEC\Settings\ACCRAC_SYMBOLOGY.txt
 Settings	SettingsfileVOICE	\HUEC\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\HUEC\Settings\Profiles.txt
-Settings	SettingsfileTAGS	\HUEC\Settings\VATSSA_TAGS.txt
+Settings	SettingsfileTAGS	\HUEC\Settings\VATSSA_Tags_Prev.txt
 Settings	SettingsfileSIL	\HUEC\Settings\SectorInboundList.txt
 Settings	SettingsfileSEL	\HUEC\Settings\SectorExitList.txt
 Settings	SettingsfileDEP	\HUEC\Settings\DepartureList.txt

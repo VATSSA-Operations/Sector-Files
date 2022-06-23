@@ -1,0 +1,63 @@
+Settings	SettingsfileSYMBOLOGY	\FWLL\Settings\VATSSA_Symbology.txt
+Settings	SettingsfileVOICE	\FWLL\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FWLL\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FWLL\Settings\VATSSA_Tags.txt
+Settings	SettingsfileSIL	\FWLL\Settings\VATSSA_SectorInboundList.txt
+Settings	SettingsfileSEL	\FWLL\Settings\VATSSA_SectorExitList.txt
+Settings	SettingsfileDEP	\FWLL\Settings\VATSSA_DepartureList.txt
+Settings	SettingsfileARR	\FWLL\Settings\VATSSA_ArrivalList.txt
+Settings	SettingsfileFP	\FWLL\Settings\VATSSA_FPList.txt
+Settings	SettingsfilePLUGINS	\FWLL\Settings\VATSSA_Plugins.txt
+Settings	Settingsfile	\FWLL\Settings\VATSSA_General.txt
+Settings	SettingsfileSCREEN	\FWLL\Settings\VATSSA_Screen.txt
+Settings	SettingsfileCONFLICT	\FWLL\Settings\VATSSA_Conflict.txt
+Settings	SettingsfileVCCS	\FWLL\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FWLL\Settings\VATSSA_PilotingList.txt
+Settings	alias	\FWLL\Alias\alias.txt
+Settings	airlines	\FWLL\ICAO\ICAO_Airlines.txt
+Settings	airports	\FWLL\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FWLL\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FWLL\NavData\airway.txt
+Settings	airportcoords	\FWLL\NavData\icao.txt
+RecentFiles	Recent1	\FWLL\ASR\FWKI APP TS.asr
+RecentFiles	Recent2	\FWLL\ASR\1 FWLL CTR TS.asr
+RecentFiles	Recent3	\FWLL\ASR\1_CTR.asr
+ASRFastKeys	1	\FWLL\ASR\1_CTR.asr
+ASRFastKeys	2	\FWLL\ASR\2_APP.asr
+ASRFastKeys	3	\FWLL\ASR\3_TWR.asr
+Settings	sector	\FWLL-Install-Package_20220621111925-220601-0002.sct
+Plugins	Plugin0	\FWLL\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FWLL\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FWLL\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FWLL\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin4	\FWLL\Plugins\TopSky\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	FWKI_APP
+LastSession	realname	810471
+LastSession	certificate	810471
+LastSession	password	728424
+LastSession	facility	5
+LastSession	rating	3
+LastSession	server	AMSTERDAM
+LastSession	tovatsim	1
+LastSession	atis2	Welcome to $radioname
+LastSession	atis3	Part of Sub-Saharan Africa Division (SSA)
+LastSession	atis4	Visit us at vatssa.com
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent4	\FWLL\ASR\FWKI AD GR.asr
+RecentFiles	Recent5	\FWLL\ASR\3_TWR.asr
+RecentFiles	Recent6	\FWLL\ASR\2_APP.asr
+RecentFiles	Recent7	\FWLL\ASR\2_APP.asr
+RecentFiles	Recent8	\FWLL\ASR\2_APP.asr
+RecentFiles	Recent9	\FWLL\ASR\2_APP.asr
