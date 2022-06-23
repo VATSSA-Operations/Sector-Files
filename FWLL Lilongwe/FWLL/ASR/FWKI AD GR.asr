@@ -1,0 +1,54 @@
+// ##################################################################
+//                 ACCWAF | FIR FWLL | ASR | FWKI AD GR
+// ##################################################################
+
+// Version v0.1
+// Update Date 23/06/2022
+
+// Changelog
+// v0.1 | FWKI AD GR ASR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Geo:GEO:
+Runways:FWKI 14-32:centerline
+Runways:FWKI 14-32:extended centerline 1
+Runways:FWKI 14-32:extended centerline 1 left base
+Runways:FWKI 14-32:extended centerline 1 left ticks
+Runways:FWKI 14-32:extended centerline 1 left vectoring
+Runways:FWKI 14-32:extended centerline 1 right base
+Runways:FWKI 14-32:extended centerline 1 right ticks
+Runways:FWKI 14-32:extended centerline 1 right vectoring
+Runways:FWKI 14-32:extended centerline 2
+Runways:FWKI 14-32:extended centerline 2 left base
+Runways:FWKI 14-32:extended centerline 2 left ticks
+Runways:FWKI 14-32:extended centerline 2 left vectoring
+Runways:FWKI 14-32:extended centerline 2 right base
+Runways:FWKI 14-32:extended centerline 2 right ticks
+Runways:FWKI 14-32:extended centerline 2 right vectoring
+Runways:FWKI 14-32:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-13.911889:33.538205:-13.654777:34.016795
+PLUGIN:Ground Radar plugin:AirportElevation:4029
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FWKI
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FWKI

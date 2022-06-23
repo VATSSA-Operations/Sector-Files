@@ -1,12 +1,12 @@
 // ##################################################################
-//                 ACCWAF | FIR DNKK | TopSky | Maps
+//                 ACCWAF | FIR FWLL | TopSky | Maps
 // ##################################################################
 
-// Version v0.3.0
+// Version v0.1
 // Update Date 19/05/2022
 
 // Changelog
-// v0.1 | FIR, Arrivals, Approaches, Departures, FRA, Airspace, MSAs and DNMM v2 Ground Layout
+// v0.1 | FWLL TopSkyMaps Initial Setup
 
 
 // ##################################################################
