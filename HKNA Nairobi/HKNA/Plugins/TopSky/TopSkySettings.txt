@@ -1,3 +1,17 @@
+// ##################################################################
+//                 VATSSA | FIR HKNA | TopSky | Settings
+// ##################################################################
+
+// Version v0.1
+// Update Date 21/06/2022
+
+// Changelog
+// v0.1 | TopSky Settings Initial Versioning Sequence
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
 ;-------- TOPSKY SETTINGS
 ;-------Credit to previous (unknown) maintainers of the Iceland sector file who also created part of this file.
 ;-------For permission to reuse, redistribute, or modify for use in other sector files, contact Mickey Champion.
