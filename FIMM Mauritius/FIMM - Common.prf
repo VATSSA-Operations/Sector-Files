@@ -19,8 +19,8 @@ Settings	airports	\FIMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FIMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FIMM\NavData\airway.txt
 Settings	airportcoords	\FIMM\NavData\icao.txt
-RecentFiles	Recent1	\FIMM\ASR\FIMM_CTR.asr
-RecentFiles	Recent2	\FIMM\ASR\FIMP_TWR.asr
+RecentFiles	Recent1	\FIMM\ASR\1 FIMM CTR TS.asr
+RecentFiles	Recent2	\FIMM\ASR\FIMP AD GR.asr
 ASRFastKeys	1	\FIMM\ASR\FIMM_CTR.asr
 ASRFastKeys	2	\FIMM\ASR\FIMP_TWR.asr
 ASRFastKeys	3	\FIMM\ASR\FIMR_TWR.asr
@@ -57,3 +57,9 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+RecentFiles	Recent3	\FIMM\ASR\FIMP APP TS.asr
+RecentFiles	Recent4	\FIMM\ASR\FJDG AD GR.asr
+RecentFiles	Recent5	\FIMM\ASR\FJDG APP TS.asr
+RecentFiles	Recent6	\FIMM\ASR\FJDG_TWR.asr
+RecentFiles	Recent7	\FIMM\ASR\FIMM_CTR.asr
+RecentFiles	Recent8	\FIMM\ASR\FIMP_TWR.asr

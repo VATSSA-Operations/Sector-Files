@@ -19,9 +19,9 @@ Settings	airports	\HTDC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HTDC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HTDC\NavData\airway.txt
 Settings	airportcoords	\HTDC\NavData\icao.txt
-RecentFiles	Recent1	\HTDC\ASR\1_CTR.asr
-RecentFiles	Recent2	\HTDC\ASR\2_APP.asr
-RecentFiles	Recent3	\HTDC\ASR\3_TWR.asr
+RecentFiles	Recent1	\HTDC\ASR\1 HTDC CTR TS.asr
+RecentFiles	Recent2	\HTDC\ASR\HBBA AD GR.asr
+RecentFiles	Recent3	\HTDC\ASR\HBBA APP TS.asr
 ASRFastKeys	1	\HTDC\ASR\1_CTR.asr
 ASRFastKeys	2	\HTDC\ASR\2_APP.asr
 ASRFastKeys	3	\HTDC\ASR\3_TWR.asr
@@ -51,3 +51,10 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+RecentFiles	Recent4	\HTDC\ASR\HRYR AD GR.asr
+RecentFiles	Recent5	\HTDC\ASR\HRYR APP TS.asr
+RecentFiles	Recent6	\HTDC\ASR\HTDA AD GR.asr
+RecentFiles	Recent7	\HTDC\ASR\HTDA APP TS.asr
+RecentFiles	Recent8	\HTDC\ASR\1_CTR.asr
+RecentFiles	Recent9	\HTDC\ASR\2_APP.asr
+RecentFiles	Recent10	\HTDC\ASR\3_TWR.asr

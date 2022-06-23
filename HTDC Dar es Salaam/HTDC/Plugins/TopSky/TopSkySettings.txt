@@ -42,7 +42,7 @@ Setup_COOPANS=1
 Airspace_ASSR_Type=1
 Airspace_ASSR_StartCode=3300
 Airspace_ASSR_EndCode=3477
-Airspace_ModeS_Code=0
+//Airspace_ModeS_Code=0
 Airspace_No_DUPE_Codes=2000,2200,1200,7000
 
 System_ASP_IasMach=28500

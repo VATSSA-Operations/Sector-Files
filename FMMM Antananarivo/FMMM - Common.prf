@@ -19,7 +19,7 @@ Settings	airports	\FMMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FMMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FMMM\NavData\airway.txt
 Settings	airportcoords	\FMMM\NavData\icao.txt
-RecentFiles	Recent1	\FMMM\ASR\1_CTR.asr
+RecentFiles	Recent1	\FMMM\ASR\1 FMMM CTR TS.asr
 ASRFastKeys	1	\FMMM\ASR\1_CTR.asr
 ASRFastKeys	2	\FMMM\ASR\2_APP.asr
 ASRFastKeys	3	\FMMM\ASR\3_TWR.asr
@@ -49,3 +49,10 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+RecentFiles	Recent2	\FMMM\ASR\FMCZ APP TS.asr
+RecentFiles	Recent3	\FMMM\ASR\FMCZ AD GR.asr
+RecentFiles	Recent4	\FMMM\ASR\FMEE AD GR.asr
+RecentFiles	Recent5	\FMMM\ASR\FMEE APP TS.asr
+RecentFiles	Recent6	\FMMM\ASR\FMMI AD GR.asr
+RecentFiles	Recent7	\FMMM\ASR\FMMI APP TS.asr
+RecentFiles	Recent8	\FMMM\ASR\1_CTR.asr

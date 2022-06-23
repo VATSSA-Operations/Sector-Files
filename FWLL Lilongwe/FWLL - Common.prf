@@ -19,9 +19,9 @@ Settings	airports	\FWLL\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FWLL\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FWLL\NavData\airway.txt
 Settings	airportcoords	\FWLL\NavData\icao.txt
-RecentFiles	Recent1	\FWLL\ASR\FWKI APP TS.asr
-RecentFiles	Recent2	\FWLL\ASR\1 FWLL CTR TS.asr
-RecentFiles	Recent3	\FWLL\ASR\1_CTR.asr
+RecentFiles	Recent1	\FWLL\ASR\1 FWLL CTR TS.asr
+RecentFiles	Recent2	\FWLL\ASR\FWKI AD GR.asr
+RecentFiles	Recent3	\FWLL\ASR\FWKI APP TS.asr
 ASRFastKeys	1	\FWLL\ASR\1_CTR.asr
 ASRFastKeys	2	\FWLL\ASR\2_APP.asr
 ASRFastKeys	3	\FWLL\ASR\3_TWR.asr
@@ -51,7 +51,7 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
-RecentFiles	Recent4	\FWLL\ASR\FWKI AD GR.asr
+RecentFiles	Recent4	\FWLL\ASR\1_CTR.asr
 RecentFiles	Recent5	\FWLL\ASR\3_TWR.asr
 RecentFiles	Recent6	\FWLL\ASR\2_APP.asr
 RecentFiles	Recent7	\FWLL\ASR\2_APP.asr

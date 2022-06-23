@@ -1,0 +1,44 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FJDG Ground Labels\A:freetext
+Free Text:FJDG Ground Labels\A1:freetext
+Free Text:FJDG Ground Labels\B:freetext
+Free Text:FJDG Ground Labels\C:freetext
+Free Text:FJDG Ground Labels\D:freetext
+Free Text:FJDG Ground Labels\D1:freetext
+Free Text:FJDG Ground Labels\D2:freetext
+Free Text:FJDG Ground Labels\D3:freetext
+Free Text:FJDG Ground Labels\D4:freetext
+Free Text:FJDG Ground Labels\E:freetext
+Free Text:FJDG Ground Labels\F:freetext
+Free Text:FJDG Ground Labels\G:freetext
+Free Text:FJDG Ground Labels\H:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Geo:FJDG Groundlayout:
+Regions:FJDG Ground Layout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-7.330421:72.383332:-7.301373:72.439556
+PLUGIN:Ground Radar plugin:AirportElevation:184
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GVAC
+PLUGIN:TopSky plugin:HideMapData:GVSC
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GVAC
