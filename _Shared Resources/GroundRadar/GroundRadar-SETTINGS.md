@@ -1,4 +1,16 @@
 // ##################################################################
+//                 ACCWAF | FIR ICAO | GroundRadar | Settings
+// ##################################################################
+
+// GroundRadar Version 1.5 Beta 5
+
+// Version v0.1
+// Update Date 19/05/2022
+
+// Changelog
+// v0.1 | ICAO GroundRadar Settings Initial Update
+
+// ##################################################################
 //                 SYSTEM SETTINGS v0.1
 // ##################################################################
 
@@ -93,8 +105,6 @@ Label_GS=0,0,1
 //                 OTHERS v0.1
 // ##################################################################
 
-
-
 Track_PredictionLine_TWR=1
 Window_APP_Extensions=1
 
@@ -111,17 +121,19 @@ Track_HistoryDots_GND=0
 Track_HistoryDots_TWR_Type=1
 Track_Heading_Line=0
 
+
 // ##################################################################
 //                 LISTS | DEPARTURES v0.1
 // ##################################################################
 
-List_Departure=1,1100,45
+List_Departure=0,1100,45
 List_Departure_RWY=1
 List_Departure_TYPE=1
 List_Departure_WTC=1
 List_Departure_EOBT=1
 List_Departure_STAND=1
 List_Departure_Items=10
+
 
 // ##################################################################
 //                 LISTS | DEPARTURE TIMER v0.1
@@ -134,11 +146,12 @@ List_Outbound_WTC_Type=2
 List_Outbound_SID=1
 List_Outbound_ExpiryTime=600
 
+
 // ##################################################################
 //                 LISTS | ARRIVALS v0.1
 // ##################################################################
 
-List_Arrival=1,1390,45
+List_Arrival=0,1390,45
 List_Arrival_RWY=1
 List_Arrival_TYPE=1
 List_Arrival_WTC=1
@@ -152,9 +165,10 @@ List_Inbound_WTC=0
 List_Inbound_ETA=1
 List_Inbound_STAND=0
 
+
 // ##################################################################
 //                 LISTS | STANDS v0.1
 // ##################################################################
 
-List_Stand=1,1680,45
+List_Stand=0,1680,45
 List_Stand_Items=20
