@@ -1,21 +1,8 @@
-// ##################################################################
-//                 ACCWAF | FIR FWLL | ASR | FWKI APP TS
-// ##################################################################
-
-// Version v0.1
-// Update Date 23/06/2022
-
-// Changelog
-// v0.1 | FWKI APP TS ASR Initial Setup
-
-
-// ##################################################################
-//                 SETTINGS
-// ##################################################################
-
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:GEO:
 Runways:FWCL 10-28:centerline
 Runways:FWCL 10-28:extended centerline 1
@@ -110,5 +97,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-16.855546:29.215510:-11.009500:40.097374
+WINDOWAREA:-16.706356:28.336568:-10.860310:39.218432
 PLUGIN:TopSky plugin:ShowMapData:FWLL,FWKI-APP

@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FZZA Kinshasa\FZZA-Test-Package_20220623151344-220601-0005.sct
-SECTORTITLE:FZZA-Test-Package_20220623151344-220601-0005.sct
 Airports:FZAA:name
 Airports:FZAA:symbol
 Airports:FZAB:name

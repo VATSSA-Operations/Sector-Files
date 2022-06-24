@@ -1,0 +1,25 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:GEO:
+Geo:HT Landmark Coast N:
+Geo:HT Landmark Coast S:
+Geo:HT Landmark Lake Tanganyika:
+Geo:HT Landmark Lake Victoria:
+Geo:HT Landmark Lakes:
+Geo:HTDA Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-8.078475:37.013411:-5.677746:41.391838
+PLUGIN:TopSky plugin:ShowMapData:DNMM

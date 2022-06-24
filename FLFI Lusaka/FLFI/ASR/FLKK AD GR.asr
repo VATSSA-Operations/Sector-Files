@@ -1,28 +1,14 @@
-// ##################################################################
-//                 ACCVATSSA | FIR FLFI | ASR | FLKK AD GR
-// ##################################################################
-
-// Version v0.1
-// Update Date 18/06/2022
-
-// Changelog
-// v0.1 | FLKK AD GR Initial Setup
-
-
-// ##################################################################
-//                 SETTINGS
-// ##################################################################
-
-
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:FLKK Groundlayout Airport real:
 Regions:FLKK Airport Layout curre:polygon
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
-ABOVE:0
+ABOVE:1000
 LEADER:5
 SHOWLEADER:1
 TURNLEADER:0

@@ -19,9 +19,9 @@ Settings	airports	\HKNA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HKNA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HKNA\NavData\airway.txt
 Settings	airportcoords	\HKNA\NavData\icao.txt
-RecentFiles	Recent1	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent2	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent3	\HKNA\ASR\2_APP.asr
+RecentFiles	Recent1	\HKNA\ASR\1 HKNA CTR TS.asr
+RecentFiles	Recent2	\HKNA\ASR\HKJK AD GR.asr
+RecentFiles	Recent3	\HKNA\ASR\HKJK APP TS.asr
 ASRFastKeys	1	\HKNA\ASR\1_CTR.asr
 ASRFastKeys	2	\HKNA\ASR\2_APP.asr
 ASRFastKeys	3	\HKNA\ASR\3_TWR.asr
@@ -51,3 +51,8 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+RecentFiles	Recent4	\HKNA\ASR\HKMO AD GR.asr
+RecentFiles	Recent5	\HKNA\ASR\HKMO APP TS.asr
+RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
+RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
+RecentFiles	Recent8	\HKNA\ASR\2_APP.asr

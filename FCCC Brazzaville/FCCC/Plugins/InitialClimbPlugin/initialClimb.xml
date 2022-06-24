@@ -352,63 +352,57 @@
 			</sid>
 		</runway>
     </apt>
-	<apt icao="LEZL">
-		<runway name="09">
-			<sid name="BUDIT">
+	<apt icao="FPST">
+		<runway name="11">
+			<sid name="GAPAK">
+				<alt>050</alt>
+			</sid>
+			<sid name="INOSA">
+				<alt>050</alt>
+			</sid>
+			<sid name="RITIL">
+				<alt>050</alt>
+			</sid>
+			<sid name="PR">
+				<alt>050</alt>
+			</sid>
+			<sid name="ARKOT">
+				<alt>050</alt>
+			</sid>
+			<sid name="KOPUB">
+				<alt>050</alt>
+			</sid>
+			<sid name="LIROT">
 				<alt>080</alt>
 			</sid>
-			<sid name="HIJ">
-				<alt>080</alt>
-			</sid>
-			<sid name="CLANA">
-				<alt>090</alt>
-			</sid>
-			<sid name="JRZ">
-				<alt>090</alt>
-			</sid>
-			<sid name="MAR">
-				<alt>090</alt>
-			</sid>
-			<sid name="ONUBA">
-				<alt>090</alt>
-			</sid>
-			<sid name="SANTA">
-				<alt>080</alt>
-			</sid>
-			<sid name="VJF">
-				<alt>090</alt>
-			</sid>
-			<sid name="VIBAS">
-				<alt>090</alt>
+			<sid name="ONPOX">
+				<alt>050</alt>
 			</sid>
 		</runway>
-		<runway name="27">
-			<sid name="BUDIT">
+		<runway name="29">
+			<sid name="GAPAK">
+				<alt>050</alt>
+			</sid>
+			<sid name="INOSA">
+				<alt>050</alt>
+			</sid>
+			<sid name="RITIL">
+				<alt>050</alt>
+			</sid>
+			<sid name="PR">
+				<alt>050</alt>
+			</sid>
+			<sid name="ARKOT">
+				<alt>050</alt>
+			</sid>
+			<sid name="KOPUB">
+				<alt>050</alt>
+			</sid>
+			<sid name="LIROT">
 				<alt>080</alt>
 			</sid>
-			<sid name="HIJ">
-				<alt>080</alt>
-			</sid>
-			<sid name="CLANA">
-				<alt>090</alt>
-			</sid>
-			<sid name="SANTA">
-				<alt>080</alt>
-			</sid>
-			<sid name="JRZ">
-				<alt>090</alt>
-			</sid>
-			<sid name="MAR">
-				<alt>090</alt>
-			</sid>
-			<sid name="ONUBA">
-				<alt>090</alt>
-			</sid>
-			<sid name="VJF">
-				<alt>090</alt>
-			</sid>
-			<sid name="VIBAS">
-				<alt>090</alt>
+			<sid name="ONPOX">
+				<alt>050</alt>
 			</sid>
 		</runway>
     </apt>

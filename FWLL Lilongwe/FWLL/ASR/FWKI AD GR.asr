@@ -1,21 +1,8 @@
-// ##################################################################
-//                 ACCWAF | FIR FWLL | ASR | FWKI AD GR
-// ##################################################################
-
-// Version v0.1
-// Update Date 23/06/2022
-
-// Changelog
-// v0.1 | FWKI AD GR ASR Initial Setup
-
-
-// ##################################################################
-//                 SETTINGS
-// ##################################################################
-
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:GEO:
 Runways:FWKI 14-32:centerline
 Runways:FWKI 14-32:extended centerline 1

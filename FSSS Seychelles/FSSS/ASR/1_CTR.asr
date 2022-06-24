@@ -1,6 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 ARTCC boundary:FMCH-TMA:
 ARTCC boundary:FSIA-CTA:
 ARTCC high boundary:FIMM:
@@ -211,4 +213,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-12.376086:31.796752:11.877106:77.668257
+WINDOWAREA:-12.852573:31.796752:12.353593:77.668257
