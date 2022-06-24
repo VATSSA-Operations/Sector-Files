@@ -1,8 +1,8 @@
-DisplayTypeName:
+DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FLFI Lusaka\FLFI-Package_20220616134408-220601-0001.sct
+SECTORTITLE:FLFI-Package_20220616134408-220601-0001.sct
 Airports:FLAA:name
 Airports:FLAA:symbol
 Airports:FLAI:name
@@ -218,7 +218,15 @@ ARTCC low boundary:TMA FLKK LUSAKA TCA SCTR A FL75-FL245 Class A:
 ARTCC low boundary:TMA FLKK LUSAKA TCA SCTR B FL115-FL245 Class A:
 ARTCC low boundary:TMA FLKK LUSAKA TCA SCTR C FL115-FL245 Class A:
 ARTCC low boundary:TMA FLSK NDOLA TCA FL75-FL245 Class A:
+Geo:FL Landmark Lakes:
+Geo:FL Restricted area NATIONAL PARKS:
+Geo:FLHN Groundlayout Airport real:
+Geo:FLKK Groundlayout Airport real:
+Geo:FLSK Groundlayout Airport current:
+Geo:GEO:
+Regions:FLHN Airport Layout curre:polygon
 Regions:FLKK Airport Layout curre:polygon
+Regions:FLSK Airport Layout currr:polygon
 VORs:BJA:frequency
 VORs:BJA:name
 VORs:BJA:symbol
@@ -343,4 +351,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:0.000000:0.000000:0.000000:0.000000
+WINDOWAREA:-17.920527:20.758690:-9.973241:35.576740
