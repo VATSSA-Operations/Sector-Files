@@ -1076,65 +1076,84 @@
          ]
 		}
 	},
-	{
-	  "icao": "EDHL",
+   {
+      "icao": "FPST",
       "sids": {
-         "VCT": [
-            {
-               "direction": "ANY"
-            }
-         ],
-         "HAM": [
+         "GAPAK": [
             {
                "direction": "EVEN",
-               "airways": [
-                  "M170",
-                  "L23"
+               "min_fl": 245,
+               "airways":[
+                  "UR983",
+                  "UA400"
                ]
-            },
-            {
-               "direction": "ODD"
             }
          ],
-         "LUGEG": [
+         "INOSA": [
             {
-               "direction": "ODD"
-            }
-         ],
-         "RAMAR": [
-            {
-               "direction": "ODD"
-            }
-         ]
-      }
-   },
-	{
-      "icao": "EDXW",
-      "sids": {
-         "VCT": [
-            {
-               "direction": "ANY"
-            }
-         ],
-         "OLDIP": [
-			{
                "direction": "ODD",
-               "max_fl": 230,
-               "destinations": [
-                  "EDDH",
-                  "EDDW"
+               "min_fl": 250,
+               "airways":[
+                  "UR603",
+                  "UR979"
                ]
-            },
-			{
-               "direction": "ODD",
-               "destinations": [
-                  "EDDV"
-               ]
-            },
+            }
+         ],
+         "PR": [
             {
-               "direction": "ANY"
-			}
-         ]
+               "direction": "ODD",
+               "min_fl": 055,
+               "airways":[
+                  "B737"
+               ]
+            }
+         ],
+         "RITIL": [
+            {
+               "direction": "ODD",
+               "min_fl": 055,
+               "airways":[
+                  "B737"
+               ]
+            }
+         ],
+         "ARKOT": [
+            {
+               "direction": "ODD",
+               "min_fl": 245,
+               "airways":[
+                  "UB737"
+               ]
+            }
+         ],
+         "KOPUB": [
+            {
+               "direction": "ODD",
+               "min_fl": 245,
+               "airways":[
+                  "A616"
+               ]
+            }
+         ],
+         "LIROT": [
+            {
+               "direction": "ODD",
+               "min_fl": 055,
+               "airways":[
+                  "H520"
+               ]
+            }
+         ],
+         "ONPOX": [
+            {
+               "direction": "ODD",
+               "min_fl": 245,
+               "airways":[
+                  "UA400"
+               ]
+         
+            }
+         ],
       }
    }
 ]

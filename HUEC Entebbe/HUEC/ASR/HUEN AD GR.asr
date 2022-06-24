@@ -1,0 +1,44 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:HUEN Parkings\1:freetext
+Free Text:HUEN Parkings\10:freetext
+Free Text:HUEN Parkings\11:freetext
+Free Text:HUEN Parkings\2:freetext
+Free Text:HUEN Parkings\3:freetext
+Free Text:HUEN Parkings\4:freetext
+Free Text:HUEN Parkings\5:freetext
+Free Text:HUEN Parkings\6:freetext
+Free Text:HUEN Parkings\7:freetext
+Free Text:HUEN Parkings\8:freetext
+Free Text:HUEN Parkings\9:freetext
+Free Text:HUEN Taxiways\A:freetext
+Free Text:HUEN Taxiways\A:freetext
+Free Text:HUEN Taxiways\B:freetext
+Free Text:HUEN Taxiways\C:freetext
+Free Text:HUEN Taxiways\C:freetext
+Free Text:HUEN Taxiways\D:freetext
+Free Text:HUEN Taxiways\E:freetext
+Free Text:HUEN Taxiways\F:freetext
+Free Text:HUEN Taxiways\G:freetext
+Free Text:HUEN Taxiways\H:freetext
+Geo:HUEN Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:0.024851:32.413199:0.062625:32.481714
+PLUGIN:Ground Radar plugin:AirportElevation:184
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:HUEN
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:HUEN

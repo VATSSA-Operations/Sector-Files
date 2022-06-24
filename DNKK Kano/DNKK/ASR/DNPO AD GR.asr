@@ -48,8 +48,7 @@ SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:62.00000
-TAGFAMILY:AC-TopSky
-TAGFAMILY:WAF TopSky
+TAGFAMILY:VATSSA TopSky
 PLUGIN:Ground Radar plugin:AirportElevation:91
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:DNPO

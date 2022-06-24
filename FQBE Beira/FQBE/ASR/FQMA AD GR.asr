@@ -1,0 +1,29 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:FQMA Groundlayout:
+Geo:FQMA Landmark Maputo City:
+Geo:FQMA Landmark Maputo Racetrack:
+Regions:FQMA Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-25.931958:32.550726:-25.908719:32.595523
+PLUGIN:Ground Radar plugin:AirportElevation:184
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GVAC
+PLUGIN:TopSky plugin:HideMapData:GVSC
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GVAC

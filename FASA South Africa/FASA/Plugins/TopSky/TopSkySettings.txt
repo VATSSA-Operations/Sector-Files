@@ -1,3 +1,18 @@
+// ##################################################################
+//                 VATSSA | FIR FASA | TopSky | Settings
+// ##################################################################
+
+// Version v0.1
+// Update Date 21/06/2022
+
+// Changelog
+// v0.1 | TopSky Settings Initial Versioning Sequence
+
+
+// ##################################################################
+//                 #1 SYSTEM SETTINGS
+// ##################################################################
+
 ;-------VATSIM SUB-SAHARA AFRICA - SOUTH AFRICA - TOPSKY MAPS
 ;-------For permission to reuse, redistribute, or modify for use in other sector files, contact Mickey Champion.
 
@@ -209,7 +224,7 @@ Vector_AHDG_Label_Dir=1
 
 /CPDLC
 CPDLC_Default=1
-CPDLC_MinLevel=145
+CPDLC_MinLevel=195
 CPDLC_PlaySound=1
 CPDLC_CFL=1
 CPDLC_DCT=1

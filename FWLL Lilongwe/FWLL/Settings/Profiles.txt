@@ -23,7 +23,4 @@ PROFILE:FWKI_TWR:50:4
 ATIS2:Welcome to $radioname
 ATIS3:Part of Sub-Saharan Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
-ATIS2:$myrealname
-ATIS3:Observing Malawi, part of Sub-Saharan Africa Division (SSA)
-ATIS4:Visit us at vatssa.com
 END
