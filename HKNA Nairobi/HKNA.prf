@@ -37,7 +37,7 @@ Plugins	Plugin2	\HKNA\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
 LastSession	connecttype	0
-LastSession	callsign	HKWJ_TWR
+LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
 LastSession	facility	0
 LastSession	rating	0
