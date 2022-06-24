@@ -116,3 +116,5 @@ Color_Standard_Line_RDF=247,177,46
 RDF_Mode=2
 RDF_Floor=0
 Color_Standard_Line_RDF=247,177,46
+
+CPDLC_MinLevel=195

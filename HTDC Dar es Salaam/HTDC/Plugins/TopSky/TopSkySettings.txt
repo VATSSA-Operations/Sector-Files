@@ -47,3 +47,5 @@ Airspace_No_DUPE_Codes=2000,2200,1200,7000
 
 System_ASP_IasMach=28500
 System_MagModel_Year=2021
+
+CPDLC_MinLevel=195
