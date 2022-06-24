@@ -1,4 +1,4 @@
-# ACCWAF EuroScope Advanced Lists | Startup
+# VATSSA EuroScope Advanced Lists | Startup
 
 // v0.1
 // 04/06/2022

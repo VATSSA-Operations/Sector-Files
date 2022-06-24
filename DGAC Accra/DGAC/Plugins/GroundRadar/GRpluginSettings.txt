@@ -1,5 +1,5 @@
 // ##################################################################
-//                 ACCWAF | FIR DGAC | GroundRadar | Settings
+//                 VATSSA | FIR DGAC | GroundRadar | Settings
 // ##################################################################
 
 // GroundRadar Version 1.5 Beta 4
