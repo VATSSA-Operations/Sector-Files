@@ -50,3 +50,6 @@ QNHTL:FOOG:40
 
 // TL as defined by ATC (Default)
 QNHTL:FPST:40
+
+// LEVELS
+LEVELS:FPST:15
