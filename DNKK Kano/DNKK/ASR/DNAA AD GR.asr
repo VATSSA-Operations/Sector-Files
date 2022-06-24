@@ -88,6 +88,6 @@ WINDOWAREA:8.996734:7.246528:9.015837:7.281609
 PLUGIN:Ground Radar plugin:AirportElevation:1122
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:DNAA
-PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:HideMapData:
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:DNAA
+PLUGIN:TopSky plugin:ShowMapData:DNAA-APP
