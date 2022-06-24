@@ -1,4 +1,4 @@
-# ACCWAF EuroScope Advanced Lists | SIL
+# VATSSA EuroScope Advanced Lists | SIL
 
 FIELD HEADER | WIDTH + ALIGN | TAG ITEM TYPE | LEFT BUTTON | RIGHT BUTTON | COLORING | FONT SIZE
 

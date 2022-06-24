@@ -51,6 +51,10 @@ PROFILE:HKRE_TWR:50:4
 ATIS2:Welcome to Eastleigh Tower
 ATIS3:Part of VATSIM Sub-Sahara Africa Division
 ATIS4:Visit us at vatssa.com
+PROFILE:HKWJ_GND:20:4
+ATIS2:Welcome to Wajir Ground
+ATIS3:Part of VATSIM Sub-Sahara Africa Division
+ATIS4:Visit us at vatssa.com
 PROFILE:HKWJ_TWR:50:4
 ATIS2:Welcome to Wajir Tower
 ATIS3:Part of VATSIM Sub-Sahara Africa Division
