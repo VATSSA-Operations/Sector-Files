@@ -1,18 +1,26 @@
 // ##################################################################
-//                 #2 SYMBOLS v0.1
+//                 #2 SYMBOLS v0.2
 // ##################################################################
 
 // VFR FIXES
 SYMBOLDEF:VFR
 ARC:0:0:3:0:360
 
-// APPROACH FIXES
-SYMBOLDEF:APP
+// APPROACH  <--
+SYMBOLDEF:APPL
 POLYGON:0:-5:-5:0:0:5
 
-// DEPARTURE FIXES
-SYMBOLDEF:DEP
+// APPROACH  -->
+SYMBOLDEF:APPR
+POLYGON:0:5:5:0:0:-5
+
+// DEPARTURE <--
+SYMBOLDEF:DEPL
 POLYGON:0:-5:-5:0:0:5
+
+// DEPARTURE -->
+SYMBOLDEF:DEPR
+POLYGON:0:5:5:0:0:-5
 
 // VOR
 SYMBOLDEF:VOR
