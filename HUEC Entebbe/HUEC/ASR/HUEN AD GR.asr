@@ -1,3 +1,18 @@
+// ##################################################################
+//                 VATSSA | FIR HUEC | ASR | HUEN AD GR
+// ##################################################################
+
+// Version v0.1
+// Update Date 23/06/2022
+
+// Changelog
+// v0.1 | HUEN AD GR ASR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
@@ -34,10 +49,10 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:90.00000
+DisplayRotation:97.90000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:0.024851:32.413199:0.062625:32.481714
-PLUGIN:Ground Radar plugin:AirportElevation:184
+PLUGIN:Ground Radar plugin:AirportElevation:3784
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:HUEN
 PLUGIN:TopSky plugin:NoDraw:1
