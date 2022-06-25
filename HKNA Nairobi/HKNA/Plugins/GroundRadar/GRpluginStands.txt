@@ -1,0 +1,157 @@
+// ##################################################################
+//                 ACCWAF | FIR HKNA | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.1
+// Update Date 25/06/2022
+
+// Changelog
+// v0.1 | Initial add
+
+// Active Airports
+// HK | HKMO
+
+// ##################################################################
+//                 HK KENYA
+// ##################################################################
+
+// ##################################################################
+//                 HKMO Mombasa
+// ##################################################################
+
+// INTERNATIONAL APRON 1
+// Stand 1
+STAND:HKMO:1:S4.1.48.281:E39.36.10.627:40
+USE:A
+WTC:MH
+
+// Stand 2
+STAND:HKMO:2:S4.1.50.149:E39.36.9.7:40
+USE:A
+WTC:MH
+
+// Stand 2A
+STAND:HKMO:2A:S4.1.51.912:E39.36.8.821:30
+USE:A
+WTC:LM
+
+// Stand 3
+STAND:HKMO:3:S4.1.53.155:E39.36.7.827:30
+USE:A
+WTC:LM
+
+// Stand 4
+STAND:HKMO:4:S4.1.55.187:E39.36.6.716:40
+USE:A
+WTC:MH
+
+// Stand 5
+STAND:HKMO:5:S4.1.57.239:E39.36.5.577:40
+USE:A
+WTC:MH
+
+// Stand 6
+STAND:HKMO:6:S4.1.47.992:E39.36.5.451:30
+USE:A
+WTC:LM
+
+// Stand 7
+STAND:HKMO:7:S4.1.47.057:E39.36.3.849:30
+USE:A
+WTC:LM
+
+// Stand 8
+STAND:HKMO:8:S4.1.46.2:E39.36.2.284:30
+USE:A
+WTC:LM
+
+// Stand 9
+STAND:HKMO:9:S4.1.45.449:E39.36.0.961:30
+USE:A
+WTC:LM
+
+// GENERAL AVIATION APRON
+// Stand 1
+STAND:HKMO:GA-1:S4.1.42.662:E39.36.9.828:10
+USE:BP
+WTC:L
+
+// Stand 2
+STAND:HKMO:GA-2:S4.1.41.805:E39.36.8.312:10
+USE:BP
+WTC:L
+
+// Stand 3
+STAND:HKMO:GA-3:S4.1.42.402:E39.36.9.326:10
+USE:BP
+WTC:L
+
+// Stand 4
+STAND:HKMO:GA-4:S4.1.42.113:E39.36.8.814:10
+USE:BP
+WTC:L
+
+// Stand 5
+STAND:HKMO:GA-5:S4.1.41.535:E39.36.7.791:10
+USE:BP
+WTC:L
+
+// Stand 6
+STAND:HKMO:GA-6:S4.1.41.266:E39.36.7.287:10
+USE:BP
+WTC:L
+
+// Stand 7
+STAND:HKMO:GA-7:S4.1.41.728:E39.36.10.359:10
+USE:BP
+WTC:L
+
+// Stand 8
+STAND:HKMO:GA-8:S4.1.41.449:E39.36.9.847:10
+USE:BP
+WTC:L
+
+// Stand 9
+STAND:HKMO:GA-9:S4.1.41.169:E39.36.9.336:10
+USE:BP
+WTC:L
+
+// Stand 10
+STAND:HKMO:GA-10:S4.1.40.89:E39.36.8.824:10
+USE:BP
+WTC:L
+
+// Stand 11
+STAND:HKMO:GA-11:S4.1.40.63:E39.36.8.302:10
+USE:BP
+WTC:L
+
+// Stand 12
+STAND:HKMO:GA-12:S4.1.40.341:E39.36.7.791:10
+USE:BP
+WTC:L
+
+// Stand 13
+STAND:HKMO:GA-13:S4.1.38.886:E39.36.6.361:20
+USE:BP
+WTC:LM
+
+// Stand 14
+STAND:HKMO:GA-14:S4.1.39.821:E39.36.5.879:20
+USE:BP
+WTC:LM
+
+// APRON 2
+// Apron 2
+STAND:HKMO:AP-2:S4.2.2.531:E39.35.54.027:180
+USE:BP
+WTC:LMH
+AREA
+
+// HELIPADS
+// Apron - Heliport
+STAND:HKMO:AP-H:S4.2.13.26:E39.35.50.014:140
+USE:H
+WTC:L
+AREA
+
