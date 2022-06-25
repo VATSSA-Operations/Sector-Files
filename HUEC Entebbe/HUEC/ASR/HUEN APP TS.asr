@@ -23,8 +23,6 @@ Free Text:HUEN Taxiways\F:freetext
 Free Text:HUEN Taxiways\G:freetext
 Free Text:HUEN Taxiways\H:freetext
 Geo:GEO:
-Geo:HT Landmark Lake Victoria:
-Geo:HU Landmark Lakes:
 Geo:HUEN Groundlayout:
 SHOWC:1
 SHOWSB:1
@@ -40,4 +38,4 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:-1.166162:30.251328:1.247790:34.629755
-PLUGIN:TopSky plugin:ShowMapData:HUEN
+PLUGIN:TopSky plugin:ShowMapData:HUEC,HUEN
