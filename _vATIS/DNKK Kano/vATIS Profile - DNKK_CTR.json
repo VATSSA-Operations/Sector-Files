@@ -1,0 +1,323 @@
+{
+  "Name": "DNKK_CTR",
+  "Composites": [
+    {
+      "Name": "Abuja",
+      "Identifier": "DNAA",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 27050,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 04",
+          "AirportConditions": "RUNWAY 04 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 22",
+          "AirportConditions": "RUNWAY 22 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+          "Low": 1047,
+          "High": 1099,
+          "Altitude": 50
+        },
+        {
+          "Low": 1014,
+          "High": 1046,
+          "Altitude": 60
+        },
+        {
+          "Low": 980,
+          "High": 1013,
+          "Altitude": 70
+        },
+        {
+          "Low": 946,
+          "High": 979,
+          "Altitude": 80
+        }
+      ]
+    },
+    {
+      "Name": "Kano",
+      "Identifier": "DNKN",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 23600,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 06",
+          "AirportConditions": "RUNWAY 06 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 24",
+          "AirportConditions": "RUNWAY 24 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+            "Low": 1047,
+            "High": 1099,
+            "Altitude": 40
+          },
+          {
+            "Low": 1014,
+            "High": 1046,
+            "Altitude": 50
+          },
+          {
+            "Low": 980,
+            "High": 1013,
+            "Altitude": 60
+          },
+          {
+            "Low": 946,
+            "High": 979,
+            "Altitude": 70
+          }
+      ]
+    },
+    {
+      "Name": "Lagos",
+      "Identifier": "DNMM",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 23800,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 18L/R",
+          "AirportConditions": "RUNWAYS 18L AND 18R IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 36L/R",
+          "AirportConditions": "RUNWAYS 36L and 36R IN USE. EXPECT VISUAL APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+            "Low": 1047,
+            "High": 1099,
+            "Altitude": 35
+          },
+          {
+            "Low": 1030,
+            "High": 1046,
+            "Altitude": 40
+          },
+          {
+            "Low": 1014,
+            "High": 1029,
+            "Altitude": 45
+          },
+          {
+            "Low": 997,
+            "High": 1013,
+            "Altitude": 50
+          },
+          {
+            "Low": 980,
+            "High": 996,
+            "Altitude": 55
+          },
+          {
+            "Low": 963,
+            "High": 979,
+            "Altitude": 60
+          },
+          {
+            "Low": 946,
+            "High": 962,
+            "Altitude": 65
+          }
+      ]
+    },
+    {
+      "Name": "Port Harcourt",
+      "Identifier": "DNPO",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 22300,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 03",
+          "AirportConditions": "RUNWAY 03 IN USE. EXPECT VOR DME APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 21",
+          "AirportConditions": "RUNWAY 21 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+            "Low": 1047,
+            "High": 1099,
+            "Altitude": 35
+          },
+          {
+            "Low": 1030,
+            "High": 1046,
+            "Altitude": 40
+          },
+          {
+            "Low": 1014,
+            "High": 1029,
+            "Altitude": 45
+          },
+          {
+            "Low": 997,
+            "High": 1013,
+            "Altitude": 50
+          },
+          {
+            "Low": 980,
+            "High": 996,
+            "Altitude": 55
+          },
+          {
+            "Low": 963,
+            "High": 979,
+            "Altitude": 60
+          },
+          {
+            "Low": 946,
+            "High": 962,
+            "Altitude": 65
+          }
+      ]
+    }
+  ]
+}

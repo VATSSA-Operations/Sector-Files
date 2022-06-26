@@ -1,0 +1,62 @@
+{
+  "Name": "FJDG",
+  "Composites": [
+    {
+      "Name": "Diego Garcia",
+      "Identifier": "FJDG",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 34100,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Name": "RWY 13",
+          "AirportConditions": "RUNWAY 13 IN USE. EXPECT RNAV APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 31",
+          "AirportConditions": "RUNWAY 31 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+          "Low": 946,
+          "High": 1099,
+          "Altitude": 180
+        }
+      ]
+    }
+  ]
+}

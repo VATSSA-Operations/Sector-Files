@@ -1,0 +1,77 @@
+{
+  "Name": "FMEE",
+  "Composites": [
+    {
+      "Name": "La Reunion",
+      "Identifier": "FMEE",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 26800,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RUNWAY 12-14",
+          "AirportConditions": "LANDING RUNWAY 14. EXPECT ILS APPROACH. DEPARTING RUNWAY 12.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "ROLAND GARROS ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RUNWAY 30-32",
+          "AirportConditions": "LANDING RUNWAY 30. EXPECT RNAV APPROACH. DEPARTING RUNWAY 32.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "ROLAND GARROS ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+          "Low": 1047,
+          "High": 1099,
+          "Altitude": 120
+        },
+        {
+          "Low": 1014,
+          "High": 1046,
+          "Altitude": 130
+        },
+        {
+          "Low": 980,
+          "High": 1013,
+          "Altitude": 140
+        },
+        {
+          "Low": 946,
+          "High": 979,
+          "Altitude": 150
+        }
+      ]
+    }
+  ]
+}
