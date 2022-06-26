@@ -33,10 +33,10 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:90.00000
+DisplayRotation:328.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-7.330421:72.383332:-7.301373:72.439556
-PLUGIN:Ground Radar plugin:AirportElevation:184
+WINDOWAREA:-7.326061:72.386185:-7.295315:72.442409
+PLUGIN:Ground Radar plugin:AirportElevation:13
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FJDG
 PLUGIN:TopSky plugin:HideMapData:
