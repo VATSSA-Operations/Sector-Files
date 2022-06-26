@@ -1,0 +1,4 @@
+// DNMM Lagos Departures
+RANGE:3440:3477
+ADEP:DNMM
+IFR

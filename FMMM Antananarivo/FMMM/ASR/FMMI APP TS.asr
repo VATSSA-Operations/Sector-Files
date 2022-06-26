@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FMMM Antananarivo\FMMM-Package_20220616142849-220601-0001.sct
+SECTORTITLE:FMMM-Package_20220616142849-220601-0001.sct
 Free Text:FMMI Parkings\11:freetext
 Free Text:FMMI Parkings\1A:freetext
 Free Text:FMMI Parkings\2:freetext
@@ -37,24 +37,7 @@ Free Text:FMMI Parkings\S6:freetext
 Free Text:FMMI Parkings\S8:freetext
 Free Text:FMMI Parkings\W:freetext
 Free Text:FMMI Parkings\Z:freetext
-Geo:FI Landmark Coast:
-Geo:FI Landmark Coast Agalega Islands:
-Geo:FM Landmark Coast Bassas da India:
-Geo:FM Landmark Coast Comores:
-Geo:FM Landmark Coast Europe Island:
-Geo:FM Landmark Coast Juan de Nova:
-Geo:FM Landmark Coast Madagascar:
-Geo:FM Landmark Coast Mayotte:
-Geo:FM Landmark Coast Reunion:
-Geo:FM Landmark Coast Tromelin:
-Geo:FM Landmark Rivers:
 Geo:FMMI Groundlayout:
-Geo:FMMI Landmark Lakes:
-Geo:FQ Landmark Coast M:
-Geo:FQ Landmark Coast N:
-Geo:FQ Landmark Coast S:
-Geo:FS Landmark Coast Astove Island:
-Geo:FS Landmark Coast Farquhar Island:
 Geo:GEO:
 Regions:FM Terrain Madagascar:polygon
 Regions:FM Terrain Reunion:polygon
@@ -72,5 +55,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-19.988619:45.175102:-17.604430:49.777076
-PLUGIN:TopSky plugin:ShowMapData:DNMM
+WINDOWAREA:-21.150162:42.885521:-16.150162:52.536547
+PLUGIN:TopSky plugin:ShowMapData:FMMM,FMMI

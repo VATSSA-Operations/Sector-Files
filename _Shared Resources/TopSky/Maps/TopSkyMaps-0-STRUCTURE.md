@@ -1,12 +1,12 @@
 // ##################################################################
-//                 VATSSA | FIR FWLL | TopSky | Maps
+//                 ACCWAF | FIR ICAO | TopSky | Maps
 // ##################################################################
 
 // Version v0.1
 // Update Date 19/05/2022
 
 // Changelog
-// v0.1 | FWLL TopSkyMaps Initial Setup
+// v0.1 | ICAO TopSkyMaps Initial Setup
 
 
 // ##################################################################

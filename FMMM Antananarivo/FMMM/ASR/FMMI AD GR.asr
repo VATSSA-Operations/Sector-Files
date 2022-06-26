@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FMMM Antananarivo\FMMM-Package_20220616142849-220601-0001.sct
+SECTORTITLE:FMMM-Package_20220616142849-220601-0001.sct
 Free Text:FMMI Parkings\11:freetext
 Free Text:FMMI Parkings\1A:freetext
 Free Text:FMMI Parkings\2:freetext
@@ -38,7 +38,6 @@ Free Text:FMMI Parkings\S8:freetext
 Free Text:FMMI Parkings\W:freetext
 Free Text:FMMI Parkings\Z:freetext
 Geo:FMMI Groundlayout:
-Geo:FMMI Landmark Lakes:
 Regions:FMMI FMMI Airport Regions:polygon
 SHOWC:1
 SHOWSB:1
@@ -51,12 +50,11 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:90.00000
+DisplayRotation:351.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-18.805820:47.458147:-18.787229:47.494031
-PLUGIN:Ground Radar plugin:AirportElevation:184
+WINDOWAREA:-18.805036:47.460676:-18.786445:47.496560
+PLUGIN:Ground Radar plugin:AirportElevation:4198
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:GVAC
-PLUGIN:TopSky plugin:HideMapData:GVSC
+PLUGIN:Ground Radar plugin:GroundMode:FMMI
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:GVAC
+PLUGIN:TopSky plugin:ShowMapData:FMMI
