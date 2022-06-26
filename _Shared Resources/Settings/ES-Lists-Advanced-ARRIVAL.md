@@ -1,4 +1,4 @@
-# ACCWAF EuroScope Advanced Lists | Arrival
+# VATSSA EuroScope Advanced Lists | Arrival
 
 // v0.1
 // 04/06/2022

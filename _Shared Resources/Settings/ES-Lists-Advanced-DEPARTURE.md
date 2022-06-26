@@ -1,4 +1,4 @@
-# ACCWAF EuroScope Advanced Lists | Departure
+# VATSSA EuroScope Advanced Lists | Departure
 
 // v0.1
 // 04/06/2022
