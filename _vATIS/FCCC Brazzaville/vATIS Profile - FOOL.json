@@ -1,0 +1,92 @@
+{
+  "Name": "FOOL",
+  "Composites": [
+    {
+      "Name": "Libreville",
+      "Identifier": "FOOL",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 36625,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 16",
+          "AirportConditions": "RUNWAY 16 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 34",
+          "AirportConditions": "RUNWAY 34 IN USE. EXPECT VISUAL APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+            "Low": 1047,
+            "High": 1099,
+            "Altitude": 35
+          },
+          {
+            "Low": 1030,
+            "High": 1046,
+            "Altitude": 40
+          },
+          {
+            "Low": 1014,
+            "High": 1029,
+            "Altitude": 45
+          },
+          {
+            "Low": 997,
+            "High": 1013,
+            "Altitude": 50
+          },
+          {
+            "Low": 980,
+            "High": 996,
+            "Altitude": 55
+          },
+          {
+            "Low": 963,
+            "High": 979,
+            "Altitude": 60
+          },
+          {
+            "Low": 946,
+            "High": 962,
+            "Altitude": 65
+          }
+      ]
+    }
+  ]
+}
