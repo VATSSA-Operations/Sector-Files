@@ -1,3 +1,18 @@
+// ##################################################################
+//                 ACCWAF | FIR FASA | TopSky | Airspace
+// ##################################################################
+
+// Version v0.1
+// Update Date 06/06/2022
+
+// Changelog
+// v0.1 | FASA TopSkyAirspace Initial Setup
+
+
+// ##################################################################
+//                 FA SOUTH AFRICA
+// ##################################################################
+
 // VATSIM SUB-SAHARA AFRICA - SOUTH AFRICA - TOPSKY MAPS
 // For permission to reuse, redistribute, or modify for use in other sector files, contact Mickey Champion.
 
