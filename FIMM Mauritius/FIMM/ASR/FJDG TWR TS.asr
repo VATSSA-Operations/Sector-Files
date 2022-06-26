@@ -1,5 +1,5 @@
-DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
@@ -20,24 +20,24 @@ Free Text:FJDG Ground Labels\P:freetext
 Free Text:FJDG Ground Labels\P:freetext
 Free Text:FJDG Ground Labels\P:freetext
 Free Text:FJDG Ground Labels\P:freetext
+Geo:FI Landmark Coast:
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FI Landmark Coast Diego Garcia:
 Geo:FJDG Groundlayout:
+Geo:GEO:
 Regions:FJDG Ground Layout:polygon
 SHOWC:1
 SHOWSB:1
-BELOW:0
-ABOVE:1000
-LEADER:5
+BELOW:500
+ABOVE:25000
+LEADER:3
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:2
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:328.00000
+DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-7.326061:72.386185:-7.295315:72.442409
-PLUGIN:Ground Radar plugin:AirportElevation:13
-PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:FJDG
-PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:FIMM,FJDG
+WINDOWAREA:-7.396098:72.237913:-7.222683:72.555034
+PLUGIN:TopSky plugin:ShowMapData:FMM,FJDG
