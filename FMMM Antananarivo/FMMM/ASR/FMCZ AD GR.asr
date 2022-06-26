@@ -1,10 +1,26 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Geo:GVAC Groundlayout:
-Regions:GVAC Ground Layout:polygon
+SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FMMM Antananarivo\FMMM-Package_20220616142849-220601-0001.sct
+SECTORTITLE:FMMM-Package_20220616142849-220601-0001.sct
+Airports:FMCZ:name
+Airports:FMCZ:symbol
+Runways:FMCZ 16-34:centerline
+Runways:FMCZ 16-34:extended centerline 1
+Runways:FMCZ 16-34:extended centerline 1 left base
+Runways:FMCZ 16-34:extended centerline 1 left ticks
+Runways:FMCZ 16-34:extended centerline 1 left vectoring
+Runways:FMCZ 16-34:extended centerline 1 right base
+Runways:FMCZ 16-34:extended centerline 1 right ticks
+Runways:FMCZ 16-34:extended centerline 1 right vectoring
+Runways:FMCZ 16-34:extended centerline 2
+Runways:FMCZ 16-34:extended centerline 2 left base
+Runways:FMCZ 16-34:extended centerline 2 left ticks
+Runways:FMCZ 16-34:extended centerline 2 left vectoring
+Runways:FMCZ 16-34:extended centerline 2 right base
+Runways:FMCZ 16-34:extended centerline 2 right ticks
+Runways:FMCZ 16-34:extended centerline 2 right vectoring
+Runways:FMCZ 16-34:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -16,9 +32,9 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:90.00000
+DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-12.815962:45.262614:-12.797371:45.298498
+WINDOWAREA:-12.830396:45.238191:-12.785008:45.325800
 PLUGIN:Ground Radar plugin:AirportElevation:184
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:GVAC

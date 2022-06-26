@@ -195,7 +195,7 @@ Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
-AppPath=HUEC:HUEC 17:N000.03.20.008:E032.26.10.410:L:170:3.0
+AppPath=HUEN:HUEN 17:N000.03.20.008:E032.26.10.410:170:L:3780:3.0
 
 
 // ##################################################################
