@@ -3,8 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+Airports:FHSH:name
+Airports:FHSH:symbol
 Geo:FC Landmark Coast S:
-Geo:FH Landmark Coast:
 Geo:FN Landmark Coast N:
 Geo:FN Landmark Coast S:
 Geo:FY Landmark Coast N:
@@ -22,5 +23,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-17.150233:-7.848648:-14.766044:-3.443268
-PLUGIN:TopSky plugin:ShowMapData:DNMM
+WINDOWAREA:-17.466553:-8.240138:-14.486316:-2.733413
+PLUGIN:TopSky plugin:ShowMapData:FHSH

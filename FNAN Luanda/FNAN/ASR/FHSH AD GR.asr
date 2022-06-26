@@ -4,6 +4,22 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:FH Landmark Coast:
+Runways:FHSH 01-19:centerline
+Runways:FHSH 01-19:extended centerline 1
+Runways:FHSH 01-19:extended centerline 1 left base
+Runways:FHSH 01-19:extended centerline 1 left ticks
+Runways:FHSH 01-19:extended centerline 1 left vectoring
+Runways:FHSH 01-19:extended centerline 1 right base
+Runways:FHSH 01-19:extended centerline 1 right ticks
+Runways:FHSH 01-19:extended centerline 1 right vectoring
+Runways:FHSH 01-19:extended centerline 2
+Runways:FHSH 01-19:extended centerline 2 left base
+Runways:FHSH 01-19:extended centerline 2 left ticks
+Runways:FHSH 01-19:extended centerline 2 left vectoring
+Runways:FHSH 01-19:extended centerline 2 right base
+Runways:FHSH 01-19:extended centerline 2 right ticks
+Runways:FHSH 01-19:extended centerline 2 right vectoring
+Runways:FHSH 01-19:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -15,12 +31,11 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:90.00000
+DisplayRotation:271.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-15.967632:-5.663498:-15.948646:-5.628418
-PLUGIN:Ground Radar plugin:AirportElevation:184
+WINDOWAREA:-15.974790:-5.680113:-15.937708:-5.611594
+PLUGIN:Ground Radar plugin:AirportElevation:1017
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:GVAC
-PLUGIN:TopSky plugin:HideMapData:GVSC
+PLUGIN:Ground Radar plugin:GroundMode:FHSH
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:GVAC
+PLUGIN:TopSky plugin:ShowMapData:FHSH
