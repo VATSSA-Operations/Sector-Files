@@ -39,5 +39,6 @@ WINDOWAREA:-7.326061:72.386185:-7.295315:72.442409
 PLUGIN:Ground Radar plugin:AirportElevation:13
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FJDG
+PLUGIN:TopSky plugin:HideMapData:
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:FIMM,FJDG

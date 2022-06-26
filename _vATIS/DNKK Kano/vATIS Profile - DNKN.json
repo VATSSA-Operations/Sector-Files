@@ -1,0 +1,77 @@
+{
+  "Name": "DNKN",
+  "Composites": [
+    {
+      "Name": "Kano",
+      "Identifier": "DNKN",
+      "Contractions": [
+        {
+          "String": "RNAV",
+          "Spoken": "ARE-NAV"
+        },
+        {
+          "String": "CAVOK",
+          "Spoken": "CAV-OH-KAY"
+        },
+        {
+          "String": "RNP",
+          "Spoken": "ARE-ENN-PEE"
+        }
+      ],
+      "AtisFrequency": 23600,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "Default"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Name": "RWY 06",
+          "AirportConditions": "RUNWAY 06 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        },
+        {
+          "Name": "RWY 24",
+          "AirportConditions": "RUNWAY 24 IN USE. EXPECT ILS APPROACH.",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "NotamDefinitions": [],
+      "TransitionLevels": [
+        {
+            "Low": 1047,
+            "High": 1099,
+            "Altitude": 40
+          },
+          {
+            "Low": 1014,
+            "High": 1046,
+            "Altitude": 50
+          },
+          {
+            "Low": 980,
+            "High": 1013,
+            "Altitude": 60
+          },
+          {
+            "Low": 946,
+            "High": 979,
+            "Altitude": 70
+          }
+      ]
+    }
+  ]
+}
