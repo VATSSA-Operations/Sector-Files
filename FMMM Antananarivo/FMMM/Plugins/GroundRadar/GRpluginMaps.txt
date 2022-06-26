@@ -1,0 +1,202 @@
+// ##################################################################
+//                 VATSSA | FIR FMMM | GroundRadar | Maps
+// ##################################################################
+
+// Version v0.1
+// Update Date 26/06/2022
+
+// Changelog
+// v0.1 | FMMM GroundRadar Maps Initial Setup
+
+
+// ##################################################################
+//                 #1 COLORS v0.1
+// ##################################################################
+
+// ACTIVE
+COLORDEF:BLUE:0:145:255
+COLORDEF:GREEN:0:175:29
+COLORDEF:YELLOW:80:80:0
+COLORDEF:RED:130:0:0
+COLORDEF:CLSD:128:0:0
+COLORDEF:DEV:255:253:228
+COLORDEF:TWY:43:43:43
+// COLORDEF:TWY:96:96:96
+COLORDEF:TWYSAFE:125:0:0
+COLORDEF:BLACK:0:0:0
+COLORDEF:WHITE:125:125:125
+
+// TEST
+// COLORDEF:APRONSURFACE:43:43:43
+COLORDEF:APRONSURFACE:96:96:96
+COLORDEF:BUILDING:70:70:70
+COLORDEF:HARDSURFACE1:25:25:25
+COLORDEF:HARDSURFACE2:35:35:35
+COLORDEF:STOPBAR:255:179:0
+COLORDEF:BACKGROUND:25:25:25
+COLORDEF:CENTERLINES:111:111:60
+
+
+// ##################################################################
+//                 #2 SYMBOLS v0.2
+// ##################################################################
+
+// VFR FIXES
+SYMBOLDEF:VFR
+ARC:0:0:3:0:360
+
+// APPROACH  <--
+SYMBOLDEF:APPL
+POLYGON:0:-5:-5:0:0:5
+
+// APPROACH  -->
+SYMBOLDEF:APPR
+POLYGON:0:5:5:0:0:-5
+
+// DEPARTURE <--
+SYMBOLDEF:DEPL
+POLYGON:0:-5:-5:0:0:5
+
+// DEPARTURE -->
+SYMBOLDEF:DEPR
+POLYGON:0:5:5:0:0:-5
+
+// VOR
+SYMBOLDEF:VOR
+MOVETO:-5:-5
+LINETO:5:-5
+LINETO:5:5
+LINETO:-5:5
+LINETO:-5:-5
+MOVETO:-5:0
+LINETO:0:-5
+LINETO:5:0
+LINETO:0:5
+LINETO:-5:0
+MOVETO:0:1
+LINETO:1:0
+LINETO:0:-1
+LINETO:-1:0
+LINETO:0:1
+
+// NDB
+SYMBOLDEF:NDB
+MOVETO:-5:-5
+LINETO:5:-5
+LINETO:5:5
+LINETO:-5:5
+LINETO:-5:-5
+MOVETO:-1:-2
+LINETO:1:-2
+LINETO:1:-1
+LINETO:2:-1
+LINETO:2:1
+LINETO:1:1
+LINETO:1:2
+LINETO:-1:2
+LINETO:-1:1
+LINETO:-2:1
+LINETO:-2:-1
+LINETO:0:-1
+
+
+// ##################################################################
+//                 #3 APPROACHES v0.1
+// ##################################################################
+
+// FMMI | ANTANANARIVO
+
+MAP:APPROACH 11:A
+FOLDER:FMMI
+AIRPORT:FMMI
+ACTIVE:RWY:ARR:FMMI11:DEP:FMMI11
+COLOR:RED
+SYMBOL:APPR:MI501
+SYMBOL:APPR:BALBY
+COLOR:BLACK
+TEXT:MI501:7000:0:-17
+TEXT:MI501:MI501:0:17
+TEXT:BALBY:7000:0:-17
+TEXT:BALBY:BALBY:0:17
+STYLE:Dot
+SCTDATA:STAR\FMMI RNAV11 GAGIS
+SCTDATA:STAR\FMMI RNAV11 DEKIR
+
+MAP:APPROACH 29:A
+FOLDER:FMMI
+AIRPORT:FMMI
+ACTIVE:RWY:ARR:FMMI29:DEP:FMMI29
+COLOR:RED
+SYMBOL:APPL:MI503
+SYMBOL:APPL:ANOSI
+COLOR:BLACK
+TEXT:MI503:7000:0:-17
+TEXT:MI503:MI503:0:17
+TEXT:ANOSI:7000:0:-17
+TEXT:ANOSI:ANOSI:0:17
+STYLE:Dot
+SCTDATA:STAR\FMMI RNAV29 UBILA
+SCTDATA:STAR\FMMI RNAV29 KEPOS
+
+
+// ##################################################################
+//                 #4 DEPARTURES v0.1
+// ##################################################################
+
+// FMMI | ANTANANARIVO
+
+MAP:DEPARTURE 11:A
+FOLDER:FMMI
+AIRPORT:FMMI
+ACTIVE:RWY:ARR:FMMI11:DEP:FMMI11
+COLOR:BLUE
+SYMBOL:DEPR:MI601
+SYMBOL:DEPR:MI602
+COLOR:BLACK
+TEXT:MI601:MI601:0:17
+TEXT:MI601:+6000:0:-17
+
+MAP:DEPARTURE 29:A
+FOLDER:FMMI
+AIRPORT:FMMI
+ACTIVE:RWY:ARR:FMMI29:DEP:FMMI29
+COLOR:BLUE
+SYMBOL:DEPL:MI604
+COLOR:BLACK
+TEXT:MI604:MI604:0:17
+TEXT:MI604:+6000:0:-17
+
+
+// ##################################################################
+//                 #5 VFR v0.1
+// ##################################################################
+
+// FMMI | ANTANANARIVO
+
+MAP:VFR:A
+FOLDER:FMMI
+AIRPORT:FMMI
+ACTIVE:1
+COLOR:BLACK
+SYMBOL:VFR:FMMI E1:E1:0:-17
+SYMBOL:VFR:FMMI N1:N1:0:-17
+SYMBOL:VFR:FMMI S1:S1:0:-17
+SYMBOL:VFR:FMMI E1:E1:0:-17
+SYMBOL:VFR:FMMI E2:E2:0:-17
+
+
+// ##################################################################
+//                 #7 NOTAMS v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #8 GROUND LAYOUTS v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #9 GEO v0.1
+// ##################################################################
+
+// ##################################################################
+//                 THE END
+// ##################################################################

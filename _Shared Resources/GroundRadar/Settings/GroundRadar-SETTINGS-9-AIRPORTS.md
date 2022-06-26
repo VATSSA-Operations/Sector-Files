@@ -16,7 +16,7 @@ Window_APP_Scale=20
 Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
-AppPath=GVAC:GVAC 01:N016.43.27.88:W022.56.56.02:011:L:184:3.0
+AppPath=HUEN:HUEN 17:N000.03.20.008:E032.26.10.410:170:L:3780:3.0
 
 
 // ##################################################################
