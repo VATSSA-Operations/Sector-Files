@@ -185,7 +185,7 @@ MIX	C
 MJN	Mil
 MMI	Mil
 MNB	C
-MPH C
+MPH	C
 MRD	C
 MRH	Mil
 MSA	C
