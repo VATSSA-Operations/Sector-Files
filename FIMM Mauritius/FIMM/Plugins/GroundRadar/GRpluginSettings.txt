@@ -48,12 +48,6 @@ Window_APP_AltFilter=10000
 AppLabel_UseSelColor=1
 TowerLabel_Transparency_Bg=255
 
-// APP Path Definitions
-// AppPath=Icao:Name:EndLat:EndLon:InbdCrsT:Direction:EndAlt:VertAngle
-// -- FIMP --
-AppPath=FIMP:FIMP14:S020.25.34.880:E057.40.31.662:117:R:184:3
-AppPath=FIMP:FIMP32:S020.26.07.773:E057.41.40.060:297:L:98:3
-
 //Label Definition
 Label=GND:ARR:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
 Label=GND:ARR:1:CALLSIGN,0,0:STAND,0,1
@@ -123,6 +117,26 @@ Color_APP_Background=160,160,160
 // ##################################################################
 //                 #9 AIRPORT SETTINGS v0.1
 // ##################################################################
+
+// ##################################################################
+//                 FI MAURITIUS
+// ##################################################################
+
+[FIMP]
+Airport_Elevation=183
+Airport_Radius=3
+
+Window_APP=1,20,600,500,250
+Window_APP_Rotation=332.7
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=FIMP:FIMP 14:S020.25.28.779:E057.40.19.268:136:R:183:3.5
+
+// Previous Settings - Commented Out for Review
+//AppPath=FIMP:FIMP14:S020.25.34.880:E057.40.31.662:117:R:184:3
+//AppPath=FIMP:FIMP32:S020.26.07.773:E057.41.40.060:297:L:98:3
 
 // ##################################################################
 //                 FJ DIEGO GARCIA
