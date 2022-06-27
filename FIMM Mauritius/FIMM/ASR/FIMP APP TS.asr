@@ -46,9 +46,7 @@ Free Text:FIMP Taxiways\P:freetext
 Free Text:FIMP Taxiways\Y:freetext
 Free Text:FIMP Taxiways\Y:freetext
 Free Text:FIMP Taxiways\Y:freetext
-Geo:FI Landmark Coast:
 Geo:FI Landmark Coast Agalega Islands:
-Geo:FI Landmark Coast Diego Garcia:
 Geo:FIMP Groundlayout:
 Geo:GEO:
 Regions:FIMP Ground layout:polygon
@@ -65,5 +63,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-21.622094:55.375701:-19.237905:59.990410
+WINDOWAREA:-20.966317:56.345991:-19.745612:58.708723
 PLUGIN:TopSky plugin:ShowMapData:FIMP
