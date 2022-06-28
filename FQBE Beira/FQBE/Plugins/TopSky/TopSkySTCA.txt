@@ -1,25 +1,23 @@
 // ##################################################################
-//                 VATSSA | FIR FQBE | TopSky | Airspace
+//                 VATSSA | FIR FQBE | TopSky | STCA
 // ##################################################################
 
 // Version v0.1
-// Update Date 06/06/2022
+// Update Date 24/06/2022
 
 // Changelog
-// v0.1 | FQBE TopSkyAirspace Initial Setup
+// v0.1 | FQBE TopSkySTCA Initial Setup
 
 
 // ##################################################################
 //                 FQ MOZAMBIQUE
 // ##################################################################
 
-// TL Transition Level
-QNHTL:FQMA:40
-
-// LEVELS
-LEVELS:FQMA:17,19,30,33,34
+// FQMA
+FINALAPP:FQMA:05
+FINALAPP:FQMA:23
 
 
 // ##################################################################
-//                 END
+//                 THE END
 // ##################################################################
