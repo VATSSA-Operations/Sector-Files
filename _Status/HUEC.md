@@ -1,48 +1,49 @@
-VATSSA DNKK Sector FIle Implementation Status
+VATSSA HUEC Sector FIle Implementation Status
 
 ### ASRs
 
 | TYPE  | AIRPORTS |
 | ----- | -------- |
-| CTR   | - |
-| APP   | - |
-| AD    | - |
+| CTR   | HUEC |
+| APP   | HUEN |
+| AD    | HUEN |
+
 
 ### GROUND RADAR
 
 | FILE      | TYPE          | AIRPORTS |
-| SETTINGS  | AIRPORT       | - |
-| STANDS    | -             | - |
-| MAPS      | APPROACHES    | - |
-|           | DEPARTURES    | - |
+| SETTINGS  | AIRPORT       | HUEN |
+| STANDS    | -             | HUEN |
+| MAPS      | APPROACHES    | HUEN |
+|           | DEPARTURES    | HUEN |
 |           | VFR           | - |
-|           | AIRSPACE      | - |
+|           | AIRSPACE      | WIP |
 |           | NOTAMS        | - |
-|           | LAYOUTS       | - |
+|           | LAYOUTS       | HUEN |
 
 ### TOPSKY
 | FILE      | TYPE          | AIRPORTS |
-| AIRSPACE  | TL QNH        | - |
-|           | LEVELS        | - |
+| AIRSPACE  | TL QNH        | HUEN |
+|           | LEVELS        | HUEN |
 | AREAS     | DANGER        | - |
 |           | RESTRICTED    | - |
 |           | PROHIBITED    | - |
 | CPDLC     | -             | - |
-| MAPS      | FIR           | - |
-|           | ARRIVALS      | - |
-|           | APPROACHES    | - |
-|           | DEPARTURES    | - |
+| MAPS      | FIR           | DONE |
+|           | ARRIVALS      | HUEN |
+|           | APPROACHES    | HUEN |
+|           | DEPARTURES    | HUEN |
 |           | NOTAMS        | - |
 |           | VFR           | - |
-|           | AIRSPACE      | TMA - - |
-|           | AIRSPACE      | CTR - - |
+|           | AIRSPACE      | TMA - HUEN |
+|           | AIRSPACE      | CTR - HUEN |
 |           | MSAs          | - |
 |           | LAYOUTS       | - |
-|           | GEO           | - |
+|           | GEO           | DONE |
 | MSAW      | AD VOR        | - |
 |           | AD RNAV       | - |
 |           | GRID MORA     | - |
-| SETTINGS  | AIRPORTS      | - |
+| SETTINGS  | AIRPORTS      | WIP |
 | STCA      | -             | - |
 | VIEWS     | -             | - |
 

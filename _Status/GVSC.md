@@ -1,4 +1,4 @@
-VATSSA DNKK Sector FIle Implementation Status
+VATSSA GVSC Sector FIle Implementation Status
 
 ### ASRs
 

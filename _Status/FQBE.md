@@ -1,5 +1,7 @@
 VATSSA FQBE Sector FIle Implementation Status
 
+v0.1 | 28/06/2022
+
 ### ASRs
 
 | TYPE  | AIRPORTS |
