@@ -1,8 +1,9 @@
 // ##################################################################
-//                 #1 COLORS v0.1
+//                 #1 COLORS v0.2
 // ##################################################################
 
 // ACTIVE
+COLORDEF:DEPLINES:255:253:228
 COLORDEF:BLUE:0:145:255
 COLORDEF:GREEN:0:175:29
 COLORDEF:YELLOW:80:80:0
@@ -24,4 +25,3 @@ COLORDEF:HARDSURFACE2:35:35:35
 COLORDEF:STOPBAR:255:179:0
 COLORDEF:BACKGROUND:25:25:25
 COLORDEF:CENTERLINES:111:111:60
-
