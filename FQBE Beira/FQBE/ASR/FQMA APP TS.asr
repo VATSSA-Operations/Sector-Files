@@ -18,18 +18,7 @@ Free Text:FQMA Maputo\F:freetext
 Free Text:FQMA Maputo\MIL_AREA:freetext
 Free Text:FQMA Maputo\TERMINAL:freetext
 Free Text:FQMA Maputo\TOWER:freetext
-Geo:FA Landmark Coast NE:
-Geo:FQ Landmark Coast M:
-Geo:FQ Landmark Coast N:
-Geo:FQ Landmark Coast S:
-Geo:FQ Landmark Lago de Cahora Bassa:
-Geo:FQ Landmark Lakes:
-Geo:FQ Landmark Rivers:
 Geo:FQMA Groundlayout:
-Geo:FQMA Landmark Maputo City:
-Geo:FQMA Landmark Maputo Racetrack:
-Geo:GEO:
-Geo:HT Landmark Coast S:
 Regions:FQMA Groundlayout:polygon
 SHOWC:1
 SHOWSB:1
@@ -44,5 +33,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-27.112927:30.274618:-24.728738:34.870660
-PLUGIN:TopSky plugin:ShowMapData:DNMM
+WINDOWAREA:-27.064850:30.514793:-24.398183:35.655372
+PLUGIN:TopSky plugin:ShowMapData:FQBE,FQMA
