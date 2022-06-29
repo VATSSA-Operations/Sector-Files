@@ -4,6 +4,7 @@
 
 MAP:DNKK
 FOLDER:LANDMARK
+ASRDATA:GQNN
 ACTIVE:1
 COLOR:GREY
 STYLE:Dot
@@ -12,3 +13,6 @@ STYLE:Dot
 // ##################################################################
 //                 THE END
 // ##################################################################
+
+
+DG Landmark Coast West

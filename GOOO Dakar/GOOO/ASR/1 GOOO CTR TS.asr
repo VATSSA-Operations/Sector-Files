@@ -1,25 +1,6 @@
-// ##################################################################
-//                 VATSSA | FIR GVSC | ASR | GOOO CTR TS
-// ##################################################################
-
-// Version 0.0.1
-// Update Date 17/03/2022
-
-// Changelog
-// v0.0.1 | GOOO CTR TS Initial Setup
-
-
-// ##################################################################
-//                 SETTINGS
-// ##################################################################
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Geo:DG Landmark Coast West:
-Geo:DI Landmark Coast:
-Geo:DI Landmark Lakes:
-Geo:GCCC Landmark Coastline Sahara:
-Geo:GO Landmark Coast:
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -34,3 +15,5 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:-15.077434:-61.975163:33.428949:28.699111
+PLUGIN:TopSky plugin:ShowMapData:GOOO
+PLUGIN:TopSky plugin:HideMapData:ICAO
