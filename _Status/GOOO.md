@@ -4,21 +4,23 @@ VATSSA GOOO Sector FIle Implementation Status
 
 | TYPE  | AIRPORTS |
 | ----- | -------- |
-| CTR   | - |
+| CTR   | GOOO |
 | APP   | - |
-| AD    | - |
+| AD    | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
 
 ### GROUND RADAR
 
 | FILE      | TYPE          | AIRPORTS |
-| SETTINGS  | AIRPORT       | - |
-| STANDS    | -             | - |
-| MAPS      | APPROACHES    | - |
-|           | DEPARTURES    | - |
+| -----     | --------      | - |
+| SETTINGS  | AIRPORT       | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
+| STANDS    | -             | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
+| MAPS      | APPROACHES    | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
+|           | DEPARTURES    | GUCY GFLL GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
 |           | VFR           | - |
 |           | AIRSPACE      | - |
-|           | NOTAMS        | - |
+|           | NOTAMS        | GLRB |
 |           | LAYOUTS       | - |
+|           | GEO           | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
 
 ### TOPSKY
 | FILE      | TYPE          | AIRPORTS |
@@ -52,3 +54,13 @@ VATSSA GOOO Sector FIle Implementation Status
 | PLUGIN | AIRPORTS |
 | INITIALCLIMB  | - |
 | vFPC          | - |
+
+
+### GROUNDLAYOTS
+
+| TYPE      | SUBTYPE   | AIRPORTS |
+| -----     | -------   | -------- |
+| LABELS    | TWY       | GUCY GFLL GLRB DIAP GABS GQNO GQPP GOSS GOBD GBYD |
+|           | APRONS    | - |
+|           | BUILDINGS | - |
+|           | PARKING   | - |
