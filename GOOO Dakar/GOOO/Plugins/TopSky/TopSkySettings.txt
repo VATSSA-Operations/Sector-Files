@@ -10,17 +10,20 @@
 
 
 // ##################################################################
-//                 System Wide Settings
+//                 #1 SYSTEM SETTINGS v0.2
 // ##################################################################
 
-Setup_COOPANS=1
-System_MetarSourceVATSIM=0
+Setup_COOPANS=0
+System_MetarSourceVATSIM=1
 System_QNHTL_ForceMetarSourceVATSIM=1
 System_UseMouseWheel=1
 
+System_GUI_Font_1_Size=13
+
+
 
 // ##################################################################
-//                 Colour Settings
+//                 #2 COLORS v0.1
 // ##################################################################
 
 Color_Active_Map_Type_1=120,0,0
@@ -131,18 +134,61 @@ Color_Proposition_In=0,128,125
 Color_Proposition_Out=0,64,128
 Color_Weather_Map=207,128,238
 
-// ##################################################################
-//                   Visual Settings
-// ##################################################################
-
-Window_CPDLC_Current=1,0,750
-Window_QNHTL=1,1745,46
-Window_LFUNCFP=1,1745,206
-Window_WxMsgs=0,1400,46,340,180
-Window_PrimFreqMsg=0,0,1745,300,150
 
 // ##################################################################
-//                   CPDLC Settings
+//                 #3 VISUAL v0.2
+// ##################################################################
+
+Window_WxMsgs=1,1460,46,438,200
+
+Window_QNHTL=1,1728,250
+Window_LFUNCFP=1,1728,420
+
+Window_CPDLC_Setting=1,1300,650
+Window_ATCmsg=1,1460,650,438,120
+Window_PrimFreqMsg=1,1460,775,438,120
+Window_CPDLC_Current=1,1460,900
+
+
+// ##################################################################
+//                 #4 TRACK v0.1
+// ##################################################################
+
+Track_HistoryDots=6
+Track_PredictionLine=1
+Track_DivergenceSymbol_Size=8
+
+
+// ##################################################################
+//                 #5 VECTORS v0.1
+// ##################################################################
+
+Vector_AHDG_FontSize=10
+Vector_AHDG_Label_Dist=1
+Vector_QDM_FontSize=10
+Vector_QDM_MaxNumber=12
+Vector_QDM_Airports=0
+Vector_MinSep_FontSize=10
+Vector_MinSep_Label_Time=1
+
+
+// ##################################################################
+//                 #6 HOLDINGS v0.1
+// ##################################################################
+
+Window_HoldList_MaxListItems=10
+Window_HoldList_Plugin=1
+Window_SM_AppHoldTime=5
+Window_SM_LeaveHoldBay=1
+Window_SM_LeaveHoldTime=10
+
+Malrt_Misap=MAPP
+Malrt_Inbound_EST=EST
+Malrt_Irregular=IRR
+
+
+// ##################################################################
+//                 #7 CPDLC v0.1
 // ##################################################################
 
 CPDLC_Default=1
@@ -166,26 +212,53 @@ CPDLC_FSM_CDA=CDA RECEIVED @CLEARANCE CONFIRMED
 CPDLC_FSM_CDA_Fail_NoAck=ACK NOT RECEIVED @CLEARANCE CANCELLED @REVERT TO VOICE PROCEDURES
 CPDLC_FSM_CDA_Fail_Unable=CONTACT ATC BY VOICE @REFUSE NOT SUPPORTED BY DATALINK
 
-// ##################################################################
-//                   Holding Settings
-// ##################################################################
-
-Window_HoldList_MaxListItems=10
-Window_HoldList_Plugin=1
-Window_SM_AppHoldTime=5
-Window_SM_LeaveHoldBay=1
-Window_SM_LeaveHoldTime=10
 
 // ##################################################################
-//                   Radio Direction Finder Settings
+//                 #8 RDF v0.1
 // ##################################################################
 
 RDF_Mode=2
 RDF_Accuracy=5
 RDF_Floor=2500
 
-// NAT Track information
-HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
+
+// ##################################################################
+//                   MSAW v0.1
+// ##################################################################
+
+MSAW=1
+MSAW_VFR=0
+//MSAW_Uncorrelated
+MSAW_Filter=2
+MSAW_UseCFL=1
+MSAW_Buffer_IFR=300
+//MSAW_Buffer_VFR
+//MSAW_PredictionTime
+//MSAW_PredictionStep
+
+
+// ##################################################################
+//                   NOTAMs v0.1
+// ##################################################################
+
+HTTP_NOTAM_Server=https://www.notams.faa.gov/
+HTTP_NOTAM_Page_Prefix=PilotWeb/notamRetrievalByICAOAction.do?method=displayByICAOs&reportType=RAW&formatType=DOMESTIC&retrieveLocId=
+HTTP_NOTAM_Page_Suffix=&actionType=notamRetrievalByICAOs
+HTTP_NOTAM_Data_Prefix=<PRE>
+HTTP_NOTAM_Data_Suffix=</PRE>
+//HTTP_NOTAM_Area_Sched_Text
+//HTTP_NOTAM_Area_Sched_Debug
+
+HTTP_NOTAM_AUP_Text=NO RSA     MNM MAX WEF   TIL REMARK
+HTTP_NOTAM_AUP_Offset_MNM=8
+HTTP_NOTAM_AUP_Offset_MAX=12
+HTTP_NOTAM_AUP_Offset_WEF=16
+HTTP_NOTAM_AUP_Offset_TIL=22
+
+
+// ##################################################################
+//                 #11 WX SERVER SETTINGS v0.1
+// ##################################################################
 
 // MET Settings (METAR, TAF & SIGMET)
 HTTP_METAR_Server=https://aviationweather.gov/
@@ -205,10 +278,6 @@ HTTP_SIGMET_Page_Prefix=data/iffdp/
 HTTP_SIGMET_Pages=6448
 HTTP_SIGMET_Page_Suffix=.txt
 
-// ##################################################################
-//                   Weather Radar Settings
-// ##################################################################
-
 WXR_Latitude=54.5
 WXR_Latitude_Max=61
 WXR_Latitude_Min=48
@@ -221,19 +290,21 @@ WXR_Echo_dBZ_Hi=20
 WXR_Echo_dBZ_Med=15
 WXR_Echo_dBZ_Lo=12 
 
-// ##################################################################
-//                 Runway Approach Lines
-// ##################################################################
-
-RwyAppLines_Length=20
-RwyAppLines_Markers=5
-RwyAppLines_MarkerSpacing=2
-RwyAppLines_Auto=0
 
 // ##################################################################
-//                 Airspace
+//                 #12 RWY APP LINES v0.1
 // ##################################################################
 
+Color_Rwy_App_Line_Inuse=0,145,255
+RwyAppLines_Length=15
+RwyAppLines_Markers=3
+RwyAppLines_MarkerSpacing=5
+RwyAppLines_Auto=1
+
+
+// ##################################################################
+//                 #99 AIRSPACE v0.1
+// ##################################################################
 
 Airspace_NOTAM_Add=GOBD,GOOY
 Airspace_NOTAM_Remove=GVSC
@@ -273,3 +344,8 @@ Airspace_SIGMET_Areas=GQ
 Airspace_NOTAM_Add=DIAP
 Airspace_NOTAM_Remove=GO,GB,GV
 Airspace_SIGMET_Areas=DI
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################
