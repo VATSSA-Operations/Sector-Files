@@ -16,16 +16,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Fixes:ARLIX:name
-Fixes:ARLIX:symbol
-Geo:DI Danger area D6 Abidjan - GND/600M:
-Geo:DI Landmark Coast:
-Geo:DI Landmark Lakes:
-Geo:DI Prohibited area P1 Fetekro - GND/FL245:
-Geo:DI Restricted area R2 - FL100/FL245:
-Geo:DI Restricted area R4:
-Geo:DI Restricted area R5 - GND/600M:
-Geo:DIAP Danger area Fuel Dumping:
+Geo:DIAP Groundlayout:
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -40,3 +31,5 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:3.760367:-7.301284:7.093701:-1.070194
+PLUGIN:TopSky plugin:ShowMapData:GOOO,DIAP
+PLUGIN:TopSky plugin:HideMapData:ICAO
