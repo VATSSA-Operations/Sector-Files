@@ -16,70 +16,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Fixes:AMROD:name
-Fixes:AMROD:symbol
-Fixes:BIKIS:name
-Fixes:BIKIS:symbol
-Fixes:BOMSA:name
-Fixes:BOMSA:symbol
-Fixes:DEPAL:name
-Fixes:DEPAL:symbol
-Fixes:DESAX:name
-Fixes:DESAX:symbol
-Fixes:ENURI:name
-Fixes:ENURI:symbol
-Fixes:ERIDI:name
-Fixes:ERIDI:symbol
-Fixes:KILGO:name
-Fixes:KILGO:symbol
-Fixes:KODUS:name
-Fixes:KODUS:symbol
-Fixes:KOSOM:name
-Fixes:KOSOM:symbol
-Fixes:LIMAX:name
-Fixes:LIMAX:symbol
-Fixes:NURAS:name
-Fixes:NURAS:symbol
-Geo:GB Danger area D1 Kassa Kunda - SFC/FL055:
-Geo:GB Prohibited area P1 Banjul - SFC/FL055:
-Geo:GBYD Groundlayout:
-Geo:GO Danger area D12 Sangal - GND/400M:
-Geo:GO Danger area D13 Niaga - GND/4000M:
-Geo:GO Danger area D14 MBaouane - GND/4000M:
-Geo:GO Danger area D15 MBour - GND/400M:
-Geo:GO Danger area D17 Tambacounda - GND/500M:
-Geo:GO Danger area D18 Alpha - NOTAM:
-Geo:GO Danger area D19 Bravo - NOTAM:
-Geo:GO Danger area D21 Botou - GND/A035:
-Geo:GO Danger area D23 Kaniak - GND/FL100:
-Geo:GO Danger area D25 Thiaroye - GND/FL100:
-Geo:GO Danger area D27 St Louis - GND/FL100:
-Geo:GO Danger area D28 Dodji - GND/FL100:
-Geo:GO Danger area D7 Thies - NOTAM:
-Geo:GO Danger area D8 Thies - GND/1000M:
-Geo:GO Danger area D9 Semou Djimitte - GND/1000M:
-Geo:GO Landmark Coast:
-Geo:GO Prohibited area P1 Military Aerodrome - GND/FL100:
-Geo:GO Prohibited area P30 Blaise Diagne - GND/FL040:
-Geo:GO Restricted area R10 National Park of Basse Casamance - GND/300M:
-Geo:GO Restricted area R11 - GND/FL050:
-Geo:GO Restricted area R2 National Park of Djoudj - GND/300M:
-Geo:GO Restricted area R22 Dakar - GND/FL040:
-Geo:GO Restricted area R29 Defile Aerien - A002/A020:
-Geo:GO Restricted area R3 National Park of Niokolo Koba - GND/300M:
-Geo:GO Restricted area R4 National Park of the Madeleine Islands - GND/300M:
-Geo:GO Restricted area R5 National Park of the Lagune of Barbarie - GND/300M:
-Geo:GO Restricted area R6 - GND/FL195:
-Geo:GOBD Groundlayout:
-Geo:GOOY Danger area Fuel Dumping - GND/FL060:
-Geo:GOOY Groundlayout:
-Geo:GOSS Groundlayout:
-NDBs:SLO:frequency
-NDBs:SLO:name
-NDBs:SLO:symbol
-VORs:BJ:frequency
-VORs:BJ:name
-VORs:BJ:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -94,3 +30,5 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:12.236890:-22.262931:17.445223:-12.526855
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GGOV
+PLUGIN:TopSky plugin:HideMapData:ICAO
