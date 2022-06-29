@@ -70,3 +70,6 @@ PLUGIN:Ground Radar plugin:AirportElevation:290
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:GOBD
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GOBD
+PLUGIN:TopSky plugin:HideMapData:ICAO

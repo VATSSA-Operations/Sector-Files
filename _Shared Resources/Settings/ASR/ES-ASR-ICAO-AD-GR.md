@@ -34,7 +34,7 @@ TAGFAMILY:VATSSA TopSky
 WINDOWAREA:16.727681:-22.969094:16.746272:-22.934014
 PLUGIN:Ground Radar plugin:AirportElevation:184
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:GVAC
+PLUGIN:Ground Radar plugin:GroundMode:AIRPORT
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:GVAC
-PLUGIN:TopSky plugin:HideMapData:GVSC
+PLUGIN:TopSky plugin:ShowMapData:FIR,AIRPORT
+PLUGIN:TopSky plugin:HideMapData:ICAO
