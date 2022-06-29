@@ -1,5 +1,6 @@
 VATSSA GOOO Sector FIle Implementation Status
 
+
 ### ASRs
 
 | TYPE  | AIRPORTS |
@@ -7,6 +8,7 @@ VATSSA GOOO Sector FIle Implementation Status
 | CTR   | GOOO |
 | APP   | - |
 | AD    | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
+
 
 ### GROUND RADAR
 
@@ -22,25 +24,28 @@ VATSSA GOOO Sector FIle Implementation Status
 |           | LAYOUTS       | - |
 |           | GEO           | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
 
+
 ### TOPSKY
+
 | FILE      | TYPE          | AIRPORTS |
+| -----     | --------      | - |
 | AIRSPACE  | TL QNH        | - |
 |           | LEVELS        | - |
 | AREAS     | DANGER        | - |
 |           | RESTRICTED    | - |
 |           | PROHIBITED    | - |
 | CPDLC     | -             | - |
-| MAPS      | FIR           | - |
+| MAPS      | FIR           | DONE |
 |           | ARRIVALS      | - |
-|           | APPROACHES    | - |
-|           | DEPARTURES    | - |
+|           | APPROACHES    | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
+|           | DEPARTURES    | GUCY GFLL GGOV GLRB DIAP GABS GQNO GQPP GOSS GOBD GOOY GBYD |
 |           | NOTAMS        | - |
 |           | VFR           | - |
-|           | AIRSPACE      | TMA - - |
-|           | AIRSPACE      | CTR - - |
+|           | AIRSPACE      | TMA - DIAP |
+|           | AIRSPACE      | CTR - DIAP |
 |           | MSAs          | - |
 |           | LAYOUTS       | - |
-|           | GEO           | - |
+|           | GEO           | DONE |
 | MSAW      | AD VOR        | - |
 |           | AD RNAV       | - |
 |           | GRID MORA     | - |
@@ -51,7 +56,8 @@ VATSSA GOOO Sector FIle Implementation Status
 
 ### INITIALCIMB & vFPC
 
-| PLUGIN | AIRPORTS |
+| PLUGIN        | AIRPORTS |
+| -----         | -------- |
 | INITIALCLIMB  | - |
 | vFPC          | - |
 
