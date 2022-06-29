@@ -36,3 +36,5 @@ PLUGIN:Ground Radar plugin:AirportElevation:91
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:GFLL
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GLRB,GFLL
+PLUGIN:TopSky plugin:HideMapData:ICAO
