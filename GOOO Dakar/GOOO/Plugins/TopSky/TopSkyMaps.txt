@@ -2,12 +2,11 @@
 //                 VATSSA | FIR GOOO | TopSky | Maps
 // ##################################################################
 
-// Version v0.0.2
+// Version v0.3
 // Update Date 26/04/2022
 
 // Changelog
-// v0.0.1 | GOOO Initial Setup
-// v0.0.2 | GUCY, GFLL and GLRB AD, Runway, Approach and STAR Maps
+// v0.3 | VCF Applied to File
 
 
 // ##################################################################
