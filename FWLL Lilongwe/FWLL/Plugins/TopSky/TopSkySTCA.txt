@@ -1,24 +1,29 @@
 // ##################################################################
-//                 VATSSA | FIR FWLL | TopSky | Airspace
+//                 VATSSA | FIR FWLL | TopSky | STCA
 // ##################################################################
 
 // Version v0.1
-// Update Date 23/06/2022
+// Update Date 24/06/2022
 
 // Changelog
-// v0.1 | FWLL TopSkyAirspace Initial Setup
+// v0.1 | FWLL TopSkySTCA Initial Setup
 
 
 // ##################################################################
 //                 FW MALAWI
 // ##################################################################
 
-// TL Transition Level
-QNHTL:FWKI:80
+// FWKI | KAMUZU INTL
 
-// LEVELS
-LEVELS:FWKI:52,55,57
+FINALAPP:FWKI:14
+FINALAPP:FWKI:32
+
+// FWCL | CHILEKA INTL
+
+FINALAPP:FWCL:10
+FINALAPP:FWCL:28
+
 
 // ##################################################################
-//                 END
+//                 THE END
 // ##################################################################
