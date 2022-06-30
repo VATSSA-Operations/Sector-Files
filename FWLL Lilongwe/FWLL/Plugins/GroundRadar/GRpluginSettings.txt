@@ -12,7 +12,7 @@
 
 
 // ##################################################################
-//                 SYSTEM SETTINGS v0.1
+//                 #1 SYSTEM SETTINGS v0.1
 // ##################################################################
 
 Equip_ModeS=WZLCISG
@@ -39,7 +39,7 @@ System_TagColor=2
 
 
 // ##################################################################
-//                 COLORS v0.3
+//                 #2 COLORS v0.3
 // ##################################################################
 
 Color_Arrival=253,189,166
@@ -63,7 +63,7 @@ AppLabel_Transparency_Bg=255
 
 
 // ##################################################################
-//                 LABELS v0.3
+//                 #3 LABELS v0.3
 // ##################################################################
 
 GroundLabel=1
@@ -105,7 +105,59 @@ Label_GS=0,0,1
 
 
 // ##################################################################
-//                 OTHERS v0.1
+//                 #6A LISTS | DEPARTURE v0.1
+// ##################################################################
+
+List_Departure=0,1100,45
+List_Departure_RWY=1
+List_Departure_TYPE=1
+List_Departure_WTC=1
+List_Departure_EOBT=1
+List_Departure_STAND=1
+List_Departure_Items=10
+
+
+// ##################################################################
+//                 #6B LISTS | ARRIVALS v0.1
+// ##################################################################
+
+List_Arrival=0,1390,45
+List_Arrival_RWY=1
+List_Arrival_TYPE=1
+List_Arrival_WTC=1
+List_Arrival_ETA=1
+List_Arrival_STAND=1
+List_Arrival_Items=10
+List_Arrival_MaxTime=60
+
+List_Inbound_TYPE=0
+List_Inbound_WTC=0
+List_Inbound_ETA=1
+List_Inbound_STAND=0
+
+
+// ##################################################################
+//                 #6C LISTS | STANDS v0.1
+// ##################################################################
+
+List_Stand=0,1680,45
+List_Stand_Items=20
+
+
+// ##################################################################
+//                 #7 TIMERS | DEPARTURE v0.1
+// ##################################################################
+
+List_Outbound_DefPos=1100,150
+List_Outbound_TYPE=1
+List_Outbound_WTC=1
+List_Outbound_WTC_Type=2
+List_Outbound_SID=1
+List_Outbound_ExpiryTime=600
+
+
+// ##################################################################
+//                 #8 OTHERS v0.1
 // ##################################################################
 
 Track_PredictionLine_TWR=1
@@ -126,55 +178,24 @@ Track_Heading_Line=0
 
 
 // ##################################################################
-//                 LISTS | DEPARTURES v0.1
+//                 #9 AIRPORT SETTINGS v0.1
 // ##################################################################
 
-List_Departure=0,1100,45
-List_Departure_RWY=1
-List_Departure_TYPE=1
-List_Departure_WTC=1
-List_Departure_EOBT=1
-List_Departure_STAND=1
-List_Departure_Items=10
-
-
 // ##################################################################
-//                 LISTS | DEPARTURE TIMER v0.1
+//                 FW MALAWI
 // ##################################################################
 
-List_Outbound_DefPos=1100,150
-List_Outbound_TYPE=1
-List_Outbound_WTC=1
-List_Outbound_WTC_Type=2
-List_Outbound_SID=1
-List_Outbound_ExpiryTime=600
+[FWKI]
+Airport_Elevation=4029
+Airport_Radius=3
 
+Window_APP=1,1300,350,500,250
+Window_APP_Rotation=320
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
 
-// ##################################################################
-//                 LISTS | ARRIVALS v0.1
-// ##################################################################
-
-List_Arrival=0,1390,45
-List_Arrival_RWY=1
-List_Arrival_TYPE=1
-List_Arrival_WTC=1
-List_Arrival_ETA=1
-List_Arrival_STAND=1
-List_Arrival_Items=10
-List_Arrival_MaxTime=60
-
-List_Inbound_TYPE=0
-List_Inbound_WTC=0
-List_Inbound_ETA=1
-List_Inbound_STAND=0
-
-
-// ##################################################################
-//                 LISTS | STANDS v0.1
-// ##################################################################
-
-List_Stand=0,1680,45
-List_Stand_Items=20
+AppPath=FWKI:FWKI 14:S013.46.44.759:E033.46.06.319:133:L:4025:3.0
 
 
 // ##################################################################
