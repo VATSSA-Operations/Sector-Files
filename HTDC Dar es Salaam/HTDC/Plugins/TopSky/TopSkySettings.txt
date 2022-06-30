@@ -37,7 +37,7 @@ System_GUI_Scale_Windows=1.2
 
 //END SCALING
 
-Setup_COOPANS=1
+Setup_COOPANS=0
 
 Airspace_ASSR_Type=1
 Airspace_ASSR_StartCode=3300
