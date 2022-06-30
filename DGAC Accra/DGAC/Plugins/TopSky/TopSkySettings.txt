@@ -12,7 +12,7 @@
 //                 #1 SYSTEM SETTINGS v0.2
 // ##################################################################
 
-Setup_COOPANS=1
+Setup_COOPANS=0
 System_MetarSourceVATSIM=1
 System_QNHTL_ForceMetarSourceVATSIM=1
 System_UseMouseWheel=1
