@@ -9,6 +9,7 @@ FYWH Windhoek/FYWH - Common - MA.prf
 FQBE Beira/FQBE - Common - MA.prf
 FSSS Seychelles/FSSS - Common - MA.prf
 FASA South Africa/FASA - Common - MA.prf
+<<<<<<< Updated upstream
 DGAC Accra/DGAC - Common - MA.prf
 FBGR Gaborone/FBGR - Common - MA.prf
 FCCC Brazzaville/FCCC - Common - MA.prf
@@ -21,3 +22,16 @@ GOOO Dakar/GOOO - Common - MA.prf
 HKNA Nairobi/HKNA - Common - MA.prf
 HTDC Dar es Salaam/HTDC - Common - MA.prf
 HUEC Entebbe/HUEC - Common - MA.prf
+=======
+HUEC Entebbe/HUEC - Common - MA.prf
+HTDC Dar es Salaam/HTDC - Common - MA.prf
+HKNA Nairobi/HKNA - Common - MA.prf
+FZZA Kinshasa/FZZA - Common - MA.prf
+FWLL Lilongwe/FWLL - Common - MA.prf
+FVHF Harare/FVHF - Common - MA.prf
+FMMM Antananarivo/FMMM - Common - MA.prf
+FLFI Lusaka/FLFI - Common - MA.prf
+FCCC Brazzaville/FCCC - Common - MA.prf
+FBGR Gaborone/FBGR - Common - MA.prf
+DGAC Accra/DGAC - Common - MA.prf
+>>>>>>> Stashed changes
