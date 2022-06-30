@@ -1,27 +1,26 @@
 // ##################################################################
-//                 VATSSA | FIR FZZA | TopSky | Airspace
+//                 VATSSA | FIR FZZA | TopSky | STCA
 // ##################################################################
 
 // Version v0.1
-// Update Date 30/06/2022
+// Update Date 24/06/2022
 
 // Changelog
-// v0.1 | FZZA TopSkyAirspace Initial Setup
+// v0.1 | FZZA TopSkySTCA Initial Setup
 
 
 // ##################################################################
 //                 FZ DEM REP OF CONGO
 // ##################################################################
 
-// TL Transition Level
-QNHTL:FZAA:60
-QNHTL:FZNA:150
+// FZAA
+FINALAPP:FZAA:06
+FINALAPP:FZAA:24
 
-// LEVELS
-LEVELS:FZAA:26,,30,35,40,42,45,50,55,60
-LEVELS:FZNA:69,70,80
+// FZNA
+FINALAPP:FZNA:35
 
 
 // ##################################################################
-//                 END
+//                 THE END
 // ##################################################################

@@ -1,8 +1,20 @@
 // ##################################################################
-//                 COLORS v0.1
+//                 VATSSA | FIR FZZA | GroundRadar | Maps
+// ##################################################################
+
+// Version v0.1
+// Update Date 30/06/2022
+
+// Changelog
+// v0.1 | FZZA GroundRadar Maps Initial Setup
+
+
+// ##################################################################
+//                 #1 COLORS v0.2
 // ##################################################################
 
 // ACTIVE
+COLORDEF:DEPLINES:255:253:228
 COLORDEF:BLUE:0:145:255
 COLORDEF:GREEN:0:175:29
 COLORDEF:YELLOW:80:80:0
@@ -27,53 +39,198 @@ COLORDEF:CENTERLINES:111:111:60
 
 
 // ##################################################################
-//                 FZAA KINSHASA
+//                 #2 SYMBOLS v0.2
 // ##################################################################
 
-MAP:FZAA
-FOLDER:LAYOUTS
-ASRDATA:FZAA-AD
-ACTIVE:1
-// Grass Background
-COLOR:BACKGROUND
-COORDTYPE:OTHER:REGION
-CIRCLE:S004.23.08.120:E015.26.40.88:10:1
+// VFR FIXES
+SYMBOLDEF:VFR
+ARC:0:0:3:0:360
+
+// APPROACH  <--
+SYMBOLDEF:APPL
+POLYGON:0:-5:-5:0:0:5
+
+// APPROACH  -->
+SYMBOLDEF:APPR
+POLYGON:0:5:5:0:0:-5
+
+// DEPARTURE <--
+SYMBOLDEF:DEPL
+POLYGON:0:-5:-5:0:0:5
+
+// DEPARTURE -->
+SYMBOLDEF:DEPR
+POLYGON:0:5:5:0:0:-5
+
+// VOR
+SYMBOLDEF:VOR
+MOVETO:-5:-5
+LINETO:5:-5
+LINETO:5:5
+LINETO:-5:5
+LINETO:-5:-5
+MOVETO:-5:0
+LINETO:0:-5
+LINETO:5:0
+LINETO:0:5
+LINETO:-5:0
+MOVETO:0:1
+LINETO:1:0
+LINETO:0:-1
+LINETO:-1:0
+LINETO:0:1
+
+// NDB
+SYMBOLDEF:NDB
+MOVETO:-5:-5
+LINETO:5:-5
+LINETO:5:5
+LINETO:-5:5
+LINETO:-5:-5
+MOVETO:-1:-2
+LINETO:1:-2
+LINETO:1:-1
+LINETO:2:-1
+LINETO:2:1
+LINETO:1:1
+LINETO:1:2
+LINETO:-1:2
+LINETO:-1:1
+LINETO:-2:1
+LINETO:-2:-1
+LINETO:0:-1
 
 
-// APRON SURFACE
-COLOR:APRONSURFACE
-SCTDATA:GEO\FZAA Groundlayout Apron
+// ##################################################################
+//                 #3 APPROACHES v0.1
+// ##################################################################
 
-// RWY 18R/36L
-COLOR:HARDSURFACE2
-COORDTYPE:OTHER:REGION
-SCTDATA:GEO\FZAA Groundlayout Runway
+// FZAA | N'DJILI
 
-// RWY MARKINGS
-COLOR:WHITE
-SCTDATA:GEO\FZAA Groundlayout Runway Markings
+MAP:APPROACH 06:A
+FOLDER:FZAA
+AIRPORT:FZAA
+ACTIVE:RWY:ARR:FZAA06:DEP:FZAA06
+COLOR:RED
+SYMBOL:APPR:A06F1
+SYMBOL:APPR:A06C1
+COLOR:BLACK
+TEXT:A06F1:A06F1:0:17
+TEXT:A06F1:2640:0:-17
+TEXT:A06C1:A06C1:0:17
+TEXT:A06C1:4200:0:-17
+STYLE:Dot
+SCTDATA:STAR\FZAA RNAV06
+SCTDATA:STAR\FZAA RNAV06 OMIBA
+SCTDATA:STAR\FZAA RNAV06 ATKOT
 
-// TWY CENTER LINES
-COLOR:CENTERLINES
-SCTDATA:GEO\FZAA Groundlayout Taxiway Centerlines
+MAP:APPROACH 24:A
+FOLDER:FZAA
+AIRPORT:FZAA
+ACTIVE:RWY:ARR:FZAA24:DEP:FZAA24
+COLOR:RED
+SYMBOL:APPL:A24F1
+SYMBOL:APPL:A24C1
+COLOR:BLACK
+TEXT:A24F1:A24F1:0:17
+TEXT:A24F1:2800:0:-17
+TEXT:A24C1:A24C1:0:17
+TEXT:A24C1:4000:0:-17
+STYLE:Dot
+SCTDATA:STAR\FZAA RNAV24
+SCTDATA:STAR\FZAA RNAV24 OTGID
+SCTDATA:STAR\FZAA RNAV24 TENVU
+SCTDATA:STAR\FZAA RNAV24 URISO
 
-// TWY SURFACES
-COLOR:WHITE
-SCTDATA:GEO\FZAA Groundlayout Taxiways
+// FZNA | GOMA INTL
 
-// TWY Stopbars
-COLOR:STOPBAR
-SCTDATA:GEO\FZAA Groundlayout Stopbars
+MAP:APPROACH 35:A
+FOLDER:FZNA
+AIRPORT:FZNA
+ACTIVE:RWY:ARR:FZNA35:DEP:FZNA35
+COLOR:RED
+SYMBOL:APPL:N35F1
+SYMBOL:APPL:N35C1
+COLOR:BLACK
+TEXT:N35F1:N35F1:0:17
+TEXT:N35C1:N35C1:0:17
+TEXT:N35C1:Z 6900 / Y 7000 / 210 KT:0:-17
+STYLE:Dot
+SCTDATA:STAR\FZNA RNP35-Y
+SCTDATA:STAR\FZNA RNP35-Y TIBKA
+SCTDATA:STAR\FZNA RNP35-Y SIVLO
 
-// STANDS
-COLOR:WHITE
-SCTDATA:GEO\FZAA Groundlayout Parking Positions
+
+// ##################################################################
+//                 #4 DEPARTURES v0.1
+// ##################################################################
+
+// FZAA | N'DJILI
+
+MAP:DEPARTURE 06:A
+FOLDER:FZAA
+AIRPORT:FZAA
+ACTIVE:RWY:ARR:FZAA06:DEP:FZAA06
+COLOR:BLUE
+SYMBOL:DEPR:XOTSO
+COLOR:BLACK
+TEXT:XOTSO:XOTSO:0:17
+TEXT:XOTSO:+2000:0:-17
+
+MAP:DEPARTURE 24:A
+FOLDER:FZAA
+AIRPORT:FZAA
+ACTIVE:RWY:ARR:FZAA24:DEP:FZAA24
+COLOR:BLUE
+SYMBOL:DEPL:DITLI
+COLOR:BLACK
+TEXT:DITLI:DITLI:0:17
+TEXT:DITLI:+2000:0:-17
+
+// FZNA | GOMA INTL
+
+MAP:DEPARTURE 17:A
+FOLDER:FZNA
+AIRPORT:FZNA
+ACTIVE:RWY:ARR:FZNA17:DEP:FZNA17
+COLOR:BLUE
+SYMBOL:DEPR:XUKOM
+COLOR:BLACK
+TEXT:XUKOM:XUKOM:0:17
+TEXT:XUKOM:250 KT:0:-17
+
+MAP:DEPARTURE 35:A
+FOLDER:FZNA
+AIRPORT:FZNA
+ACTIVE:RWY:ARR:FZNA35:DEP:FZNA35
+COLOR:BLUE
+SYMBOL:DEPL:BAMET
+SYMBOL:DEPL:ASMAT
+COLOR:BLACK
+TEXT:ASMAT:ASMAT:0:17
+TEXT:ASMAT:160 KT:0:-17
 
 
+// ##################################################################
+//                 #5 VFR v0.1
+// ##################################################################
 
+// ##################################################################
+//                 #6 AIRSPACE v0.1
+// ##################################################################
 
+// ##################################################################
+//                 #7 NOTAMS v0.1
+// ##################################################################
 
+// ##################################################################
+//                 #8 GROUND LAYOUTS v0.1
+// ##################################################################
 
+// ##################################################################
+//                 #9 GEO v0.1
+// ##################################################################
 
-COLOR:WHITE
-SCTDATA:GEO\FZAA Groundlayout Parking Positions
+// ##################################################################
+//                 THE END
+// ##################################################################
