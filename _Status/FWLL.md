@@ -4,51 +4,65 @@ VATSSA FWLL Sector FIle Implementation Status
 
 | TYPE  | AIRPORTS |
 | ----- | -------- |
-| CTR   | - |
-| APP   | - |
-| AD    | - |
+| CTR   | FWLL |
+| APP   | FWKI |
+| AD    | FWKI |
 
 ### GROUND RADAR
 
 | FILE      | TYPE          | AIRPORTS |
-| SETTINGS  | AIRPORT       | - |
+| -----     | --------      | - |
+| SETTINGS  | AIRPORT       | FWKI |
 | STANDS    | -             | - |
-| MAPS      | APPROACHES    | - |
-|           | DEPARTURES    | - |
+| MAPS      | APPROACHES    | FWKI |
+|           | DEPARTURES    | FWKI |
 |           | VFR           | - |
 |           | AIRSPACE      | - |
 |           | NOTAMS        | - |
 |           | LAYOUTS       | - |
 
 ### TOPSKY
+
 | FILE      | TYPE          | AIRPORTS |
-| AIRSPACE  | TL QNH        | - |
-|           | LEVELS        | - |
+| -----     | --------      | - |
+| AIRSPACE  | TL QNH        | FWKI |
+|           | LEVELS        | FWKI |
 | AREAS     | DANGER        | - |
 |           | RESTRICTED    | - |
 |           | PROHIBITED    | - |
 | CPDLC     | -             | - |
 | MAPS      | FIR           | - |
-|           | ARRIVALS      | - |
-|           | APPROACHES    | - |
+|           | ARRIVALS      | FWKI |
+|           | APPROACHES    | FWKI |
 |           | DEPARTURES    | - |
 |           | NOTAMS        | - |
 |           | VFR           | - |
-|           | AIRSPACE      | TMA - - |
-|           | AIRSPACE      | CTR - - |
+|           | AIRSPACE      | TMA - FWKI |
+|           | AIRSPACE      | CTR - FWKI FWCL |
 |           | MSAs          | - |
 |           | LAYOUTS       | - |
-|           | GEO           | - |
-| MSAW      | AD VOR        | - |
+|           | GEO           | DONE |
+| MSAW      | AD VOR        | FWKI FWCL |
 |           | AD RNAV       | - |
-|           | GRID MORA     | - |
+|           | GRID MORA     | DONE |
 | SETTINGS  | AIRPORTS      | - |
-| STCA      | -             | - |
-| VIEWS     | -             | - |
+| STCA      | -             | FWKI FWCL |
+| VIEWS     | -             | FWKI FWCL |
 
 
 ### INITIALCIMB & vFPC
 
-| PLUGIN | AIRPORTS |
+| PLUGIN        | AIRPORTS |
+| -----         | -------- |
 | INITIALCLIMB  | - |
 | vFPC          | - |
+
+
+### GROUNDLAYOTS
+
+| TYPE      | SUBTYPE   | AIRPORTS |
+| -----     | -------   | -------- |
+| LABELS    | TWY       | - |
+|           | APRONS    | - |
+|           | BUILDINGS | - |
+|           | PARKING   | - |
