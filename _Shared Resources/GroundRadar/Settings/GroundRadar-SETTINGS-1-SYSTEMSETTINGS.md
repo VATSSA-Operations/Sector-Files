@@ -1,5 +1,5 @@
 // ##################################################################
-//                 #1 SYSTEM SETTINGS v0.1
+//                 #1 SYSTEM SETTINGS v0.2
 // ##################################################################
 
 Equip_ModeS=WZLCISG
@@ -14,7 +14,7 @@ System_RwyBufferArea=90.0
 System_RwyArea_LVP=90.0
 System_RwyBufferArea_LVP=140.0
 
-System_State_OnFreq=STBY
+System_State_OnFreq=FREQ
 System_State_StartUp=XX
 System_State_Push=PB
 System_State_Taxi=TX

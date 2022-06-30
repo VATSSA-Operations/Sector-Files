@@ -5,10 +5,8 @@
 // GroundRadar Version 1.5 Beta 5
 
 // Version v0.1
-// Update Date 26/06/2022
+// Update Date 30/06/2022
 
-// Changelog
-// v0.1 | FIMM GroundRadar Settings Initial Update
 
 // ##################################################################
 //                 #0 PREVIOUS SETTINGS
@@ -110,6 +108,14 @@ Color_APP_Background=160,160,160
 //                 #7 TIMERS | DEPARTURE v0.1
 // ##################################################################
 
+List_Outbound_DefPos=1100,150
+List_Outbound_TYPE=1
+List_Outbound_WTC=1
+List_Outbound_WTC_Type=2
+List_Outbound_SID=1
+List_Outbound_ExpiryTime=600
+
+
 // ##################################################################
 //                 #8 OTHERS v0.1
 // ##################################################################
@@ -138,6 +144,7 @@ AppPath=FIMP:FIMP 14:S020.25.28.779:E057.40.19.268:136:R:183:3.5
 //AppPath=FIMP:FIMP14:S020.25.34.880:E057.40.31.662:117:R:184:3
 //AppPath=FIMP:FIMP32:S020.26.07.773:E057.41.40.060:297:L:98:3
 
+
 // ##################################################################
 //                 FJ DIEGO GARCIA
 // ##################################################################
@@ -153,6 +160,7 @@ Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
 AppPath=FJDG:FJDG 31:N000.03.20.008:E032.26.10.410:170:L:3780:3.0
+
 
 // ##################################################################
 //                 END
