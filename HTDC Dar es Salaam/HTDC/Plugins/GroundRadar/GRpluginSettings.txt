@@ -180,19 +180,17 @@ Track_Heading_Line=0
 //                 HT TANZANIA
 // ##################################################################
 
-// TO BE CORRECTED
-
-[ICAO]
+[HTDA]
 Airport_Elevation=184
 Airport_Radius=3
 
 Window_APP=1,1300,350,500,250
-Window_APP_Rotation=90
-Window_APP_Scale=20
+Window_APP_Rotation=45
+Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
-AppPath=HUEN:HUEN 17:N000.03.20.008:E032.26.10.410:170:L:3780:3.0
+AppPath=HTDA:HTDA 05:S006.52.58.249:E039.11.52.551:047:L:176:3.0
 
 
 // ##################################################################
