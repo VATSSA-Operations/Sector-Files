@@ -192,6 +192,41 @@ Window_APP_AltFilter=5000
 
 AppPath=DGAA:DGAA 21:N005.36.56.170:W000.09.46.630:206:L:197:3.0
 
+
 // ##################################################################
-//                 END
+//                 DB BENIN
+// ##################################################################
+
+[DBBB]
+Airport_Elevation=19
+Airport_Radius=3
+
+Window_APP=1,1200,680,600,200
+Window_APP_Rotation=68
+Window_APP_Scale=10
+Window_APP_Extensions=10
+Window_APP_AltFilter=5000
+
+AppPath=DBBB:DBBB 24:N006.21.49.381:E002.23.35.159:235:L:15:3.0
+
+
+// ##################################################################
+//                 DX TOGO
+// ##################################################################
+
+[DXXX]
+Airport_Elevation=72
+Airport_Radius=3
+
+Window_APP=1,1200,680,600,200
+Window_APP_Rotation=68
+Window_APP_Scale=10
+Window_APP_Extensions=10
+Window_APP_AltFilter=5000
+
+AppPath=DXXX:DXXX 22:N006.10.34.838:E001.15.45.349:222:L:64:3.0
+
+
+// ##################################################################
+//                 THE END
 // ##################################################################
