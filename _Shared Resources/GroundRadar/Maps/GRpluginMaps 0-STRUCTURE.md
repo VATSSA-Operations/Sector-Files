@@ -5,9 +5,6 @@
 // Version v0.1
 // Update Date 19/05/2022
 
-// Changelog
-// v0.1 | ICAO GroundRadar Maps Initial Setup
-
 
 // ##################################################################
 //                 #1 COLORS v0.1
