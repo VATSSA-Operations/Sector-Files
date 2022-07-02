@@ -85,6 +85,19 @@ TowerLabel_Transparency_Bg=255
 //                 FA SOUTH AFRICA
 // ##################################################################
 
+[FACT]
+Airport_Elevation=160
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=285
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
+
+
 // ##################################################################
 //                 END
 // ##################################################################
