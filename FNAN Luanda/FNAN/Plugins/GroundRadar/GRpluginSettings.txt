@@ -180,6 +180,23 @@ Track_Heading_Line=0
 //                 FH ST HELENA
 // ##################################################################
 
+[FNLU]
+Airport_Elevation=238
+Airport_Radius=3
+
+Window_APP=1,10,600,500,250
+Window_APP_Rotation=22.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=FNLU:FNLU 23:S008.51.17.521:E013.14.14.438:233:L:232:3.0
+
+
+// ##################################################################
+//                 FH ST HELENA
+// ##################################################################
+
 [FHSH]
 Airport_Elevation=1017
 Airport_Radius=3
