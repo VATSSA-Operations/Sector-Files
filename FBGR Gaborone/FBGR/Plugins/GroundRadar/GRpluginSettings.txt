@@ -180,19 +180,27 @@ Track_Heading_Line=0
 //                 FB BOTSWANA
 // ##################################################################
 
-// TO BE CORRECTED
-
-[ICAO]
-Airport_Elevation=184
+[FBSK]
+Airport_Elevation=3299
 Airport_Radius=3
 
-Window_APP=1,1300,350,500,250
-Window_APP_Rotation=90
-Window_APP_Scale=20
+Window_APP=1,1300,200,500,250
+Window_APP_Rotation=28
+Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
-AppPath=HUEN:HUEN 17:N000.03.20.008:E032.26.10.410:170:L:3780:3.0
+AppPath=FBSK:FBSK 08:S024.33.42.141:E025.54.19.418:078:L:3292:3.0
+
+[FBMN]
+Airport_Elevation=3094
+Airport_Radius=3
+
+Window_APP=1,1300,350,500,250
+Window_APP_Rotation=24.4
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
 
 
 // ##################################################################
