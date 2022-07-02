@@ -23,9 +23,6 @@ GroundLabel_Font=EuroScope
 AppLabel_Font=EuroScope
 TowerLabel_Font=EuroScope
 
-// Filtering
-System_GroundMode_AltFilter_AAL=10000
-
 // Colors
 Color_Departure=20,255,255
 Color_Arrival=255,230,0
@@ -46,16 +43,90 @@ TowerLabel_Transparency_Bg=255
 
 
 // ##################################################################
-//                 #1 SYSTEM SETTINGS v0.1
+//                 #1 SYSTEM SETTINGS v0.3
 // ##################################################################
+
+Equip_ModeS=WZLCISG
+Equip_ProMode=0
+RawVideo=1
+RawVideo_MaxHistory=5
+
+System_GroundMode_AltFilter_AAL=10000
+System_UseReportedGS=1
+System_RwyArea=45.0 
+System_RwyBufferArea=90.0 
+System_RwyArea_LVP=90.0
+System_RwyBufferArea_LVP=140.0
+
+System_State_OnFreq=ON FREQ
+System_State_DeIce=DEICE
+System_State_StartUp=START UP
+System_State_Push=PUSH
+System_State_Taxi=TAXI
+System_State_Taxi_In=TAXI
+System_State_Taxi_Out=TAXI
+System_State_LineUp=LINE UP
+System_State_Depa=TAKE OFF
+System_State_Parked=PARKED
+
+System_TagColor=2
 
 // ##################################################################
 //                 #2 COLORS v0.3
 // ##################################################################
 
+Color_Background=160,160,160
+
+
 // ##################################################################
-//                 #3 LABELS v0.3
+//                 #3 LABELS v0.4
 // ##################################################################
+
+GroundLabel=1
+GroundLabel_Font=EuroScope
+GroundLabel_FontStyle=1000,0,0,0
+GroundLabel_FontSize=11
+GroundLabel_Transparency_Bg=100
+TowerLabel_FontSize=11
+AppLabel_FontSize=11
+
+Label=GND:ARR:0:ALRT,0,0:COMM,0,1 
+Label=GND:ARR:1:CALLSIGN,0,0:STAND,0,1 
+Label=GND:ARR:2:ATYP,0,0:WTC,0,1,0
+Label=GND:ARR:3:RMK,0,1 
+
+Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
+Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
+Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
+Label=GND:DEP:3:DEP,0,0:GS,2,1,0:RMK,0,1 
+
+Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
+Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
+Label=TWR:ARR:2:AFL+VS,0,1,20:GS,0,1
+Label=TWR:ARR:3:ATYP,0,0:RMK,0,1 
+
+Label=TWR:DEP:0:ALRT,0,0:COMM,0,1 
+Label=TWR:DEP:1:CALLSIGN,0,0:ATYP,0,1
+Label=TWR:DEP:2:AFL+VS,0,1,20:GS,0,1
+Label=TWR:DEP:3:DEP,0,0:RMK,0,1
+
+Label=APP:ARR:0:ALRT,0,0:COMM,0,1
+Label=APP:ARR:1:CALLSIGN,0,0
+Label=APP:ARR:2:AFL+VS,0,1,20
+
+Label=APP:DEP:0:ALRT,0,0:COMM,0,1
+Label=APP:DEP:1:CALLSIGN,0,0
+Label=APP:DEP:2:AFL+VS,0,1,20
+
+Label_AFL+VS=1,1,1,1
+Label_ARWY=0,0,0
+Label_ATYP=0,0,0
+Label_DEP=0,1,0
+Label_DRWY=0,1,0
+Label_RMK=0,1,1
+Label_STAND=0,1,0
+Label_GS=0,1,1,0
+
 
 // ##################################################################
 //                 #6A LISTS | DEPARTURE v0.1
@@ -84,6 +155,34 @@ TowerLabel_Transparency_Bg=255
 // ##################################################################
 //                 FA SOUTH AFRICA
 // ##################################################################
+
+[FACT]
+Airport_Elevation=160
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=285
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
+
+[FAOR]
+Airport_Elevation=5580
+Airport_Radius=3
+
+Window_APP=1,1250,600,500,250
+Window_APP_Rotation=75
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:034:R:5558:3.0
+AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:034:R:5510:3.0
+AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:214:L:5494:3.0
+AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:214:L:5505:3.0
+
 
 // ##################################################################
 //                 END
