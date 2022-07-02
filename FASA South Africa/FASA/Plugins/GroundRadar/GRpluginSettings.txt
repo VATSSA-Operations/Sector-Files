@@ -75,6 +75,9 @@ System_TagColor=2
 //                 #2 COLORS v0.3
 // ##################################################################
 
+Color_Background=160,160,160
+
+
 // ##################################################################
 //                 #3 LABELS v0.4
 // ##################################################################
@@ -164,6 +167,21 @@ Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
 AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
+
+[FAOR]
+Airport_Elevation=5580
+Airport_Radius=3
+
+Window_APP=1,1250,600,500,250
+Window_APP_Rotation=75
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:034:R:5558:3.0
+AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:034:R:5510:3.0
+AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:214:L:5494:3.0
+AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:214:L:5505:3.0
 
 
 // ##################################################################
