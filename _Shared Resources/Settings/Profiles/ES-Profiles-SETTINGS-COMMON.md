@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\SECTOR\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\SECTOR\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\SECTOR\Settings\VATSSA_PilotingList.txt
 Settings	alias	\SECTOR\Alias\alias.txt
-Settings	airlines	\SECTOR\ICAO\ICAO_Airlines.txt
+Settings	airlines	\SECTOR\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\SECTOR\ICAO\ICAO_Airports.txt
 Settings	aircraft	\SECTOR\ICAO\ICAO_Aircraft.txt
 Settings	airways	\SECTOR\NavData\airway.txt
