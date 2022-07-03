@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FMMM\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\FMMM\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FMMM\Settings\VATSSA_PilotingList.txt
 Settings	alias	\FMMM\Alias\alias.txt
-Settings	airlines	\FMMM\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FMMM\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FMMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FMMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FMMM\NavData\airway.txt

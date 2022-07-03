@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FBGR\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\FBGR\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FBGR\Settings\VATSSA_PilotingList.txt
 Settings	alias	\FBGR\Alias\alias.txt
-Settings	airlines	\FBGR\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FBGR\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FBGR\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FBGR\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FBGR\NavData\airway.txt

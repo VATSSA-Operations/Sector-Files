@@ -104,7 +104,7 @@ SAB	Sabena Airlines - Virtual	Sabena
 SAL	Saladair - Virtual	Saladair
 SAV	Severnair - Virtual	Severnair
 SBZ	Skybound Airways - Virtual	Skybound
-SFR	Safair LTD	Safair
+SFR	Safair LTD  Safair
 SIM	Simulator Verein Rhein-Neckar - Virtual	Sim-Line
 SKS	Skysalad - Virtual	Skysalad
 SPE	Speedair - Virtual	Speedair

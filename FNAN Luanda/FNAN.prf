@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FNAN\Settings\Conflict.txt
 Settings	SettingsfileVCCS	\FNAN\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FNAN\Settings\PilotingList.txt
 Settings	alias	\FNAN\Alias\alias.txt
-Settings	airlines	\FNAN\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FNAN\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FNAN\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FNAN\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FNAN\NavData\airway.txt

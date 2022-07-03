@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FQBE\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\FQBE\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FQBE\Settings\VATSSA_PilotingList.txt
 Settings	alias	\FQBE\Alias\alias.txt
-Settings	airlines	\FQBE\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FQBE\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FQBE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FQBE\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FQBE\NavData\airway.txt

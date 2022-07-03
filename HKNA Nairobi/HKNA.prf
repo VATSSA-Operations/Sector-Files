@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\HKNA\Settings\Conflict.txt
 Settings	SettingsfileVCCS	\HKNA\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\HKNA\Settings\PilotingList.txt
 Settings	alias	\HKNA\Alias\alias.txt
-Settings	airlines	\HKNA\ICAO\ICAO_Airlines.txt
+Settings	airlines	\HKNA\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\HKNA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HKNA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HKNA\NavData\airway.txt

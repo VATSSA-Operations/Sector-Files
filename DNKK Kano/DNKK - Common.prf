@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\DNKK\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\DNKK\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\DNKK\Settings\VATSSA_PilotingList.txt
 Settings	alias	\DNKK\Alias\alias.txt
-Settings	airlines	\DNKK\ICAO\ICAO_Airlines.txt
+Settings	airlines	\DNKK\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\DNKK\ICAO\ICAO_Airports.txt
 Settings	aircraft	\DNKK\ICAO\ICAO_Aircraft.txt
 Settings	airways	\DNKK\NavData\airway.txt
