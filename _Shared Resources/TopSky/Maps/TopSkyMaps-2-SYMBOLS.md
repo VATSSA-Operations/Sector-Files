@@ -1,5 +1,5 @@
 // ##################################################################
-//                 #2 SYMBOLS v0.3
+//                 #2 SYMBOLS v0.4
 // ##################################################################
 
 // AERODROMES
@@ -70,6 +70,13 @@ MOVETO:0:-6
 LINETO:0:6
 MOVETO:-6:0
 LINETO:6:0
+
+// LABEL OPEN
+SYMBOLDEF:LABELOPEN
+MOVETO:10:-6
+LINETO:22:-18
+MOVETO:0:-21
+LINETO:54:-21
 
 // APPROACH FIXES
 SYMBOLDEF:APPFIX
@@ -168,7 +175,7 @@ ARC:0:0:3:0:360
 SYMBOLDEF:Village
 ARC:0:0:2:0:360
 
-SYMBOLDEF:Obst
+SYMBOLDEF:OBSTACLE
 MOVETO:-4:3
 LINETO:-3:-1
 LINETO:0:-4
@@ -185,3 +192,10 @@ LINETO:0:-42
 LINETO:54:-42
 LINETO:54:-21
 LINETO:0:-21
+
+// Label for VFR Fixes / VRPs
+SYMBOLDEF:LABELVFR
+MOVETO:10:-6
+LINETO:22:-18
+MOVETO:0:-21
+LINETO:54:-21

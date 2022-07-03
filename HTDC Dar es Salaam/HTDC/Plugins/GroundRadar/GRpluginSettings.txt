@@ -9,7 +9,7 @@
 
 
 // ##################################################################
-//                 #1 SYSTEM SETTINGS v0.2
+//                 #1 SYSTEM SETTINGS v0.3
 // ##################################################################
 
 Equip_ModeS=WZLCISG
@@ -24,13 +24,16 @@ System_RwyBufferArea=90.0
 System_RwyArea_LVP=90.0
 System_RwyBufferArea_LVP=140.0
 
-System_State_OnFreq=FREQ
-System_State_StartUp=XX
-System_State_Push=PB
-System_State_Taxi=TX
-System_State_LineUp=LU
-System_State_Depa=TO
-System_State_DeIce=SU
+System_State_OnFreq=ON FREQ
+System_State_DeIce=DEICE
+System_State_StartUp=START UP
+System_State_Push=PUSH
+System_State_Taxi=TAXI
+System_State_Taxi_In=TAXI
+System_State_Taxi_Out=TAXI
+System_State_LineUp=LINE UP
+System_State_Depa=TAKE OFF
+System_State_Parked=PARKED
 
 System_TagColor=2
 
@@ -58,7 +61,7 @@ AppLabel_Transparency_Bg=255
 
 
 // ##################################################################
-//                 #3 LABELS v0.3
+//                 #3 LABELS v0.4
 // ##################################################################
 
 GroundLabel=1
@@ -77,7 +80,7 @@ Label=GND:ARR:3:RMK,0,1
 Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
 Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
 Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
-Label=GND:DEP:3:DEP,0,0:RMK,0,1 
+Label=GND:DEP:3:DEP,0,0:GS,2,1,0:RMK,0,1 
 
 Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
 Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
@@ -89,14 +92,22 @@ Label=TWR:DEP:1:CALLSIGN,0,0:ATYP,0,1
 Label=TWR:DEP:2:AFL+VS,0,1,20:GS,0,1
 Label=TWR:DEP:3:DEP,0,0:RMK,0,1
 
-Label_AFL+VS=0,0,1
+Label=APP:ARR:0:ALRT,0,0:COMM,0,1
+Label=APP:ARR:1:CALLSIGN,0,0
+Label=APP:ARR:2:AFL+VS,0,1,20
+
+Label=APP:DEP:0:ALRT,0,0:COMM,0,1
+Label=APP:DEP:1:CALLSIGN,0,0
+Label=APP:DEP:2:AFL+VS,0,1,20
+
+Label_AFL+VS=1,1,1,1
 Label_ARWY=0,0,0
 Label_ATYP=0,0,0
-Label_DEP=0,0,0
+Label_DEP=0,1,0
 Label_DRWY=0,1,0
 Label_RMK=0,1,1
 Label_STAND=0,1,0
-Label_GS=0,0,1
+Label_GS=0,1,1,0
 
 
 // ##################################################################
@@ -180,19 +191,17 @@ Track_Heading_Line=0
 //                 HT TANZANIA
 // ##################################################################
 
-// TO BE CORRECTED
-
-[ICAO]
+[HTDA]
 Airport_Elevation=184
 Airport_Radius=3
 
 Window_APP=1,1300,350,500,250
-Window_APP_Rotation=90
-Window_APP_Scale=20
+Window_APP_Rotation=45
+Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
-AppPath=HUEN:HUEN 17:N000.03.20.008:E032.26.10.410:170:L:3780:3.0
+AppPath=HTDA:HTDA 05:S006.52.58.249:E039.11.52.551:047:L:176:3.0
 
 
 // ##################################################################
