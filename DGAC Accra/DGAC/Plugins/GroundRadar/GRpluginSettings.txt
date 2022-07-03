@@ -201,8 +201,8 @@ AppPath=DGAA:DGAA 21:N005.36.56.170:W000.09.46.630:206:L:197:3.0
 Airport_Elevation=19
 Airport_Radius=3
 
-Window_APP=1,1200,680,600,200
-Window_APP_Rotation=68
+Window_APP=1,1200,680,500,200
+Window_APP_Rotation=37.1
 Window_APP_Scale=10
 Window_APP_Extensions=10
 Window_APP_AltFilter=5000
