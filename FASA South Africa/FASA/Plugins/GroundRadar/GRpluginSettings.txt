@@ -164,7 +164,7 @@ Window_APP=1,1250,150,500,250
 Window_APP_Rotation=285
 Window_APP_Scale=10
 Window_APP_Extensions=1
-Window_APP_AltFilter=5000
+Window_APP_AltFilter=5160
 
 AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
 
@@ -174,9 +174,11 @@ Airport_Radius=3
 
 Window_APP=1,1250,600,500,250
 Window_APP_Rotation=75
-Window_APP_Scale=10
+Window_APP_Scale=15
 Window_APP_Extensions=1
-Window_APP_AltFilter=5000
+Window_APP_AltFilter=10580
+
+Window_APW_MaxDist=10
 
 AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:034:R:5558:3.0
 AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:034:R:5510:3.0
