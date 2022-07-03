@@ -15,4 +15,3 @@ List_Inbound_TYPE=0
 List_Inbound_WTC=0
 List_Inbound_ETA=1
 List_Inbound_STAND=0
-
