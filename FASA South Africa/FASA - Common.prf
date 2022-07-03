@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FASA\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\FASA\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FASA\Settings\VATSSA_PilotingList.txt
 Settings	alias	\FASA\Alias\alias.txt
-Settings	airlines	\FASA\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FASA\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FASA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FASA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FASA\NavData\airway.txt

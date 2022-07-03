@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FIMM\Settings\Lists_TS.txt
 Settings	SettingsfileVCCS	\FIMM\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FIMM\Settings\PilotingList.txt
 Settings	alias	\FIMM\Alias\alias.txt
-Settings	airlines	\FIMM\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FIMM\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FIMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FIMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FIMM\NavData\airway.txt

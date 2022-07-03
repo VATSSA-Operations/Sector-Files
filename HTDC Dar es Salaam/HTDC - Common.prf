@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\HTDC\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\HTDC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\HTDC\Settings\VATSSA_PilotingList.txt
 Settings	alias	\HTDC\Alias\alias.txt
-Settings	airlines	\HTDC\ICAO\ICAO_Airlines.txt
+Settings	airlines	\HTDC\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\HTDC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HTDC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HTDC\NavData\airway.txt

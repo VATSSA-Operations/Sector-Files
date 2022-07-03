@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\GOOO\Settings\Conflict.txt
 Settings	SettingsfileVCCS	\GOOO\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\GOOO\Settings\PilotingList.txt
 Settings	alias	\GOOO\Alias\alias.txt
-Settings	airlines	\GOOO\ICAO\ICAO_Airlines.txt
+Settings	airlines	\GOOO\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\GOOO\ICAO\ICAO_Airports.txt
 Settings	aircraft	\GOOO\ICAO\ICAO_Aircraft.txt
 Settings	airways	\GOOO\NavData\airway.txt

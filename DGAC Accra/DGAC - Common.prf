@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\DGAC\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\DGAC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\DGAC\Settings\VATSSA_PilotingList.txt
 Settings	alias	\DGAC\Alias\alias.txt
-Settings	airlines	\DGAC\ICAO\ICAO_Airlines.txt
+Settings	airlines	\DGAC\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\DGAC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\DGAC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\DGAC\NavData\airway.txt

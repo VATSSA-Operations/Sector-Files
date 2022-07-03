@@ -14,7 +14,7 @@ Settings	SettingsfileSCREEN	\FASA\Settings\Screen.txt
 Settings	SettingsfileVCCS	\FASA\Settings\VCCS.txt
 Settings	alias	\FASA\Alias\Alias.txt
 Settings	AtisFolder	ATIS\ATIS-FASA.txt
-Settings	airlines	\FASA\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FASA\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FASA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FASA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FASA\NavData\airway.txt

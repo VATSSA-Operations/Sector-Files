@@ -15,7 +15,7 @@ Settings	SettingsfileVCCS	\HUEC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\HUEC\Settings\PilotingList.txt
 Settings	alias	\HUEC\Alias\alias.txt
 Settings	AtisFolder	\HUEC\ATIS\atisfiles.txt
-Settings	airlines	\HUEC\ICAO\ICAO_Airlines.txt
+Settings	airlines	\HUEC\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\HUEC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HUEC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HUEC\NavData\airway.txt
