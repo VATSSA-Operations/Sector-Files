@@ -2,8 +2,8 @@
 //                 VATSSA | FIR GVSC | TopSky | Settings
 // ##################################################################
 
-// Version v0.5
-// Update Date 22/04/2022
+// Version v0.6
+// Update Date 05/07/2022
 
 
 // ##################################################################
@@ -309,6 +309,19 @@ APW_Buffer_Vert_L_VFR=1000
 APW_ConflictCount=3
 
 
+// ##################################################################
+//                   #14 SYS COORD SOUNDS v0.1
+// ##################################################################
+
+System_Coord_Sound_ROF=1
+System_Coord_Sound_ROF_RJC=1
+System_Coord_Sound_RTI=1
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_RTI_RJC=1
+System_Coord_Sound_TIP=1
+System_Coord_Sound_TIP_ACP=1
+System_Coord_Sound_TIP_RJC=1
+
 
 // ##################################################################
 //                   CUSTOM
@@ -324,3 +337,8 @@ Airspace_SIGMET_Areas=GVSC
 Airspace_NOTAM_Add=GVSC,GVAC,GVBA,GVNP,GVSV
 Airspace_NOTAM_Remove=GO,GQ
 Airspace_SIGMET_Areas=GVSC
+
+
+// ##################################################################
+//                   THE END
+// ##################################################################
