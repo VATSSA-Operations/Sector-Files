@@ -131,9 +131,16 @@ VATSSA Sector File Changelog
     - 
 * GroundRadar Updates
     - Added Version 1.5 Beta 5
+    - FMCZ, FMEE and FMMI Data Added to Settings
     - FMMI and FMEE Stand Data Added
 * TopSky Updates
-    - Added Version 2.4 (with Settings)
+    - Updated to Version 2.4 (with Settings)
+    - FMCZ, FMEE and FMMI Data Added to Airspace
+    - FMMI Data Added to Approaches on Maps
+    - FMMI VRPs Added to Maps
+    - FMCZ, FMEE and FMMI VOR MSA Data Added to MSAW
+    - FMMM Grid MORA Added to MSAW
+    - FMCZ, FMEE and FMMI Data Added to STCA and Views
 * Plugins
     - DiscordEuroscope Added (including Positions)
     - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
