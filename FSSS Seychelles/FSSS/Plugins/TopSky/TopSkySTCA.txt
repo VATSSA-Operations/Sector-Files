@@ -1,24 +1,19 @@
-// ##################################################################
-//                 VATSSA | FIR FIMM | TopSky | STCA
+ // ##################################################################
+//                 VATSSA | FIR FSSS | TopSky | STCA
 // ##################################################################
 
 // Version v0.1
-// Update Date 26/06/2022
+// Update Date 05/07/2022
 
 
 // ##################################################################
-//                 FI MAURITIUS
+//                 FS SEYCHELLES
 // ##################################################################
 
-// FIMP | SIR SEEWOOSAGUR RAMBOOLAM INT
+// FSIA
+FINALAPP:FSIA:13
+FINALAPP:FSIA:31
 
-FINALAPP:FIMP:14
-FINALAPP:FIMP:32
-
-// FIMR | PLAINE CORAIL
-
-FINALAPP:FIMR:12
-FINALAPP:FIMR:30
 
 // ##################################################################
 //                 THE END
