@@ -2,11 +2,8 @@
 //                 VATSSA | FIR FNAN | TopSky | Settings
 // ##################################################################
 
-// Version v0.1
-// Update Date 21/06/2022
-
-// Changelog
-// v0.1 | TopSky Settings Initial Versioning Sequence
+// Version v0.2
+// Update Date 05/07/2022
 
 
 // ##################################################################
@@ -169,16 +166,35 @@ CPDLC_MinLevel=195
 // ##################################################################
 
 // ##################################################################
-//                 #13 
+//                   #13 APW v0.1
 // ##################################################################
 
-// ##################################################################
-//                 #15 
-// ##################################################################
+APW=1
+APW_VFR=1
+APW_Uncorrelated=0
+APW_AlertSound=1
+APW_Filter=1
+APW_Buffer_Lat_L_IFR=5
+APW_Buffer_Lat_L_VFR=3
+APW_Buffer_Vert_U=1000
+APW_Buffer_Vert_L_IFR=1000
+APW_Buffer_Vert_L_VFR=1000
+APW_ConflictCount=3
+
 
 // ##################################################################
-//                 #16 
+//                   #14 SYS COORD SOUNDS v0.1
 // ##################################################################
+
+System_Coord_Sound_ROF=1
+System_Coord_Sound_ROF_RJC=1
+System_Coord_Sound_RTI=1
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_RTI_RJC=1
+System_Coord_Sound_TIP=1
+System_Coord_Sound_TIP_ACP=1
+System_Coord_Sound_TIP_RJC=1
+
 
 // ##################################################################
 //                 AIRSPACE

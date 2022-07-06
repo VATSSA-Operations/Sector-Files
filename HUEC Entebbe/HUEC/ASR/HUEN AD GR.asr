@@ -1,18 +1,3 @@
-// ##################################################################
-//                 VATSSA | FIR HUEC | ASR | HUEN AD GR
-// ##################################################################
-
-// Version v0.1
-// Update Date 23/06/2022
-
-// Changelog
-// v0.1 | HUEN AD GR ASR Initial Setup
-
-
-// ##################################################################
-//                 SETTINGS
-// ##################################################################
-
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1

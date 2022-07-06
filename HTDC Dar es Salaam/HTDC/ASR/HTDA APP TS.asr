@@ -1,6 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Geo:GEO:
 Geo:HT Landmark Coast N:
 Geo:HT Landmark Coast S:
@@ -21,5 +23,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-8.078475:37.013411:-5.677746:41.391838
-PLUGIN:TopSky plugin:ShowMapData:DNMM
+WINDOWAREA:-9.427030:34.315284:-3.565875:45.004803
+PLUGIN:TopSky plugin:ShowMapData:HTDA

@@ -2,7 +2,7 @@ System_Version=1
 System_RateDisplayType=1
 System_RateTime=15
 
-Color_COOPANS=1
+Color_COOPANS=0
 
 Label_DelayItem_ShowGain=0
 Label_Highlight_Type=1
