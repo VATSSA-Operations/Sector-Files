@@ -1,0 +1,361 @@
+VATSSA Sector File Changelog
+
+## AIRAC 2207 ##
+
+**DGAC**
+
+* Euroscope Data
+    - DGAA Approach Holdings now available
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+* TopSky Updates
+    - FIR Entry Waypoints labeled
+    - Configuration Set to Non COOPANS
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+* Others
+    - EuroSounds Added to Sounds Folder
+    - Custom ICAO_Airlines File Added
+    - ASR Zooming and Panning no longer disabled
+
+
+**DNKK**
+
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+    - DNNA Stand Data Added
+    - Apron Twy Exit Labels added to DNMM v2 ASR
+* TopSky Updates
+    - DNAA Data (Arrival, Approaches and Departures) Added to TopSkyMaps
+    - Configuration Set to Non COOPANS   
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+* Others
+    - EuroSounds Added to Sounds Folder
+    - Custom ICAO_Airlines File Added
+    - ASR Zooming and Panning no longer disabled
+
+
+**FASA**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+* TopSky Updates
+    - TETA1C and OKTED1A SID Outlines removed from TopSky (SIDs no longer available per AIP)
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - InitialClimb Data Added to FAOR
+    - Custom ICAO_Airlines File Added
+
+
+**FBGR**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5 (with Settings)
+    - FBGR and FBMN Data added to Settings and Maps
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+    - FBGR and FBMN Data added to Airspace, Maps, STCA and Views
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FCCC**
+
+
+* Euroscope Data
+    - Coverage Area reduced to minimize the amount of irrelevant data on the sector file. Therefore smaller and easier to manage
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5 (with Settings)
+* TopSky Updates
+    - FEFF Data added to TopSkyMaps
+    - Configuration Set to Non COOPANS
+    - Grid MORA Data added to MSAW
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+    - ASR Zooming and Panning no longer disabled
+
+
+**FIMM**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+* TopSky Updates
+    - Grid MORA Data added to MSAW
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FLFI**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Alias File (Default) now available
+    - Custom ICAO_Airlines File Added
+
+
+**FMMM**
+
+* FMMI VRP Added to Sector File.
+    - FMMI VRPs Added
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+    - FMCZ, FMEE and FMMI Data Added to Settings
+    - FMMI and FMEE Stand Data Added
+* TopSky Updates
+    - Updated to Version 2.4 (with Settings)
+    - FMCZ, FMEE and FMMI Data Added to Airspace
+    - FMMI Data Added to Approaches on Maps
+    - FMMI VRPs Added to Maps
+    - FMCZ, FMEE and FMMI VOR MSA Data Added to MSAW
+    - FMMM Grid MORA Added to MSAW
+    - FMCZ, FMEE and FMMI Data Added to STCA and Views
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FNAN**
+
+* Euroscope Data
+    - 
+* Ground Layouts
+    - New FHSH Layout (previous was FHAW)
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+    - FNLU Stand Data Added
+    - FNLU and FHSH Data added to Settings and Maps
+* TopSky Updates
+    - FNLU and FHSH Data added to Airspace, Maps, STCA and Views
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FQBE**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+    - FQMA Stand Data Added
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FSSS**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+    - FSIA Stand Data Added
+* TopSky Updates
+    - 
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FVHF**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FWLL**
+
+* Euroscope Data
+    - Coverage Area reduced to minimize the amount of irrelevant data on the sector file. Therefore smaller and easier to manage
+* Ground Layouts
+    - New FWKI Layout with Text Labels
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+    - FWKI Data added to Settings and Maps
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+    - FWKI Data added to Maps, STCA, Airspace and Views
+    - Grid MORA Data added to MSAW
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FYWH**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**FZZA**
+
+* Euroscope Data
+    - Coverage Area reduced to minimize the amount of irrelevant data on the sector file. Therefore smaller and easier to manage
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+    - FZAA and FZNA Data added to Settings and Maps
+* TopSky Updates
+    - Added Version 2.4 (with Settings)
+    - FZAA and FZNA Data added to Airspace, Maps, STCA and Views
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+    - InitialClimb Data Added to FZAA
+
+
+**GOOO**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5 (with Settings)
+* TopSky Updates
+    - Configuration Set to Non COOPANS
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+    - ASR Zooming and Panning no longer disabled
+
+
+**GVSC**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5 (with Settings)
+* TopSky Updates
+    - PDC Automatic Reject fixed
+    - Configuration Set to Non COOPANS
+    - VFR Waypoints added to Maps
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+    - ASR Zooming and Panning no longer disabled
+
+
+**HKNA**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+    - HKMO Stand Data Added
+* TopSky Updates
+    - HKJK and HKMO Data added to Views, STCA and Airspace
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**HTDC**
+
+* Euroscope Data
+    - 
+* GroundRadar Updates
+    - Updated to Version 1.5 Beta 5
+    - HTDA Data added to Settings and Maps
+* TopSky Updates
+    - TopSkySettings Error Commented Out
+    - HTDA Data added to Airspace and Views
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
+
+
+**HUEC**
+
+* Euroscope Data
+    - P1 and P6 Prohibited Airspace added
+* GroundRadar Updates
+    - Added Version 1.5 Beta 5
+    - HUEN Data added to Maps and Stands
+* TopSky Updates
+    - HUEN Data added to Maps, Airspace, Areas and STCA
+* Plugins
+    - DiscordEuroscope Added (including Positions)
+    - EasyTag, ESTimers, PushbackFlorian, InitialClimb, VCH and vFPC Plugins Added
+* Others
+    - Added VATSSA - Common Profile with alternative settings (Lists, Tags, Plugins)
+    - Custom ICAO_Airlines File Added
