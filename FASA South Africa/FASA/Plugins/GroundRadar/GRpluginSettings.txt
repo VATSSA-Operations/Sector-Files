@@ -252,6 +252,19 @@ AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:034:R:5510:3.0
 AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:214:L:5494:3.0
 AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:214:L:5505:3.0
 
+[FAPE]
+Airport_Elevation=229
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=30.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5160
+
+AppPath=FAPE:FAPE 08:S033.59.37.888:E025.36.00.000:086:L:229:3.0
+AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:266:L:184:3.0
+
 
 // ##################################################################
 //                 END
