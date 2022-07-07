@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FLFI\Settings\Conflict.txt
 Settings	SettingsfileVCCS	\FLFI\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FLFI\Settings\PilotingList.txt
 Settings	alias	\FLFI\Alias\alias.txt
-Settings	airlines	\FLFI\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FLFI\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FLFI\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FLFI\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FLFI\NavData\airway.txt

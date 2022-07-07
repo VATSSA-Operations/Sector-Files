@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\FWLL\Settings\Conflict.txt
 Settings	SettingsfileVCCS	\FWLL\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FWLL\Settings\PilotingList.txt
 Settings	alias	\FWLL\Alias\alias.txt
-Settings	airlines	\FWLL\ICAO\ICAO_Airlines.txt
+Settings	airlines	\FWLL\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\FWLL\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FWLL\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FWLL\NavData\airway.txt
