@@ -1,0 +1,26 @@
+## AIRAC 2208 ##
+
+**ICAO**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**FLFI**
+
+Euroscope Data
+- Reviewed the Procedures Combiner for FLKK, RNAV Arrivals and Approaches now available
+
+GroundRadar Updates
+- Added FLKK 10 to the GroundRadar Approach Path Settings
+- Added FLKK Approaches to the GroundRadar Maps Approach Window
+
+TopSky Updates
+- Added CPDLC Sector Settings File to TopSky
+- Created TopSkyMSAW File, Added FLSK, FLKK and FLHN VOR MSA Data
+
+Plugins
+Others
