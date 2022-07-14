@@ -215,4 +215,5 @@ WINDOWAREA:-26.166633:28.181715:-26.110580:28.298644
 PLUGIN:Ground Radar plugin:AirportElevation:5580
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FAOR
+PLUGIN:Ground Radar plugin:TowerMode:FAOR
 PLUGIN:TopSky plugin:NoDraw:1
