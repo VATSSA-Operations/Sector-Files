@@ -2,11 +2,8 @@
 //                 VATSSA | FIR FCCC | TopSky | Settings
 // ##################################################################
 
-// Version v0.0.1
-// Update Date 18/03/2022
-
-// Changelog
-// v0.0.1 | FCCC Initial Setup
+// Version v0.2
+// Update Date 05/07/2022
 
 
 // ##################################################################
@@ -308,6 +305,20 @@ APW_ConflictCount=3
 
 
 // ##################################################################
+//                   #14 SYS COORD SOUNDS v0.1
+// ##################################################################
+
+System_Coord_Sound_ROF=1
+System_Coord_Sound_ROF_RJC=1
+System_Coord_Sound_RTI=1
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_RTI_RJC=1
+System_Coord_Sound_TIP=1
+System_Coord_Sound_TIP_ACP=1
+System_Coord_Sound_TIP_RJC=1
+
+
+// ##################################################################
 //                   Airspace
 // ##################################################################
 
@@ -319,3 +330,8 @@ Airspace_SIGMET_Areas=GOOO
 Airspace_NOTAM_Add=FPST
 Airspace_NOTAM_Remove=FCCC
 Airspace_SIGMET_Areas=FPST
+
+
+// ##################################################################
+//                   THE END
+// ##################################################################

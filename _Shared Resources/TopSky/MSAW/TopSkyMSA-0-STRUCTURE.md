@@ -5,12 +5,6 @@
 // Version v0.0.3
 // Update Date 29/04/2022
 
-// Changelog
-// v0.1 | ICAO TopSkyMSAW Initial Setup
-
-
-
-
 
 // ##################################################################
 //                 FP SAO TOME & PRINCIPE

@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\HTDC\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\HTDC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\HTDC\Settings\VATSSA_PilotingList.txt
 Settings	alias	\HTDC\Alias\alias.txt
-Settings	airlines	\HTDC\ICAO\ICAO_Airlines.txt
+Settings	airlines	\HTDC\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\HTDC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HTDC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HTDC\NavData\airway.txt
@@ -25,7 +25,7 @@ RecentFiles	Recent3	\HTDC\ASR\HBBA APP TS.asr
 ASRFastKeys	1	\HTDC\ASR\1_CTR.asr
 ASRFastKeys	2	\HTDC\ASR\2_APP.asr
 ASRFastKeys	3	\HTDC\ASR\3_TWR.asr
-Settings	sector	\HTDC-Package_20220616140227-220601-0001.sct
+Settings	sector	\HTDC-Package_20220714144254-220701-0003.sct
 RecentFiles	Recent4	\HTDC\ASR\HRYR AD GR.asr
 RecentFiles	Recent5	\HTDC\ASR\HRYR APP TS.asr
 RecentFiles	Recent6	\HTDC\ASR\HTDA AD GR.asr
@@ -47,6 +47,7 @@ Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4	\HTDC\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\HTDC\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
 Plugins	Plugin6	\HTDC\Plugins\PushbackFlorian\PushbackFlorian.dll

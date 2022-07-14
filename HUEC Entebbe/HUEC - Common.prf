@@ -14,7 +14,7 @@ Settings	SettingsfileCONFLICT	\HUEC\Settings\VATSSA_Conflict.txt
 Settings	SettingsfileVCCS	\HUEC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\HUEC\Settings\VATSSA_PilotingList.txt
 Settings	alias	\HUEC\Alias\alias.txt
-Settings	airlines	\HUEC\ICAO\ICAO_Airlines.txt
+Settings	airlines	\HUEC\Other\ICAO_Airlines_VATSSA.txt
 Settings	airports	\HUEC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HUEC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HUEC\NavData\airway.txt
@@ -25,7 +25,7 @@ RecentFiles	Recent3	\HUEC\ASR\HUEN AD GR.asr
 ASRFastKeys	1	\HUEC\ASR\1_CTR.asr
 ASRFastKeys	2	\HUEC\ASR\2_APP.asr
 ASRFastKeys	3	\HUEC\ASR\3_TWR.asr
-Settings	sector	\HUEC-Package_20220616135815-220601-0001.sct
+Settings	sector	\HUEC-Package_20220714144744-220701-0001.sct
 RecentFiles	Recent4	\HUEC\ASR\1_CTR.asr
 RecentFiles	Recent5	\HUEC\ASR\3_TWR.asr
 RecentFiles	Recent6	\HUEC\ASR\2_APP.asr
