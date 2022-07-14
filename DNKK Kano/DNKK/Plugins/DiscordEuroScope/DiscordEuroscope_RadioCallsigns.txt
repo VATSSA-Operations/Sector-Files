@@ -44,6 +44,6 @@ FKKK_CTR Douala Control
 FKKL_TWR Salak Tower
 FKKR_TWR Garoua Tower
 FOOO_CTR Libreville Control
-FPST_APP S?o Tom» Control
+FPST_APP Sao Tome Control
 FTTJ_APP N'Djamena Approach
 FTTT_CTR N'Djamena Control

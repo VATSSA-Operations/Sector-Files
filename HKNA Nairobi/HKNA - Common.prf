@@ -26,20 +26,6 @@ ASRFastKeys	1	\HKNA\ASR\1_CTR.asr
 ASRFastKeys	2	\HKNA\ASR\2_APP.asr
 ASRFastKeys	3	\HKNA\ASR\3_TWR.asr
 Settings	sector	\HKNA-Package_20220714144044-220701-0003.sct
-RecentFiles	Recent4	\HKNA\ASR\HKMO AD GR.asr
-RecentFiles	Recent4	\HKNA\ASR\HKJK AD GR.asr
-RecentFiles	Recent5	\HKNA\ASR\HKMO APP TS.asr
-RecentFiles	Recent5	\HKNA\ASR\HKJK APP TS.asr
-RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent8	\HKNA\ASR\2_APP.asr
-RecentFiles	Recent4	\HKNA\ASR\HKJK AD GR.asr
-RecentFiles	Recent5	\HKNA\ASR\HKJK APP TS.asr
-RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent8	\HKNA\ASR\2_APP.asr
 Plugins	Plugin0	\HKNA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
