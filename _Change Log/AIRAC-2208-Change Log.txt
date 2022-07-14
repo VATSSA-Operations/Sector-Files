@@ -21,6 +21,7 @@ GroundRadar Updates
 TopSky Updates
 - Added CPDLC Sector Settings File to TopSky
 - Created TopSkyMSAW File, Added FLSK, FLKK and FLHN VOR MSA Data
+- TopSkyViews Update with multiple locations
 
 Plugins
 Others
