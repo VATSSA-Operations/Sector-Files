@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FMMM Antananarivo\FMMM-Package_20220616142849-220601-0001.sct
-SECTORTITLE:FMMM-Package_20220616142849-220601-0001.sct
 Airports:FMCZ:name
 Airports:FMCZ:symbol
 Runways:FMCZ 16-34:centerline
