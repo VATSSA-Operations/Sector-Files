@@ -5,13 +5,6 @@
 // Version v0.1
 // Update Date 19/05/2022
 
-// Changelog
-// v0.1 | FMMM TopSkyMaps Initial Setup
-
-
-// ##################################################################
-//                 TO DO
-// ##################################################################
 
 // ##################################################################
 //                 #1 COLORS v0.3
@@ -42,7 +35,7 @@ COLORDEF:CLSD:128:0:0
 
 
 // ##################################################################
-//                 #2 SYMBOLS v0.3
+//                 #2 SYMBOLS v0.4
 // ##################################################################
 
 // AERODROMES
@@ -113,6 +106,13 @@ MOVETO:0:-6
 LINETO:0:6
 MOVETO:-6:0
 LINETO:6:0
+
+// LABEL OPEN
+SYMBOLDEF:LABELOPEN
+MOVETO:10:-6
+LINETO:22:-18
+MOVETO:0:-21
+LINETO:54:-21
 
 // APPROACH FIXES
 SYMBOLDEF:APPFIX
@@ -211,7 +211,7 @@ ARC:0:0:3:0:360
 SYMBOLDEF:Village
 ARC:0:0:2:0:360
 
-SYMBOLDEF:Obst
+SYMBOLDEF:OBSTACLE
 MOVETO:-4:3
 LINETO:-3:-1
 LINETO:0:-4
@@ -228,6 +228,13 @@ LINETO:0:-42
 LINETO:54:-42
 LINETO:54:-21
 LINETO:0:-21
+
+// Label for VFR Fixes / VRPs
+SYMBOLDEF:LABELVFR
+MOVETO:10:-6
+LINETO:22:-18
+MOVETO:0:-21
+LINETO:54:-21
 
 
 // ##################################################################
@@ -571,7 +578,8 @@ SYMBOL:LABEL:UVENA:UVENA:27:-32
 //                 #5 ARRIVALS v0.3
 // ##################################################################
 
-// FMMI
+// FMMI | ANTANANARIVO
+
 MAP:FMMI 11
 FOLDER:ARRIVALS
 ASRDATA:FMMM,FMMI
@@ -713,7 +721,7 @@ SYMBOL:LABEL:TAPAL:TAPAL:27:-32
 //                 #6 APPROACHES v0.3
 // ##################################################################
 
-// FMMI
+// FMMI | ANTANANARIVO
 
 MAP:FMMI 11
 FOLDER:APPROACHES
@@ -778,8 +786,25 @@ SCTDATA:STAR\FMMI RNAV29 KEPOS
 // ##################################################################
 
 // ##################################################################
-//                 #10 VFR v0.3
+//                 #10 VFR v0.1
 // ##################################################################
+
+MAP:FMMI VFR
+FOLDER:VFR
+ZOOM:50
+COLOR:WHITE
+SYMBOL:VFR:FMMI W1
+SYMBOL:VFR:FMMI W2
+SYMBOL:VFR:FMMI S1
+SYMBOL:VFR:FMMI E1
+SYMBOL:VFR:FMMI N1
+TEXTALIGN:C
+TEXT:FMMI W1:W1
+TEXT:FMMI W2:W2
+TEXT:FMMI S1:S1
+TEXT:FMMI E1:E1
+TEXT:FMMI N1:N1
+
 
 // ##################################################################
 //                 #11 AIRSPACE v0.3

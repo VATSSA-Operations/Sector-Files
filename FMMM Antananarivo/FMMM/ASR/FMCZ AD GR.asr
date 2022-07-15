@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FMMM Antananarivo\FMMM-Package_20220616142849-220601-0001.sct
-SECTORTITLE:FMMM-Package_20220616142849-220601-0001.sct
 Airports:FMCZ:name
 Airports:FMCZ:symbol
 Runways:FMCZ 16-34:centerline
@@ -32,12 +30,11 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
+DisplayRotation:299.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:-12.815962:45.262614:-12.797371:45.298498
 PLUGIN:Ground Radar plugin:AirportElevation:23
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FMCZ
-PLUGIN:TopSky plugin:HideMapData:
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:FMCZ

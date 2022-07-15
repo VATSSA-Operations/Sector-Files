@@ -2,11 +2,8 @@
 //                 VATSSA | FIR FSSS | TopSky | Settings
 // ##################################################################
 
-// Version v0.1
-// Update Date 21/06/2022
-
-// Changelog
-// v0.1 | TopSky Settings Initial Versioning Sequence
+// Version v0.2
+// Update Date 05/07/2022
 
 
 // ##################################################################
@@ -232,6 +229,11 @@ CPDLC_ASP=1
 CPDLC_Transfer=1
 Window_CPDLC_Current=1,485,43
 
+
+// ##################################################################
+//                   #14 SYS COORD SOUNDS v0.1
+// ##################################################################
+
 System_Coord_Sound_ROF=1
 System_Coord_Sound_ROF_RJC=1
 System_Coord_Sound_RTI=1
@@ -240,3 +242,8 @@ System_Coord_Sound_RTI_RJC=1
 System_Coord_Sound_TIP=1
 System_Coord_Sound_TIP_ACP=1
 System_Coord_Sound_TIP_RJC=1
+
+
+// ##################################################################
+//                   THE END
+// ##################################################################

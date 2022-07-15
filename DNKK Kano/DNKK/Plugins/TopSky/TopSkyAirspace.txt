@@ -5,9 +5,6 @@
 // Version v0.5
 // Update Date 06/06/2022
 
-// Changelog
-// v0.5 | Initial CFL Added for DNMM VFR Flights
-
 
 // ##################################################################
 //                 DN NIGERIA
@@ -21,7 +18,6 @@ QNHTL:DNBC:65
 QNHTL:DNBE:50
 QNHTL:DNBK:65
 QNHTL:DNCA:50
-QNHTL:DNDS:65
 QNHTL:DNDS:65
 QNHTL:DNIB:50
 QNHTL:DNIL:50
@@ -48,3 +44,7 @@ LEVELS:DNYO:25,30,35,39,41,49
 INITIAL_CFL:1500
 CFL_FRUL:V
 CFL_ADEP:DNMM
+
+// ##################################################################
+//                 THE END
+// ##################################################################

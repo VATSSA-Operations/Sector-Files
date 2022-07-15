@@ -3,23 +3,21 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+Free Text:FHSH Groundlayout\A:freetext
+Free Text:FHSH Groundlayout\A1:freetext
+Free Text:FHSH Groundlayout\A2:freetext
+Free Text:FHSH Groundlayout\A3:freetext
+Free Text:FHSH Groundlayout\Main Apron:freetext
+Free Text:FHSH Groundlayout\Passenger Terminal:freetext
 Geo:FH Landmark Coast:
-Runways:FHSH 01-19:centerline
-Runways:FHSH 01-19:extended centerline 1
-Runways:FHSH 01-19:extended centerline 1 left base
-Runways:FHSH 01-19:extended centerline 1 left ticks
-Runways:FHSH 01-19:extended centerline 1 left vectoring
-Runways:FHSH 01-19:extended centerline 1 right base
-Runways:FHSH 01-19:extended centerline 1 right ticks
-Runways:FHSH 01-19:extended centerline 1 right vectoring
-Runways:FHSH 01-19:extended centerline 2
-Runways:FHSH 01-19:extended centerline 2 left base
-Runways:FHSH 01-19:extended centerline 2 left ticks
-Runways:FHSH 01-19:extended centerline 2 left vectoring
-Runways:FHSH 01-19:extended centerline 2 right base
-Runways:FHSH 01-19:extended centerline 2 right ticks
-Runways:FHSH 01-19:extended centerline 2 right vectoring
-Runways:FHSH 01-19:name
+Geo:FHSH Groundlayout Aprons:
+Geo:FHSH Groundlayout Buildings:
+Geo:FHSH Groundlayout Parking:
+Geo:FHSH Groundlayout Runway:
+Geo:FHSH Groundlayout Stopbars:
+Geo:FHSH Groundlayout Taxiways:
+Regions:FHSH AD Aprons:polygon
+Regions:FHSH AD Taxiways:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -33,7 +31,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:271.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-15.974790:-5.680113:-15.937708:-5.611594
+WINDOWAREA:-15.965614:-5.655778:-15.953463:-5.633326
 PLUGIN:Ground Radar plugin:AirportElevation:1017
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FHSH

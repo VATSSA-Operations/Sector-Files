@@ -23,13 +23,13 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2206/1  ++  Valid period: 16/JUN/2022 - 13/JUL/2022  ++  File-Publisher: Nairobi - HKNA                          ;
+;  AIRAC 2207/1  ++  Valid period: 14/JUL/2022 - 10/AUG/2022  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
 ;=========================================================================================================================;
 VOICE
 AG:HKEL_APP Eldoret Approach:119.400:novoice:HKEL_APP
 AG:HKEL_TWR Eldoret Tower:118.400:novoice:HKEL_TWR
 AG:HKEM_TWR Embu Tower:118.200:novoice:HKEM_TWR
-AG:HKJK_APP Nairobi Radar:119.700:novoice:HKJK_APP
+AG:HKJK_APP Nairobi Radar:122.300:novoice:HKJK_APP
 AG:HKJK_ATIS:126.200:novoice:HKJK_ATIS
 AG:HKJK_GND Nairobi Apron:121.600:novoice:HKJK_GND
 AG:HKJK_TWR Nairobi Tower:118.700:novoice:HKJK_TWR

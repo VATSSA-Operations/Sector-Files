@@ -199,7 +199,7 @@ Window_APP=1,700,700,600,300
 Window_APP_Rotation=325
 Window_APP_Scale=12
 Window_APP_Extensions=1
-Window_APP_AltFilter=5000
+Window_APP_AltFilter=5012
 
 AppPath=FSIA:FSIA 31:S004.40.49.778:E055.31.50.300:310:L:12:3.0
 

@@ -163,6 +163,19 @@ List_Outbound_ExpiryTime=600
 
 
 // ##################################################################
+//                 #7B TIMERS | TTT v0.1
+// ##################################################################
+
+List_Inbound_DefPos=1100,150
+List_Inbound_DTT=0
+List_Inbound_TYPE=1
+List_Inbound_WTC=1
+List_Inbound_WTC_Type=2
+List_Inbound_ETA=1
+List_Inbound_SSTAND=1
+
+
+// ##################################################################
 //                 #8 OTHERS v0.1
 // ##################################################################
 
@@ -195,10 +208,10 @@ Track_Heading_Line=0
 Airport_Elevation=138
 Airport_Radius=3
 
-Window_APP=1,200,450,500,250
+Window_APP=1,200,450,500,300
 Window_APP_Rotation=90.7
 Window_APP_Scale=10
-Window_APP_Extensions=10
+Window_APP_Extensions=1
 Window_APP_AltFilter=5000
 
 AppPath=DNMM:DNMM 18R:N006.35.16.018:E003.18.47.271:181:L:65:3.0
@@ -244,5 +257,5 @@ Window_APP_AltFilter=5000
 Window_APW_MaxDist=15
 
 // ##################################################################
-//                 END
+//                 THE END
 // ##################################################################
