@@ -214,6 +214,8 @@ Window_APP_Scale=10
 Window_APP_Extensions=10
 Window_APP_AltFilter=8780
 
+AppPath=FLKK:FLKK 10:S015.19.45.069:E028.26.03.659:100:L:3780:3.0
+
 
 // ##################################################################
 //                 END
