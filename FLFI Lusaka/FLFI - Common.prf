@@ -22,10 +22,10 @@ Settings	airportcoords	\FLFI\NavData\icao.txt
 RecentFiles	Recent1	\FLFI\ASR\1 FLFI CTR TS.asr
 RecentFiles	Recent2	\FLFI\ASR\FLKK AD GR.asr
 RecentFiles	Recent3	\FLFI\ASR\FLKK APP TS.asr
-ASRFastKeys	1	\FLFI\ASR\1_CTR.asr
-ASRFastKeys	2	\FLFI\ASR\2_APP.asr
-ASRFastKeys	3	\FLFI\ASR\3_TWR.asr
-Settings	sector	\FLFI-Package_20220616134408-220601-0001.sct
+ASRFastKeys	1	\FLFI\ASR\1 FLFI CTR TS.asr
+ASRFastKeys	2	\FLFI\ASR\FLKK APP TS.asr
+ASRFastKeys	3	\FLFI\ASR\FLKK AD GR.asr
+Settings	sector	\FLFI-Package_20220714140036-220701-0002.sct
 Plugins	Plugin0	\FLFI\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
@@ -35,11 +35,26 @@ Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2	\FLFI\Plugins\EasyTag\EasyTag.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin3	\FLFI\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3	\FLFI\Plugins\ESTimers\ESTimers.dll
 Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin4	\FLFI\Plugins\TopSky\TopSky.dll
-Plugins	Plugin4Display0	Standard ES radar screen
-Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FLFI\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FLFI\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FLFI\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin6Display1	Standard ES radar screen
+Plugins	Plugin7	\FLFI\Plugins\TopSky\TopSky.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	Ground Radar display
+Plugins	Plugin8	\FLFI\Plugins\vCH\VCH.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\FLFI\Plugins\vFPC\VFPC.dll
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin9Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
@@ -54,23 +69,23 @@ LastSession	simdatapublish	0
 RecentFiles	Recent4	\FLFI\ASR\1_CTR.asr
 RecentFiles	Recent5	\FLFI\ASR\2_APP.asr
 RecentFiles	Recent6	\FLFI\ASR\3_TWR.asr
-Sounds	Sound1	\ICAO\Sounds\atc_message.wav
-Sounds	Sound2	\ICAO\Sounds\broadcast_message.wav
-Sounds	Sound3	\ICAO\Sounds\conflict_alert.wav
-Sounds	Sound4	\ICAO\Sounds\connected.wav
-Sounds	Sound5	\ICAO\Sounds\disconnected.wav
-Sounds	Sound6	\ICAO\Sounds\handoff_accept.wav
-Sounds	Sound7	\ICAO\Sounds\handoff_refused.wav
-Sounds	Sound8	\ICAO\Sounds\handoff_request.wav
-Sounds	Sound9	\ICAO\Sounds\landline_request.wav
-Sounds	Sound10	\ICAO\Sounds\new_atis.wav
-Sounds	Sound11	\ICAO\Sounds\ongoing_accepted.wav
-Sounds	Sound12	\ICAO\Sounds\ongoing_manual.wav
-Sounds	Sound13	\ICAO\Sounds\ongoing_refused.wav
-Sounds	Sound14	\ICAO\Sounds\ongoing_request.wav
-Sounds	Sound15	\ICAO\Sounds\pointout.wav
-Sounds	Sound16	\ICAO\Sounds\private_message.wav
-Sounds	Sound17	\ICAO\Sounds\radio_message.wav
-Sounds	Sound18	\ICAO\Sounds\reminder.wav
-Sounds	Sound19	\ICAO\Sounds\startup.wav
-Sounds	Sound20	\ICAO\Sounds\supervisor_message.wav
+Sounds	Sound1	\FLFI\Sounds\atc_message.wav
+Sounds	Sound2	\FLFI\Sounds\broadcast_message.wav
+Sounds	Sound3	\FLFI\Sounds\conflict_alert.wav
+Sounds	Sound4	\FLFI\Sounds\connected.wav
+Sounds	Sound5	\FLFI\Sounds\disconnected.wav
+Sounds	Sound6	\FLFI\Sounds\handoff_accept.wav
+Sounds	Sound7	\FLFI\Sounds\handoff_refused.wav
+Sounds	Sound8	\FLFI\Sounds\handoff_request.wav
+Sounds	Sound9	\FLFI\Sounds\landline_request.wav
+Sounds	Sound10	\FLFI\Sounds\new_atis.wav
+Sounds	Sound11	\FLFI\Sounds\ongoing_accepted.wav
+Sounds	Sound12	\FLFI\Sounds\ongoing_manual.wav
+Sounds	Sound13	\FLFI\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FLFI\Sounds\ongoing_request.wav
+Sounds	Sound15	\FLFI\Sounds\pointout.wav
+Sounds	Sound16	\FLFI\Sounds\private_message.wav
+Sounds	Sound17	\FLFI\Sounds\radio_message.wav
+Sounds	Sound18	\FLFI\Sounds\reminder.wav
+Sounds	Sound19	\FLFI\Sounds\startup.wav
+Sounds	Sound20	\FLFI\Sounds\supervisor_message.wav

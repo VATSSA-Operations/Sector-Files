@@ -23,7 +23,7 @@ RecentFiles	Recent1	\FMMM\ASR\1 FMMM CTR TS.asr
 ASRFastKeys	1	\FMMM\ASR\1_CTR.asr
 ASRFastKeys	2	\FMMM\ASR\2_APP.asr
 ASRFastKeys	3	\FMMM\ASR\3_TWR.asr
-Settings	sector	\FMMM-Package_20220616142849-220601-0001.sct
+Settings	sector	\FMMM-Package_20220714140236-220701-0002.sct
 Plugins	Plugin0	\FMMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
@@ -33,11 +33,26 @@ Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2	\FMMM\Plugins\EasyTag\EasyTag.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin3	\FMMM\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3	\FMMM\Plugins\ESTimers\ESTimers.dll
 Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin4	\FMMM\Plugins\TopSky\TopSky.dll
-Plugins	Plugin4Display0	Standard ES radar screen
-Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FMMM\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FMMM\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FMMM\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin6Display1	Standard ES radar screen
+Plugins	Plugin7	\FMMM\Plugins\TopSky\TopSky.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	Ground Radar display
+Plugins	Plugin8	\FMMM\Plugins\vCH\VCH.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\FMMM\Plugins\vFPC\VFPC.dll
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin9Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
@@ -56,23 +71,23 @@ RecentFiles	Recent5	\FMMM\ASR\FMEE APP TS.asr
 RecentFiles	Recent6	\FMMM\ASR\FMMI AD GR.asr
 RecentFiles	Recent7	\FMMM\ASR\FMMI APP TS.asr
 RecentFiles	Recent8	\FMMM\ASR\1_CTR.asr
-Sounds	Sound1	\ICAO\Sounds\atc_message.wav
-Sounds	Sound2	\ICAO\Sounds\broadcast_message.wav
-Sounds	Sound3	\ICAO\Sounds\conflict_alert.wav
-Sounds	Sound4	\ICAO\Sounds\connected.wav
-Sounds	Sound5	\ICAO\Sounds\disconnected.wav
-Sounds	Sound6	\ICAO\Sounds\handoff_accept.wav
-Sounds	Sound7	\ICAO\Sounds\handoff_refused.wav
-Sounds	Sound8	\ICAO\Sounds\handoff_request.wav
-Sounds	Sound9	\ICAO\Sounds\landline_request.wav
-Sounds	Sound10	\ICAO\Sounds\new_atis.wav
-Sounds	Sound11	\ICAO\Sounds\ongoing_accepted.wav
-Sounds	Sound12	\ICAO\Sounds\ongoing_manual.wav
-Sounds	Sound13	\ICAO\Sounds\ongoing_refused.wav
-Sounds	Sound14	\ICAO\Sounds\ongoing_request.wav
-Sounds	Sound15	\ICAO\Sounds\pointout.wav
-Sounds	Sound16	\ICAO\Sounds\private_message.wav
-Sounds	Sound17	\ICAO\Sounds\radio_message.wav
-Sounds	Sound18	\ICAO\Sounds\reminder.wav
-Sounds	Sound19	\ICAO\Sounds\startup.wav
-Sounds	Sound20	\ICAO\Sounds\supervisor_message.wav
+Sounds	Sound1	\FMMM\Sounds\atc_message.wav
+Sounds	Sound2	\FMMM\Sounds\broadcast_message.wav
+Sounds	Sound3	\FMMM\Sounds\conflict_alert.wav
+Sounds	Sound4	\FMMM\Sounds\connected.wav
+Sounds	Sound5	\FMMM\Sounds\disconnected.wav
+Sounds	Sound6	\FMMM\Sounds\handoff_accept.wav
+Sounds	Sound7	\FMMM\Sounds\handoff_refused.wav
+Sounds	Sound8	\FMMM\Sounds\handoff_request.wav
+Sounds	Sound9	\FMMM\Sounds\landline_request.wav
+Sounds	Sound10	\FMMM\Sounds\new_atis.wav
+Sounds	Sound11	\FMMM\Sounds\ongoing_accepted.wav
+Sounds	Sound12	\FMMM\Sounds\ongoing_manual.wav
+Sounds	Sound13	\FMMM\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FMMM\Sounds\ongoing_request.wav
+Sounds	Sound15	\FMMM\Sounds\pointout.wav
+Sounds	Sound16	\FMMM\Sounds\private_message.wav
+Sounds	Sound17	\FMMM\Sounds\radio_message.wav
+Sounds	Sound18	\FMMM\Sounds\reminder.wav
+Sounds	Sound19	\FMMM\Sounds\startup.wav
+Sounds	Sound20	\FMMM\Sounds\supervisor_message.wav

@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FLFI Lusaka\FLFI-Package_20220616134408-220601-0001.sct
-SECTORTITLE:FLFI-Package_20220616134408-220601-0001.sct
 Airports:FLAA:name
 Airports:FLAA:symbol
 Airports:FLAI:name

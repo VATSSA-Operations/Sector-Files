@@ -25,21 +25,7 @@ RecentFiles	Recent3	\HKNA\ASR\HKMO APP TS.asr
 ASRFastKeys	1	\HKNA\ASR\1_CTR.asr
 ASRFastKeys	2	\HKNA\ASR\2_APP.asr
 ASRFastKeys	3	\HKNA\ASR\3_TWR.asr
-Settings	sector	\HKNA-Package_20220616143325-220601-0001.sct
-RecentFiles	Recent4	\HKNA\ASR\HKMO AD GR.asr
-RecentFiles	Recent4	\HKNA\ASR\HKJK AD GR.asr
-RecentFiles	Recent5	\HKNA\ASR\HKMO APP TS.asr
-RecentFiles	Recent5	\HKNA\ASR\HKJK APP TS.asr
-RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent8	\HKNA\ASR\2_APP.asr
-RecentFiles	Recent4	\HKNA\ASR\HKJK AD GR.asr
-RecentFiles	Recent5	\HKNA\ASR\HKJK APP TS.asr
-RecentFiles	Recent6	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent7	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent8	\HKNA\ASR\2_APP.asr
+Settings	sector	\HKNA-Package_20220714144044-220701-0003.sct
 Plugins	Plugin0	\HKNA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
@@ -77,35 +63,6 @@ LastSession	rating	0
 LastSession	tovatsim	1
 LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
 LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
-<<<<<<< Updated upstream
-LastSession	range	50
-Sounds	Sound1	\ICAO\Sounds\atc_message.wav
-Sounds	Sound2	\ICAO\Sounds\broadcast_message.wav
-Sounds	Sound3	\ICAO\Sounds\conflict_alert.wav
-Sounds	Sound4	\ICAO\Sounds\connected.wav
-Sounds	Sound5	\ICAO\Sounds\disconnected.wav
-Sounds	Sound6	\ICAO\Sounds\handoff_accept.wav
-Sounds	Sound7	\ICAO\Sounds\handoff_refused.wav
-Sounds	Sound8	\ICAO\Sounds\handoff_request.wav
-Sounds	Sound9	\ICAO\Sounds\landline_request.wav
-Sounds	Sound10	\ICAO\Sounds\new_atis.wav
-Sounds	Sound11	\ICAO\Sounds\ongoing_accepted.wav
-Sounds	Sound12	\ICAO\Sounds\ongoing_manual.wav
-Sounds	Sound13	\ICAO\Sounds\ongoing_refused.wav
-Sounds	Sound14	\ICAO\Sounds\ongoing_request.wav
-Sounds	Sound15	\ICAO\Sounds\pointout.wav
-Sounds	Sound16	\ICAO\Sounds\private_message.wav
-Sounds	Sound17	\ICAO\Sounds\radio_message.wav
-Sounds	Sound18	\ICAO\Sounds\reminder.wav
-Sounds	Sound19	\ICAO\Sounds\startup.wav
-Sounds	Sound20	\ICAO\Sounds\supervisor_message.wav
-=======
-<<<<<<< Updated upstream
-LastSession	range	50
-=======
-LastSession	range	50
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
 Sounds	Sound1	\HKNA\Sounds\atc_message.wav
 Sounds	Sound2	\HKNA\Sounds\broadcast_message.wav
 Sounds	Sound3	\HKNA\Sounds\conflict_alert.wav
@@ -126,5 +83,4 @@ Sounds	Sound17	\HKNA\Sounds\radio_message.wav
 Sounds	Sound18	\HKNA\Sounds\reminder.wav
 Sounds	Sound19	\HKNA\Sounds\startup.wav
 Sounds	Sound20	\HKNA\Sounds\supervisor_message.wav
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+

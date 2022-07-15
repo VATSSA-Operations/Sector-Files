@@ -5,8 +5,6 @@
 // Version v0.1
 // Update Date 28/06/2022
 
-// Changelog
-// v0.1 | FBQE TopSkyAreas Initia Setup
 
 // ##################################################################
 //                 #0 CATEGORIES v0.1
