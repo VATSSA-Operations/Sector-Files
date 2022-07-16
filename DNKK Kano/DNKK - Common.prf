@@ -30,7 +30,7 @@ ASRFastKeys	1	\DNKK\ASR\DNMM APP TS.asr
 ASRFastKeys	1	\DNKK\ASR\DNMM AD GR.asr
 ASRFastKeys	1	\DNKK\ASR\DNAA APP TS.asr
 ASRFastKeys	1	\DNKK\ASR\DNKN APP TS.asr
-Settings	sector	\DNKK-Package_20220616154027-220601-0001.sct
+Settings	sector	\DNKK-Package_20220714135224-220701-0002.sct
 Plugins	Plugin0	\DNKK\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
@@ -68,23 +68,23 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
-Sounds	Sound1	\ICAO\Sounds\atc_message.wav
-Sounds	Sound2	\ICAO\Sounds\broadcast_message.wav
-Sounds	Sound3	\ICAO\Sounds\conflict_alert.wav
-Sounds	Sound4	\ICAO\Sounds\connected.wav
-Sounds	Sound5	\ICAO\Sounds\disconnected.wav
-Sounds	Sound6	\ICAO\Sounds\handoff_accept.wav
-Sounds	Sound7	\ICAO\Sounds\handoff_refused.wav
-Sounds	Sound8	\ICAO\Sounds\handoff_request.wav
-Sounds	Sound9	\ICAO\Sounds\landline_request.wav
-Sounds	Sound10	\ICAO\Sounds\new_atis.wav
-Sounds	Sound11	\ICAO\Sounds\ongoing_accepted.wav
-Sounds	Sound12	\ICAO\Sounds\ongoing_manual.wav
-Sounds	Sound13	\ICAO\Sounds\ongoing_refused.wav
-Sounds	Sound14	\ICAO\Sounds\ongoing_request.wav
-Sounds	Sound15	\ICAO\Sounds\pointout.wav
-Sounds	Sound16	\ICAO\Sounds\private_message.wav
-Sounds	Sound17	\ICAO\Sounds\radio_message.wav
-Sounds	Sound18	\ICAO\Sounds\reminder.wav
-Sounds	Sound19	\ICAO\Sounds\startup.wav
-Sounds	Sound20	\ICAO\Sounds\supervisor_message.wav
+Sounds	Sound1	\DNKK\Sounds\atc_message.wav
+Sounds	Sound2	\DNKK\Sounds\broadcast_message.wav
+Sounds	Sound3	\DNKK\Sounds\conflict_alert.wav
+Sounds	Sound4	\DNKK\Sounds\connected.wav
+Sounds	Sound5	\DNKK\Sounds\disconnected.wav
+Sounds	Sound6	\DNKK\Sounds\handoff_accept.wav
+Sounds	Sound7	\DNKK\Sounds\handoff_refused.wav
+Sounds	Sound8	\DNKK\Sounds\handoff_request.wav
+Sounds	Sound9	\DNKK\Sounds\landline_request.wav
+Sounds	Sound10	\DNKK\Sounds\new_atis.wav
+Sounds	Sound11	\DNKK\Sounds\ongoing_accepted.wav
+Sounds	Sound12	\DNKK\Sounds\ongoing_manual.wav
+Sounds	Sound13	\DNKK\Sounds\ongoing_refused.wav
+Sounds	Sound14	\DNKK\Sounds\ongoing_request.wav
+Sounds	Sound15	\DNKK\Sounds\pointout.wav
+Sounds	Sound16	\DNKK\Sounds\private_message.wav
+Sounds	Sound17	\DNKK\Sounds\radio_message.wav
+Sounds	Sound18	\DNKK\Sounds\reminder.wav
+Sounds	Sound19	\DNKK\Sounds\startup.wav
+Sounds	Sound20	\DNKK\Sounds\supervisor_message.wav

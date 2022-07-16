@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2206/1  ++  Valid period: 16/JUN/2022 - 13/JUL/2022  ++  File-Publisher: LILONGWE - FWLL                         ;
+;  AIRAC 2207/1  ++  Valid period: 14/JUL/2022 - 10/AUG/2022  ++  File-Publisher: VATSSA Lilongwe - FWLL                  ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -3925,6 +3925,7 @@ NGC	ANGOSERVICE, LDA.	ANGOSERVICE	ANGOLA
 NGE	ANGEL AIRLINES COMPANY LTD	ANGEL AIR	THAILAND
 NGF	AIR CHARITY NETWORK (VIRGINIA BEACH, VA)	ANGEL FLIGHT	UNITED STATES
 NGL	MAX AIR LIMITED	MAXAIR NIGERIA	NIGERIA
+NGN	LEAV AVIATION GMBH	YODA	GERMANY
 NGO	AIR-ANGOL SOCIEDAD AERONAUTICA, LDA	AIR ANGOL	ANGOLA
 NGP	AIR NIGERIA PLC	REGAL EAGLE	NIGERIA
 NGR	NIGERIAN AIR FORCE	NIGERIAN AIRFORCE	NIGERIA

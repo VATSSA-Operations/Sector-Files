@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FASA South Africa\FASA-Package_20220616173902-220601-0001.sct
-SECTORTITLE:FASA-Package_20220616173902-220601-0001.sct
 Airports:FALW:name
 Airports:FALW:symbol
 Airports:FASH:name
