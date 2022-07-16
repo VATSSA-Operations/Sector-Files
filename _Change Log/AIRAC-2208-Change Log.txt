@@ -25,3 +25,19 @@ TopSky Updates
 
 Plugins
 Others
+
+
+**FQBE**
+
+Euroscope Data
+
+GroundRadar Updates
+
+TopSky Updates
+- Initial CPDLC Settings for TopSky
+
+Plugins
+- Added InitialClimb Data for FQMA
+
+Others
+
