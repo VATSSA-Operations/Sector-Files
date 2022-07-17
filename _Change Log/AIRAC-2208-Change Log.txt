@@ -36,6 +36,7 @@ TopSky Updates
 - Added CPDLC Sector Settings File to TopSky
 - Created TopSkyMSAW File, Added FLSK, FLKK and FLHN VOR MSA Data
 - TopSkyViews Update with multiple locations
+- Reviewed the TopSkyCPDLC Settings and added neighbouring stations.
 
 Plugins
 Others
@@ -49,6 +50,7 @@ GroundRadar Updates
 
 TopSky Updates
 - Initial CPDLC Settings for TopSky
+- TopSky Settings Updates
 
 Plugins
 - Added InitialClimb Data for FQMA

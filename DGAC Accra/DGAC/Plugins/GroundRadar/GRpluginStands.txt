@@ -2,11 +2,8 @@
 //                 VATSSA | FIR DGAC | GroundRadar | Stands
 // ##################################################################
 
-// Version v0.2
-// Update Date 03/05/2022
-
-// Changelog
-// v0.2 | Category Versioning Across WAF
+// Version v0.3
+// Update Date 17/07/2022
 
 // Active Airports
 // DG | DGAA
@@ -14,17 +11,28 @@
 
 
 // ##################################################################
-//                 General v0.1
+//                 #1B AIRLINES v0.2
 // ##################################################################
 
-// Airline Groups
-GROUP:StarAlliance:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:SIA:SAA:SWR:TAP:THA:THY:UAL
-GROUP:OneWorld:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
-GROUP:SkyTeam:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
-GROUP:Charter:TOM
-GROUP:Cargo:BOX:CAO:GEC##########################################
+// AIRLINE ALLIANCES
+GROUP:STR:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:SIA:SAA:SWR:TAP:THA:THY:UAL
+GROUP:ONE:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
+GROUP:SKY:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
 
-GROUP:DGAA_INT:ETH:QTR:TAP:UAE
+// INDEPENDENT
+GROUP:INDY:UAE
+
+// LOW COST
+
+// CARGO
+GROUP:CARGO:BOX:CAO:GEC
+
+// CHARTER
+GROUP:CHARTER:TOM
+
+// EXECUTIVE
+
+// VIRTUAL AIRLINES
 
 
 // ##################################################################
