@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2206/1  ++  Valid period: 16/JUN/2022 - 13/JUL/2022  ++  File-Publisher: Harare - FVHF                           ;
+;  AIRAC 2207/1  ++  Valid period: 14/JUL/2022 - 10/AUG/2022  ++  File-Publisher: VATSSA Harare - FVHF                    ;
 ;=========================================================================================================================;
 VOICE
 AG:FVCP_TWR Prince Tower:118.900:novoice:FVCP_TWR

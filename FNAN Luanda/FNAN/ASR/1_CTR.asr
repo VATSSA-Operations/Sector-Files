@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
 Airports:FBKE:name
 Airports:FBXG:name
 Airports:FCBB:name
@@ -467,4 +465,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-22.512333:-11.394660:0.808903:31.697108
+WINDOWAREA:-22.071478:-11.394660:0.368048:31.697108
