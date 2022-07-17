@@ -2,8 +2,8 @@
 //                 VATSSA | FIR DGAC | TopSky | STCA
 // ##################################################################
 
-// Version v0.1
-// Update Date 01/07/2022
+// Version v0.2
+// Update Date 17/07/2022
 
 
 // ##################################################################
@@ -13,6 +13,22 @@
 // DGAA
 FINALAPP:DGAA:03
 FINALAPP:DGAA:21
+
+// DGSI
+FINALAPP:DGSI:02
+FINALAPP:DGSI:20
+
+// DGSN
+FINALAPP:DGSN:07
+FINALAPP:DGSN:25
+
+// DGTK
+FINALAPP:DGTK:03
+FINALAPP:DGTK:21
+
+// DGLE
+FINALAPP:DGLE:05
+FINALAPP:DGLE:23
 
 
 // ##################################################################

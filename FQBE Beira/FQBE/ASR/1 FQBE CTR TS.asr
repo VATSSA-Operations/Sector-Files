@@ -54,20 +54,6 @@ Geo:FQVL Groundlayout:
 Geo:GEO:
 Regions:FQBR Groundlayout:polygon
 Regions:FQMA Groundlayout:polygon
-Runways:FQBR 12-30:centerline
-Runways:FQCH 01-19:centerline
-Runways:FQIN 16-34:centerline
-Runways:FQLC 08-26:centerline
-Runways:FQMA 05-23:centerline
-Runways:FQMA 10-28:centerline
-Runways:FQNC 01-19:centerline
-Runways:FQNP 05-23:centerline
-Runways:FQNP 13-31:centerline
-Runways:FQPB 17-35:centerline
-Runways:FQQL 18-36:centerline
-Runways:FQTT 01-19:centerline
-Runways:FQVL 10-28:centerline
-Runways:FQVL 17-35:centerline
 SHOWC:1
 SHOWSB:0
 BELOW:0
