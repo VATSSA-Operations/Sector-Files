@@ -235,6 +235,19 @@ Window_APP_AltFilter=5160
 
 AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
 
+[FALE]
+Airport_Elevation=310
+Airport_Radius=3
+
+Window_APP=1,1250,300,600,300
+Window_APP_Rotation=52.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5310
+
+AppPath=FALE:FALE 06:S029.37.30.190:E031.06.27.889:062:R:287:3.0
+AppPath=FALE:FALE 24:S029.35.54.560:E031.07.51.160:242:L:301:3.0
+
 [FAOR]
 Airport_Elevation=5580
 Airport_Radius=3
@@ -251,6 +264,19 @@ AppPath=FAOR:FAOR 03L:S026.08.47.108:E028.14.03.631:034:R:5558:3.0
 AppPath=FAOR:FAOR 03R:S026.09.53.168:E028.14.53.221:034:R:5510:3.0
 AppPath=FAOR:FAOR 21L:S026.08.06.640:E028.15.26.200:214:L:5494:3.0
 AppPath=FAOR:FAOR 21R:S026.06.42.861:E028.14.42.089:214:L:5505:3.0
+
+[FAPE]
+Airport_Elevation=229
+Airport_Radius=3
+
+Window_APP=1,1250,150,500,250
+Window_APP_Rotation=30.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5160
+
+AppPath=FAPE:FAPE 08:S033.59.37.888:E025.36.00.000:086:L:229:3.0
+AppPath=FAPE:FAPE 26:S033.59.03.930:E025.37.05.570:266:L:184:3.0
 
 
 // ##################################################################
