@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
 Airports:FIML:name
 Airports:FIMP:name
 Airports:FIMR:name
@@ -32,4 +30,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:ATNS - TopSky
-WINDOWAREA:-39.876807:31.163930:-7.631355:93.576511
+WINDOWAREA:-39.419641:31.163930:-8.088521:93.576511

@@ -1,6 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Free Text:HKJK Areas\Apron 1:freetext
 Free Text:HKJK Areas\Apron 2:freetext
 Free Text:HKJK Areas\Apron 3:freetext
@@ -91,9 +93,9 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:90.00000
+DisplayRotation:36.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-1.328910:36.910235:-1.309574:36.945315
+WINDOWAREA:-1.329821:36.907425:-1.305651:36.951276
 PLUGIN:Ground Radar plugin:AirportElevation:5330
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:HKJK
