@@ -8,6 +8,20 @@ TopSky Updates
 Plugins
 Others
 
+**DGAC**
+
+Euroscope Data
+
+GroundRadar Updates
+
+TopSky Updates
+
+Plugins
+- Reviewed the TopSky Views Settings
+- Added DGSI, DGLE, DGSN and DGTK to TopSky STCA Settings
+
+Others
+
 
 **FLFI**
 
