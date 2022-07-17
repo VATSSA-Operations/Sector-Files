@@ -23,10 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2206/1  ++  Valid period: 16/JUN/2022 - 13/JUL/2022  ++  File-Publisher: Antananarivo - FMMM                     ;
+;  AIRAC 2207/1  ++  Valid period: 14/JUL/2022 - 10/AUG/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
 ;=========================================================================================================================;
 VOICE
 AG:FMCH_TWR Moroni Tower:118.100:novoice:FMCH_TWR
+AG:FMCZ_ATIS:127.000:novoice:FMCZ_ATIS
 AG:FMCZ_TWR Dzaoudzi Tower:119.200:novoice:FMCZ_TWR
 AG:FMEE_APP Roland Garros Approach:119.400:novoice:FMEE_APP
 AG:FMEE_ATIS:126.800:novoice:FMEE_ATIS

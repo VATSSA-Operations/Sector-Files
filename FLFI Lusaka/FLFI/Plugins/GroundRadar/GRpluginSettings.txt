@@ -172,7 +172,7 @@ List_Inbound_TYPE=1
 List_Inbound_WTC=1
 List_Inbound_WTC_Type=2
 List_Inbound_ETA=1
-List_Inbound_SSTAND=1
+List_Inbound_STAND=1
 
 
 // ##################################################################
@@ -213,6 +213,8 @@ Window_APP_Rotation=355
 Window_APP_Scale=10
 Window_APP_Extensions=10
 Window_APP_AltFilter=8780
+
+AppPath=FLKK:FLKK 10:S015.19.45.069:E028.26.03.659:100:L:3780:3.0
 
 
 // ##################################################################

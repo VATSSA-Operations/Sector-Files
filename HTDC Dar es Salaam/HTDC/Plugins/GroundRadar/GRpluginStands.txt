@@ -343,55 +343,19 @@ PRIORITY:+1
 // GENERAL AVIATION
 // General Aviation 1
 STAND:HTDA:GA-1:S6.52.26.532:E39.12.10.581:120
-USE:Pb
+USE:P
 WTC:L
 AREA
 
 // General Aviation 2
 STAND:HTDA:GA-2:S6.52.18.108:E39.12.15.304:200
-USE:Pb
+USE:P
 WTC:L
 AREA
 
 // CARGO RAMP
 // Cargo Apron
 STAND:HTDA:CARGO:S6.52.10.065:E39.12.20.386:80
-USE:Pb
+USE:P
 WTC:L
 AREA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
