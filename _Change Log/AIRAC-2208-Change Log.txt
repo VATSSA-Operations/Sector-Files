@@ -57,6 +57,21 @@ Plugins
 
 Others
 
+**HKNA**
+
+Euroscope Data
+GroundRadar Updates
+- Added HKJK to GroundRadar Settings Data
+- Added HKJK ILS 06 to GroundRadar AppPath Settings Data
+
+TopSky Updates
+- Created TopSkyMSAW Data File. 
+- Grid MORA for HKNA has been added to TopSky MSAW Data.
+- HKJK NV VOR MSA added to TopSky MSAW Data.
+
+Plugins
+Others
+
 
 ## THE END ##
 

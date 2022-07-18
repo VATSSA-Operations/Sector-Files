@@ -219,7 +219,6 @@ Free Text:HKNW Taxiways\F:freetext
 Free Text:HKNW Taxiways\G:freetext
 Free Text:HKNW Taxiways\H:freetext
 Free Text:HKNW Taxiways\H:freetext
-Geo:GEO:
 Geo:HK Danger area D13 Nairobi Control Zone:
 Geo:HK Danger area D20 Samburu:
 Geo:HK Danger area D23 Yatta:
@@ -228,9 +227,6 @@ Geo:HK Danger area D27 Mweiga Airstrip:
 Geo:HK Danger area D28 Aberdare Country Club:
 Geo:HK Danger area D29 Mombasa:
 Geo:HK Danger area D30 Lokichoggio:
-Geo:HK Landmark Coast:
-Geo:HK Landmark Lake Turkana:
-Geo:HK Landmark Lakes:
 Geo:HK Prohibited area P1 Mount Longonot:
 Geo:HK Prohibited area P2 Nanykui:
 Geo:HK Prohibited area P24 Nairobi:
@@ -260,72 +256,7 @@ Geo:HKNY Groundlayout:
 Geo:HKOL Groundlayout:
 Geo:HKRE Groundlayout:
 Geo:HKWJ Groundlayout:
-Geo:HT Landmark Coast N:
-Geo:HT Landmark Lake Victoria:
-Geo:HT Landmark Lakes:
-Geo:HU Landmark Lakes:
 Geo:KQVF Groundlayout:
-High airways:R775:line
-High airways:UA401:line
-High airways:UA727:line
-High airways:UB403:line
-High airways:UB527:line
-High airways:UB530:line
-High airways:UB531:line
-High airways:UB535:line
-High airways:UB607:line
-High airways:UG300:line
-High airways:UG424:line
-High airways:UG656:line
-High airways:UG657:line
-High airways:UG661:line
-High airways:UL303:line
-High airways:UL431:line
-High airways:UL432:line
-High airways:UL433:line
-High airways:UL434:line
-High airways:UL437:line
-High airways:UL442:line
-High airways:UL445:line
-High airways:UM216:line
-High airways:UM220:line
-High airways:UM304:line
-High airways:UM306:line
-High airways:UM308:line
-High airways:UM310:line
-High airways:UM311:line
-High airways:UM315:line
-High airways:UM441:line
-High airways:UM651:line
-High airways:UM665:line
-High airways:UM997:line
-High airways:UN301:line
-High airways:UN306:line
-High airways:UN308:line
-High airways:UN553:line
-High airways:UN554:line
-High airways:UN556:line
-High airways:UP312:line
-High airways:UP676:line
-High airways:UQ135:line
-High airways:UQ315:line
-High airways:UR775:line
-High airways:UR779:line
-High airways:UR780:line
-High airways:UR784:line
-High airways:UT129:line
-High airways:UT146:line
-High airways:UT238:line
-High airways:UT252:line
-High airways:UT253:line
-High airways:UT386:line
-High airways:UT910:line
-High airways:UT911:line
-High airways:UT912:line
-High airways:UT913:line
-High airways:UT914:line
-High airways:UW305:line
-High airways:UW601:line
 Regions:HKEL Groundlayout:polygon
 Regions:HKEM Groundlayout:polygon
 Regions:HKJK Groundlayout:polygon

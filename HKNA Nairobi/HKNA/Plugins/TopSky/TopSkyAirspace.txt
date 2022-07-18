@@ -2,11 +2,8 @@
 //                 VATSSA | FIR HKNA | TopSky | Airspace
 // ##################################################################
 
-// Version v0.1
-// Update Date 03/07/2022
-
-// Changelog
-// v0.1 | HKNA TopSkyAirspace Initial Setup
+// Version v0.2
+// Update Date 18/07/2022
 
 
 // ##################################################################
@@ -18,6 +15,7 @@ QNHTL:HKJK:100
 QNHTL:HKMO:30
 
 // LEVELS
+LEVELS:HKJK:71,79,91
 LEVELS:HKMO:22,24,25,27,30,32,40
 
 

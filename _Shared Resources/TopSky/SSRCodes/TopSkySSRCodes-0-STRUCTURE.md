@@ -1,42 +1,25 @@
 // ##################################################################
-//                 VATSSA | FIR HKNA | TopSky | SSRCodes
+//                 VATSSA | FIR ICAO | TopSky | SSRCodes
 // ##################################################################
 
 // Version v0.1
-// Update Date 18/07/2022
+// Update Date 24/06/2022
 
 
 // ##################################################################
-//                 HK KENYA
+//                 FP SAO TOME & PRINCIPE
 // ##################################################################
 
-// HKJK DEPs
+//HKJK DEPs
 RANGE:0500:0577
 ADEP:HKJK
 IFR
 
-// HKJK DEPs
+//HKJK DEPs
 RANGE:1300:1377
 ADEP:HKJK
 IFR
 VFR
-
-// HK KENYA DOMESTIC
-RANGE:5340:5377
-ADEP:HK
-ADES:HK
-IFR
-VFR
-
-// HK KENYA OUTBOUND
-RANGE:5400:5477
-ADEP:HK
-IFR
-VFR
-
-// NBO CTR
-RANGE:1640:1670
-NOTADEP:HK
 
 
 // ##################################################################

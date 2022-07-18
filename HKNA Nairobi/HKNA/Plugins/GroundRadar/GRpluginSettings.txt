@@ -199,9 +199,21 @@ Window_APP=1,1200,610,600,300
 Window_APP_Rotation=61
 Window_APP_Scale=10
 Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_AltFilter=5200
 
 AppPath=HKMO:HKMO 21:S004.00.47.048:E039.36.23.220:210:L:200:3.0
+
+[HKJK]
+Airport_Elevation=5330
+Airport_Radius=3
+
+Window_APP=1,1200,610,600,300
+Window_APP_Rotation=36
+Window_APP_Scale=10
+Window_APP_Extensions=10
+Window_APP_AltFilter=10330
+
+AppPath=HKJK:HKJK 06:S001.19.39.331:E036.54.58.888:053:R:5330:3.0
 
 
 // ##################################################################
