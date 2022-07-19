@@ -1,4 +1,8 @@
 [PDC]
+
+// Version v0.2
+// Update Date 19/07/2022
+
 PDC:*:SID:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> VIA  <sid> ALT <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
 PDC:*:AHDG:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> FLY RUNWAY HEADING. CLIMB TO <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
 
@@ -13,12 +17,3 @@ FREETEXT:R:RADAR CONTACT LOST
 FREETEXT:R:NO DELAY EXPECTED
 FREETEXT:R:DELAY NOT DETERMINED
 FREETEXT:WU:REPORT APPROACHING TOP OF DESCENT ON VOICE
-
-[STATIONS]
-
-// AFRICA FSS
-LOGIN:AFRC:AFRICA CENTRAL:AFC
-LOGIN:AFRS:AFRICA SOUTH:AFS
-LOGIN:AFRW:AFRICA WEST:AFW
-
-

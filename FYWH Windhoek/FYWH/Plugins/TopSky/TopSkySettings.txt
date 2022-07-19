@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FYWH | TopSky | Settings
 // ##################################################################
 
-// Version v0.2
-// Update Date 05/07/2022
+// Version v0.3
+// Update Date 19/07/2022
 
 
 // ##################################################################
@@ -152,18 +152,25 @@ Color_Weather_Map=207,128,238
 
 
 // ##################################################################
-//                 #3 VISUAL v0.2
+//                 #3 VISUAL v0.3
 // ##################################################################
 
 Window_WxMsgs=1,1460,46,438,200
+Window_WxMsgs_MetarRefreshInterval=600
+Window_WxMsgs_HighlightNew=1
+
 
 Window_QNHTL=1,1728,250
-Window_LFUNCFP=1,1728,420
+Window_QNHTL_HighlightChanges=1
+
+Window_LFUNCFP=0,1728,420
 
 Window_CPDLC_Setting=1,1300,650
 Window_ATCmsg=1,1460,650,438,120
 Window_PrimFreqMsg=1,1460,775,438,120
 Window_CPDLC_Current=1,1460,900
+
+Window_NOTAM=3
 
 
 // ##################################################################
@@ -238,7 +245,7 @@ RDF_Floor=2500
 
 
 // ##################################################################
-//                   MSAW v0.1
+//                   #9 MSAW v0.1
 // ##################################################################
 
 MSAW=1
@@ -253,7 +260,7 @@ MSAW_Buffer_IFR=300
 
 
 // ##################################################################
-//                   NOTAMs v0.1
+//                   #10 NOTAMs v0.1
 // ##################################################################
 
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
@@ -337,8 +344,35 @@ System_Coord_Sound_TIP_RJC=1
 
 
 // ##################################################################
-//                 AIRSPACE
+//                   #15 LABELS v0.1
 // ##################################################################
+
+Label_SI_ShowFreq=1
+Label_SI_FreqTime=3
+Label_DAPs=1
+Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,MSFS,msfs
+Label_Rev_Highlight_Delta_ETN=0
+Label_Alt_Digits=2
+
+FlightLeg_Label_DIST=1
+FlightLeg_Label_RFL=1
+FlightLeg_Label_SCFL=1
+
+
+// ##################################################################
+//                 #99 AIRSPACE v0.1
+// ##################################################################
+
+Airspace_C_Flag=FYWH
+
+Airspace_NOTAM_Add=FYWH,FYWE,FYWB,FYKT,FYOA,FYRU,FYGF
+Airspace_NOTAM_Remove=FA,FB,FD,FL,FM,FV,FW,FY
+Airspace_SIGMET_Areas=FYWF
+
+[FYWH_APP]
+Setup_LoadView=FYWH TMA
+Setup_Informed=*:*:FYWH
+
 
 // ##################################################################
 //                 THE END
