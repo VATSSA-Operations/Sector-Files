@@ -172,7 +172,7 @@ List_Inbound_TYPE=1
 List_Inbound_WTC=1
 List_Inbound_WTC_Type=2
 List_Inbound_ETA=1
-List_Inbound_SSTAND=1
+List_Inbound_STAND=1
 
 
 // ##################################################################
@@ -203,6 +203,19 @@ Track_Heading_Line=0
 // ##################################################################
 //                 DN NIGERIA
 // ##################################################################
+
+[DNAA]
+Airport_Elevation=1122
+Airport_Radius=3
+
+Window_APP=1,200,650,500,300
+Window_APP_Rotation=55
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=6122
+
+AppPath=DNAA:DNAA 04:N008.59.36.398:E007.15.13.460:035:R:1087:3.0
+AppPath=DNAA:DNAA 22:N009.01.12.529:E007.16.21.399:215:L:1121:3.0
 
 [DNMM]
 Airport_Elevation=138

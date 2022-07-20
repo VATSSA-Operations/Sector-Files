@@ -54,22 +54,22 @@
         {
           "Low": 1047,
           "High": 1099,
-          "Altitude": 50
+          "Altitude": 55
         },
         {
           "Low": 1014,
           "High": 1046,
-          "Altitude": 60
+          "Altitude": 65
         },
         {
           "Low": 980,
           "High": 1013,
-          "Altitude": 70
+          "Altitude": 75
         },
         {
           "Low": 946,
           "High": 979,
-          "Altitude": 80
+          "Altitude": 85
         }
       ]
     },

@@ -1134,5 +1134,25 @@
             }
          ]
       }
+   },
+   {
+      "icao": "DNAA",
+      "sids":{
+         "IKSEM": [
+            {
+               "direction": "EVEN"
+            }
+         ],
+         "IKVAD": [
+            {
+               "direction": "ODD"
+            }
+         ],
+         "OXORU": [
+            {
+               "direction": "ODD"
+            }
+         ]
+      }
    }
 ]

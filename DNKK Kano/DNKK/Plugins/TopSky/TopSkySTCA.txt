@@ -2,13 +2,18 @@
 //                 VATSSA | FIR DNKK | TopSky | STCA
 // ##################################################################
 
-// Version v0.1
-// Update Date 06/06/2022
+// Version v0.2
+// Update Date 20/07/2022
 
 
 // ##################################################################
 //                 DN NIGERIA
 // ##################################################################
+
+// DNAA | NNAMDI AZIKIWE INTL
+
+FINALAPP:DNAA:04
+FINALAPP:DNAA:22
 
 // DNMM
 FINALAPP:DNMM:18R

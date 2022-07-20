@@ -1,6 +1,46 @@
 ## AIRAC 2208 ##
 
-**ICAO**
+
+**DGAC**
+
+Euroscope Data
+
+GroundRadar Updates
+- Added GroundRadar Stand Data for DBBB
+
+TopSky Updates
+
+Plugins
+- vFPC Settings Addded for DNAA
+
+Others
+
+
+
+**DNKK**
+
+Euroscope Data
+
+GroundRadar Updates
+- Added DNAA to GroundRadar Settings, including Approach Window and ILS Approach Paths
+- Added DNAA Approaches and Departures to GroundRadar Maps for Approach Window
+
+TopSky Updates
+- Added DNAA TMA and DNKK CTR to TopSkyViews
+- Added DNAA to TopSky TCA Settings
+- Reviewed TopSkySettings
+- Reviewed TopSkyMaps
+- Updated TopSkyCPDLC with Stations v0.2 and PDC Structure v0.2
+- Updated DNAA QNHTL and Added DNAA Levels to TopSkyAirspace
+
+Plugins
+- vFPC Settings Addded for DNAA
+
+Others
+- Reviewed the DNAA APP TS ASR
+
+
+**FASA**
 
 Euroscope Data
 GroundRadar Updates
@@ -8,18 +48,33 @@ TopSky Updates
 Plugins
 Others
 
-**DGAC**
+
+**FBGR**
 
 Euroscope Data
-
 GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**FCCC**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**FIMM**
+
+Euroscope Data
+GroundRadar Updates
+- Reviewed GroundRadar Data for FIMP
 
 TopSky Updates
-
 Plugins
-- Reviewed the TopSky Views Settings
-- Added DGSI, DGLE, DGSN and DGTK to TopSky STCA Settings
-
 Others
 
 
@@ -31,12 +86,32 @@ Euroscope Data
 GroundRadar Updates
 - Added FLKK 10 to the GroundRadar Approach Path Settings
 - Added FLKK Approaches to the GroundRadar Maps Approach Window
+- Added GroundRadar Stand Data for FLKK
 
 TopSky Updates
 - Added CPDLC Sector Settings File to TopSky
 - Created TopSkyMSAW File, Added FLSK, FLKK and FLHN VOR MSA Data
 - TopSkyViews Update with multiple locations
+- Reviewed the TopSkyCPDLC Settings and added neighbouring stations
 
+Plugins
+Others
+
+
+**FMMM**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**FNAN**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
 Plugins
 Others
 
@@ -49,6 +124,7 @@ GroundRadar Updates
 
 TopSky Updates
 - Initial CPDLC Settings for TopSky
+- TopSky Settings Updates
 
 Plugins
 - Added InitialClimb Data for FQMA
@@ -56,5 +132,125 @@ Plugins
 Others
 
 
+**FSSS**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**FVHF**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**FWLL**
+
+Euroscope Data
+GroundRadar Updates
+- Added GroundRadar Stand Data for FWKI
+
+TopSky Updates
+Plugins
+Others
+
+
+**FYWH**
+
+Euroscope Data
+GroundRadar Updates
+- GEO Data added to GroundRadar Maps
+- FYWB Data added to GroundRadar Settings
+
+TopSky Updates
+- GRID Mora added to TopSky MSAW Data
+- FYWH, FYWB, FYKT MSA Added to TopSky MSAW Data
+- TopSky Settings expanded with Labels and Airspace
+- FYWB, FYWE and FYWH QNHTL Data Updated on TopSky Airspace
+- FYWB, FYWH Levels Data Updated on TopSky Airspace
+- TopSky Areas Created with existing Danger, Prohibited and Restricted Data
+- TopSky CPDLC Updated
+- TopSky Maps Updated with Geo Landmark Data, FIR Data (Airports, Navaids, FIR Entry Fixes)
+
+Plugins
+Others
+- Updated ASR files due to Data being moved to TopSky
+- FYWE AD GR ASR Created
+
+
+**FZZA**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**GOOO**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**GVSC**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**HKNA**
+
+Euroscope Data
+GroundRadar Updates
+- Added HKJK to GroundRadar Settings Data
+- Added HKJK ILS 06 to GroundRadar AppPath Settings Data
+
+TopSky Updates
+- Created TopSkyMSAW Data File. 
+- Grid MORA for HKNA has been added to TopSky MSAW Data
+- HKJK NV VOR MSA added to TopSky MSAW Data
+
+Plugins
+Others
+
+
+**HTDC**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
+**HUEN**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others
+
+
 ## THE END ##
 
+**ICAO**
+
+Euroscope Data
+GroundRadar Updates
+TopSky Updates
+Plugins
+Others

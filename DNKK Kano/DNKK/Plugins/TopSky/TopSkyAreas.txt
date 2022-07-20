@@ -39,7 +39,7 @@ N013.24.04.770:E006.35.24.890
 //                 #2 PROHIBITED
 // ##################################################################
 
-// DN Prohibited area P1 Lagos/Murtala Muhammed - GND/A050 
+// DN Prohibited Area P1 Lagos/Murtala Muhammed - GND/A050 
 AREA:T:DN P1
 CATEGORY:PROHIBITED
 ACTIVE:1
@@ -87,7 +87,7 @@ N006.26.57.424 E003.17.29.606
 N006.27.01.025 E003.17.38.354
 N006.27.03.221 E003.17.47.561
 
-// DN Prohibited area P2 Lanlate - GND/A020
+// DN Prohibited Area P2 Lanlate - GND/A020
 AREA:T:DN P2
 CATEGORY:PROHIBITED
 ACTIVE:1
@@ -134,7 +134,7 @@ N007.40.28.116 E003.26.39.688
 N007.40.46.122 E003.27.23.536
 N007.40.57.106 E003.28.09.686
 
-// DN Prohibited area P3 Lagos - GND/A150
+// DN Prohibited Area P3 Lagos - GND/A150
 AREA:T:DN P3
 CATEGORY:PROHIBITED
 ACTIVE:1
@@ -181,7 +181,7 @@ N007.35.28.116 E003.33.20.715
 N007.35.46.122 E003.34.04.554
 N007.35.57.106 E003.34.50.695
 
-// DN Prohibited area P4 Abuja - GND/FL450
+// DN Prohibited Area P4 Abuja - GND/FL450
 AREA:T:DN P4
 CATEGORY:PROHIBITED
 ACTIVE:1
@@ -239,7 +239,7 @@ CIRCLE:N010.27.50:E007.38.50:1:1
 //                 #3 RESTRICTED
 // ##################################################################
 
-// DN Restricted area R1 - GND/FL100    
+// DN Restricted Area R1 - GND/FL100    
 AREA:T:DN R1
 CATEGORY:RESTRICTED
 ACTIVE:1
@@ -285,7 +285,7 @@ N006.29.42.271 E003.22.34.816
 N006.29.53.074 E003.23.01.060
 N006.29.59.664 E003.23.28.681
 
-// DN Restricted area R2 Ikang and Bakassi - GND/FL100   
+// DN Restricted Area R2 Ikang and Bakassi - GND/FL100   
 AREA:T:DN R2
 CATEGORY:RESTRICTED
 ACTIVE:1
@@ -295,7 +295,7 @@ N004.28.02.000 E008.22.57.000
 N004.26.02.000 E008.47.57.000
 N004.52.02.000 E008.36.57.000
 
-// DN Restricted area R3 Bulldog Sector B - GND/FL120  
+// DN Restricted Area R3 Bulldog Sector B - GND/FL120  
 AREA:T:DN R3 B
 CATEGORY:RESTRICTED
 ACTIVE:1
@@ -305,7 +305,7 @@ N010.36.00.000 E007.34.34.000
 N010.17.00.000 E007.49.57.000
 N010.36.00.000 E007.55.57.000
 
-// DN Restricted area R3 North-East Sector A - GND/FL120    
+// DN Restricted Area R3 North-East Sector A - GND/FL120    
 AREA:T:DN R3 A
 CATEGORY:RESTRICTED
 ACTIVE:1
@@ -349,11 +349,12 @@ ACTIVE:1
 LIMITS:0:100
 CIRCLE:N010.36.55:E007.21.57:2:1
 
+
 // ##################################################################
 //                 #4 DANGER
 // ##################################################################
 
-// DN Danger area Air Force Training Area 1 
+// DN Danger Area Air Force Training Area 1 
 AREA:T:DN AFTA 1
 CATEGORY:DANGER
 ACTIVE:1
@@ -364,7 +365,7 @@ N008.09.00.000 E009.08.00.000
 N008.23.00.000 E009.40.00.000
 N008.38.00.000 E009.27.00.000
 
-// DN Danger area Air Force Training Area 2 
+// DN Danger Area Air Force Training Area 2 
 AREA:T:DN AFTA 2
 CATEGORY:DANGER
 ACTIVE:1
@@ -374,7 +375,7 @@ N007.13.00.000 E008.11.00.000
 N007.22.00.000 E007.37.00.000
 N007.35.00.000 E007.37.00.000
 
-// DN Danger area Air Force Training Area 3 
+// DN Danger Area Air Force Training Area 3 
 AREA:T:DN AFTA 3
 CATEGORY:DANGER
 ACTIVE:1
@@ -385,7 +386,7 @@ N007.16.00.000 E009.14.00.000
 N007.15.00.000 E009.43.00.000
 N007.32.00.000 E009.35.00.000
 
-// DN Danger area D1 - GND/A300             
+// DN Danger Area D1 - GND/A300             
 AREA:T:DN D1
 CATEGORY:DANGER
 ACTIVE:1
@@ -395,7 +396,7 @@ N006.17.02.000 E003.23.57.000
 N006.10.02.000 E003.23.57.000
 N006.10.02.000 E003.08.57.000
 
-// DN Danger area D10 - GND/A300            
+// DN Danger Area D10 - GND/A300            
 AREA:T:DN D10
 CATEGORY:DANGER
 ACTIVE:1
@@ -441,7 +442,7 @@ N012.08.53.424 E008.23.29.157
 N012.08.57.025 E008.23.38.048
 N012.08.59.221 E008.23.47.406
 
-// DN Danger area D11 - GND/A300            
+// DN Danger Area D11 - GND/A300            
 AREA:T:DN D11
 CATEGORY:DANGER
 ACTIVE:1
@@ -487,7 +488,7 @@ N006.28.55.424 E003.15.29.605
 N006.28.59.025 E003.15.38.353
 N006.29.01.221 E003.15.47.560
 
-// DN Danger area D12 - GND/A400            
+// DN Danger Area D12 - GND/A400            
 AREA:T:DN D12
 CATEGORY:DANGER
 ACTIVE:1
@@ -497,7 +498,7 @@ N010.00.02.000 E007.59.57.000
 N009.45.02.000 E007.59.57.000
 N009.45.02.000 E007.44.57.000
 
-// DN Danger area D13 - GND/A400            
+// DN Danger Area D13 - GND/A400            
 AREA:T:DN D13
 CATEGORY:DANGER
 ACTIVE:1
@@ -507,7 +508,7 @@ N010.35.00.000 E005.50.57.000
 N010.16.02.000 E005.50.57.000
 N010.16.02.000 E005.27.57.000
 
-// DN Danger area D2 - GND/A300             
+// DN Danger Area D2 - GND/A300             
 AREA:T:DN D2
 CATEGORY:DANGER
 ACTIVE:1
@@ -517,7 +518,7 @@ N006.10.02.000 E003.23.57.000
 N006.03.02.000 E003.23.57.000
 N006.03.02.000 E003.08.57.000
 
-// DN Danger area D3 - GND/A300             
+// DN Danger Area D3 - GND/A300             
 AREA:T:DN D3
 CATEGORY:DANGER
 ACTIVE:1
@@ -527,7 +528,7 @@ N006.22.32.000 E003.38.57.000
 N006.17.02.000 E003.38.57.000
 N006.17.02.000 E003.23.57.000
 
-// DN Danger area D4 - GND/A300             
+// DN Danger Area D4 - GND/A300             
 AREA:T:DN D4
 CATEGORY:DANGER
 ACTIVE:1
@@ -537,7 +538,7 @@ N006.17.02.000 E003.38.57.000
 N006.10.02.000 E003.38.57.000
 N006.10.02.000 E003.23.57.000
 
-// DN Danger area D5 - GND/A300             
+// DN Danger Area D5 - GND/A300             
 AREA:T:DN D5
 CATEGORY:DANGER
 ACTIVE:1
@@ -547,7 +548,7 @@ N006.22.32.000 E003.53.57.000
 N006.17.02.000 E003.53.57.000
 N006.17.02.000 E003.38.57.000
 
-// DN Danger area D6 - GND/A300             
+// DN Danger Area D6 - GND/A300             
 AREA:T:DN D6
 CATEGORY:DANGER
 ACTIVE:1
@@ -557,7 +558,7 @@ N006.17.02.000 E003.53.57.000
 N006.10.02.000 E003.53.57.000
 N006.10.02.000 E003.38.57.000
 
-// DN Danger area D7 - GND/A300             
+// DN Danger Area D7 - GND/A300             
 AREA:T:DN D7
 CATEGORY:DANGER
 ACTIVE:1
@@ -567,7 +568,7 @@ N006.10.02.000 E003.53.57.000
 N006.03.02.000 E003.53.57.000
 N006.03.02.000 E003.38.57.000
 
-// DN Danger area D8 - GND/A300             
+// DN Danger Area D8 - GND/A300             
 AREA:T:DN D8
 CATEGORY:DANGER
 ACTIVE:1
@@ -577,7 +578,7 @@ N006.10.02.000 E003.38.57.000
 N006.03.02.000 E003.38.57.000
 N006.03.02.000 E003.23.57.000
 
-// DN Danger area D9 - GND/A300             
+// DN Danger Area D9 - GND/A300             
 AREA:T:DN D9
 CATEGORY:DANGER
 ACTIVE:1
@@ -587,7 +588,7 @@ N006.03.02.000 E003.53.57.000
 N005.43.02.000 E003.53.57.000
 N005.43.02.000 E003.08.57.000
 
-// DN Danger area Military Training Area 1 - GND/A035 
+// DN Danger Area Military Training Area 1 - GND/A035 
 AREA:T:DN MTA 1
 CATEGORY:DANGER
 ACTIVE:1
@@ -619,7 +620,7 @@ N006.39.27.025 E007.25.24.336
 N006.37.39.673 E007.23.52.089
 N006.37.26.890 E007.23.42.915
 
-// DN Danger area Military Training Area 11 - GND/A035 
+// DN Danger Area Military Training Area 11 - GND/A035 
 AREA:T:DN MTA 11
 CATEGORY:DANGER
 ACTIVE:1

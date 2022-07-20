@@ -3,6 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC low boundary:HKMO TMA:
 Fixes:AKUMU:name
 Fixes:AKUMU:symbol
 Fixes:ALEMU:name
@@ -106,7 +107,6 @@ Geo:HK Restricted area R11 Mombasa:
 Geo:HK Restricted area R12 Manda Base:
 Geo:HK Restricted area R14 Embu Airstrip:
 Geo:HKJK MRVA:
-High airways:B530:line
 High airways:R775:line
 High airways:UA401:line
 High airways:UA727:line
@@ -193,8 +193,6 @@ VORs:DV:name
 VORs:DV:symbol
 VORs:ELD:name
 VORs:ELD:symbol
-VORs:GAR:name
-VORs:GAR:symbol
 VORs:GV:name
 VORs:GV:symbol
 VORs:JUB:name
@@ -247,5 +245,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:359.00000
-TAGFAMILY:VATSSA - TopSky
-WINDOWAREA:-6.097716:26.982879:5.580783:48.802733
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-8.984740:28.038612:3.041986:49.858466

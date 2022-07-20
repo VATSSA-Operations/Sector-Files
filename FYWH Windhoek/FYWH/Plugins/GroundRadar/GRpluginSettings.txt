@@ -214,6 +214,16 @@ Window_APP_Scale=10
 Window_APP_Extensions=1
 Window_APP_AltFilter=10641
 
+[FYWB]
+Airport_Elevation=317
+Airport_Radius=3
+
+Window_APP=1,1300,650,600,300
+Window_APP_Rotation=18
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5317
+
 
 // ##################################################################
 //                 END
