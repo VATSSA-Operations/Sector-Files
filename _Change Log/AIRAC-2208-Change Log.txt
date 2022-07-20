@@ -11,19 +11,33 @@ GroundRadar Updates
 TopSky Updates
 
 Plugins
-- Reviewed the TopSky Views Settings
-- Added DGSI, DGLE, DGSN and DGTK to TopSky STCA Settings
+- vFPC Settings Addded for DNAA
 
 Others
+
 
 
 **DNKK**
 
 Euroscope Data
+
 GroundRadar Updates
+- Added DNAA to GroundRadar Settings, including Approach Window and ILS Approach Paths
+- Added DNAA Approaches and Departures to GroundRadar Maps for Approach Window
+
 TopSky Updates
+- Added DNAA TMA and DNKK CTR to TopSkyViews
+- Added DNAA to TopSky TCA Settings
+- Reviewed TopSkySettings
+- Reviewed TopSkyMaps
+- Updated TopSkyCPDLC with Stations v0.2 and PDC Structure v0.2
+- Updated DNAA QNHTL and Added DNAA Levels to TopSkyAirspace
+
 Plugins
+- vFPC Settings Addded for DNAA
+
 Others
+- Reviewed the DNAA APP TS ASR
 
 
 **FASA**
@@ -151,13 +165,23 @@ Others
 
 Euroscope Data
 GroundRadar Updates
+- GEO Data added to GroundRadar Maps
+- FYWB Data added to GroundRadar Settings
+
 TopSky Updates
 - GRID Mora added to TopSky MSAW Data
 - FYWH, FYWB, FYKT MSA Added to TopSky MSAW Data
 - TopSky Settings expanded with Labels and Airspace
+- FYWB, FYWE and FYWH QNHTL Data Updated on TopSky Airspace
+- FYWB, FYWH Levels Data Updated on TopSky Airspace
+- TopSky Areas Created with existing Danger, Prohibited and Restricted Data
+- TopSky CPDLC Updated
+- TopSky Maps Updated with Geo Landmark Data, FIR Data (Airports, Navaids, FIR Entry Fixes)
 
 Plugins
 Others
+- Updated ASR files due to Data being moved to TopSky
+- FYWE AD GR ASR Created
 
 
 **FZZA**

@@ -1,119 +1,63 @@
-// ##################################################################
-//                 VATSSA | FIR DNKK | ASR | DNAA APP TS
-// ##################################################################
-
-// Version 0.0.1
-// Update Date 06/04/2022
-
-// Changelog
-// v0.0.1 | DNAA APP TS Initial Setup
-
-
-// ##################################################################
-//                 SETTINGS
-// ##################################################################
-
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Airports:DNIB:name
-Airports:DNIB:symbol
-Fixes:BOTBO:name
-Fixes:BOTBO:symbol
-Fixes:BUDSI:name
-Fixes:BUDSI:symbol
-Fixes:EBSEX:name
-Fixes:EBSEX:symbol
-Fixes:EDGOT:name
-Fixes:EDGOT:symbol
-Fixes:EDKUV:name
-Fixes:EDKUV:symbol
-Fixes:ERSED:name
-Fixes:ERSED:symbol
-Fixes:ETVOV:name
-Fixes:ETVOV:symbol
-Fixes:GUMOM:name
-Fixes:GUMOM:symbol
-Fixes:ILKEL:name
-Fixes:ILKEL:symbol
-Fixes:KIPSA:name
-Fixes:KIPSA:symbol
-Fixes:MM504:name
-Fixes:MM504:symbol
-Fixes:MOLOP:name
-Fixes:MOLOP:symbol
-Fixes:OPALA:name
-Fixes:OPALA:symbol
-Fixes:OVNIK:name
-Fixes:OVNIK:symbol
-Fixes:PISBA:name
-Fixes:PISBA:symbol
-Fixes:POLTO:name
-Fixes:POLTO:symbol
-Fixes:UMUNA:name
-Fixes:UMUNA:symbol
-Fixes:XUVET:name
-Fixes:XUVET:symbol
-Geo:DG Landmark Coast:
-Geo:DN Danger area Air Force Training Area 1:
-Geo:DN Danger area Air Force Training Area 2:
-Geo:DN Danger area Air Force Training Area 3:
-Geo:DN Danger area D1 - GND/A300:
-Geo:DN Danger area D10 - GND/A300:
-Geo:DN Danger area D11 - GND/A300:
-Geo:DN Danger area D12 - GND/A400:
-Geo:DN Danger area D13 - GND/A400:
-Geo:DN Danger area D2 - GND/A300:
-Geo:DN Danger area D3 - GND/A300:
-Geo:DN Danger area D4 - GND/A300:
-Geo:DN Danger area D5 - GND/A300:
-Geo:DN Danger area D6 - GND/A300:
-Geo:DN Danger area D7 - GND/A300:
-Geo:DN Danger area D8 - GND/A300:
-Geo:DN Danger area D9 - GND/A300:
-Geo:DN Danger area Military Training Area 1 - GND/A035:
-Geo:DN Danger area Military Training Area 11 - GND/A035:
-Geo:DN Landmark Coast East:
-Geo:DN Landmark Coast Middle:
-Geo:DN Landmark Coast West:
-Geo:DN Landmark Lakes:
-Geo:DN Prohibited area P1 Lagos/Murtala Muhammed - GND/A050:
-Geo:DN Prohibited area P2 Lanlate - GND/A020:
-Geo:DN Prohibited area P3 Lagos - GND/A150:
-Geo:DN Prohibited area P4 Abuja - GND/FL450:
-Geo:DN Restricted area R1 - GND/FL100:
-Geo:DN Restricted area R2 Ikang and Bakassi - GND/FL100:
-Geo:DN Restricted area R3 Bulldog Sector B - GND/FL120:
-Geo:DN Restricted area R3 North-East Sector A - GND/FL120:
+SECTORFILE:
+SECTORTITLE:
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A1:freetext
+Free Text:DNAA Ground Labels\A2:freetext
+Free Text:DNAA Ground Labels\A2:freetext
+Free Text:DNAA Ground Labels\A3:freetext
+Free Text:DNAA Ground Labels\A3:freetext
+Free Text:DNAA Ground Labels\A4:freetext
+Free Text:DNAA Ground Labels\A5:freetext
+Free Text:DNAA Ground Labels\A6:freetext
+Free Text:DNAA Ground Labels\A7:freetext
+Free Text:DNAA Ground Labels\Apron 1:freetext
+Free Text:DNAA Ground Labels\Apron 2:freetext
+Free Text:DNAA Ground Labels\B:freetext
+Free Text:DNAA Ground Labels\B:freetext
+Free Text:DNAA Ground Labels\B1:freetext
+Free Text:DNAA Ground Labels\B2:freetext
+Free Text:DNAA Ground Labels\B3:freetext
+Free Text:DNAA Ground Labels\B4:freetext
+Free Text:DNAA Ground Labels\C1:freetext
+Free Text:DNAA Ground Labels\C2:freetext
+Free Text:DNAA Ground Labels\C3:freetext
+Free Text:DNAA Ground Labels\D1:freetext
+Free Text:DNAA Ground Labels\D2:freetext
+Free Text:DNAA Ground Labels\D3:freetext
+Free Text:DNAA Ground Labels\D4:freetext
+Free Text:DNAA Ground Labels\D5:freetext
+Free Text:DNAA Ground Labels\D6:freetext
+Free Text:DNAA Ground Labels\D7:freetext
+Free Text:DNAA Ground Labels\D8:freetext
+Free Text:DNAA Ground Labels\D9:freetext
+Free Text:DNAA Ground Labels\E1:freetext
+Free Text:DNAA Ground Labels\E10:freetext
+Free Text:DNAA Ground Labels\E11:freetext
+Free Text:DNAA Ground Labels\E12:freetext
+Free Text:DNAA Ground Labels\E13:freetext
+Free Text:DNAA Ground Labels\E14:freetext
+Free Text:DNAA Ground Labels\E15:freetext
+Free Text:DNAA Ground Labels\E16:freetext
+Free Text:DNAA Ground Labels\E17:freetext
+Free Text:DNAA Ground Labels\E18:freetext
+Free Text:DNAA Ground Labels\E19:freetext
+Free Text:DNAA Ground Labels\E2:freetext
+Free Text:DNAA Ground Labels\E3:freetext
+Free Text:DNAA Ground Labels\E4:freetext
+Free Text:DNAA Ground Labels\E5:freetext
+Free Text:DNAA Ground Labels\E6:freetext
+Free Text:DNAA Ground Labels\E7:freetext
+Free Text:DNAA Ground Labels\E8:freetext
+Free Text:DNAA Ground Labels\E9:freetext
+Free Text:DNAA Ground Labels\GATZ Apron:freetext
 Geo:DNAA Groundlayout:
-Geo:DNKA Groundlayout:
-Geo:DNKN Groundlayout:
-Geo:DNMM Groundlayout:
-Geo:DNPO Groundlayout:
-Geo:FT Landmark Lake Chad:
-Geo:GEO:
-Runways:DNMM 18R-36L:centerline
-Runways:DNMM 18R-36L:extended centerline 1
-Runways:DNMM 18R-36L:extended centerline 1 left base
-Runways:DNMM 18R-36L:extended centerline 1 left ticks
-Runways:DNMM 18R-36L:extended centerline 1 left vectoring
-Runways:DNMM 18R-36L:extended centerline 1 right base
-Runways:DNMM 18R-36L:extended centerline 1 right ticks
-Runways:DNMM 18R-36L:extended centerline 1 right vectoring
-Runways:DNMM 18R-36L:extended centerline 2
-Runways:DNMM 18R-36L:extended centerline 2 left base
-Runways:DNMM 18R-36L:extended centerline 2 left ticks
-Runways:DNMM 18R-36L:extended centerline 2 left vectoring
-Runways:DNMM 18R-36L:extended centerline 2 right base
-Runways:DNMM 18R-36L:extended centerline 2 right ticks
-Runways:DNMM 18R-36L:extended centerline 2 right vectoring
-Runways:DNMM 18R-36L:name
-VORs:IBA:frequency
-VORs:IBA:name
-VORs:IBA:symbol
-VORs:LAG:frequency
-VORs:LAG:name
-VORs:LAG:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -127,6 +71,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:5.896712:1.666367:7.896712:5.339254
-PLUGIN:TopSky plugin:HideMapData:
-PLUGIN:TopSky plugin:ShowMapData:DNAA-APP
+WINDOWAREA:8.673694:6.536204:9.492894:8.040618
+PLUGIN:TopSky plugin:ShowMapData:DNAA

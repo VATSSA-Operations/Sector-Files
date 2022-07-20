@@ -1,4 +1,48 @@
-// DNMM Lagos Departures
-RANGE:3440:3477
-ADEP:DNMM
+// ##################################################################
+//                 VATSSA | FIR DNKK | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.1
+// Update Date 20/07/2022
+
+
+// ##################################################################
+//                 DN NIGERIA
+// ##################################################################
+
+// DNAA | NNAMDI AZIKIWE INTL
+
+// Domestic Departures
+RANGE:1000:1007
+ADEP:DNAA
+ADES:DN
 IFR
+
+// Domestic Arrivals I
+RANGE:1010:1017
+PRIORITY:3
+ADEP:DN
+ADES:DNAA
+IFR
+
+// Domestic Arrivals II
+RANGE:1020:1027
+PRIORITY:2
+ADEP:DN
+ADES:DNAA
+IFR
+
+// Domestic VFR
+RANGE:1200:1200
+ADHOC
+VFR
+
+// International Transit
+RANGE:1770:1777
+NOTADEP:DN
+NOTADES:DN
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################
