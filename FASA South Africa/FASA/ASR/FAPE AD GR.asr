@@ -67,6 +67,6 @@ WINDOWAREA:-33.992162:25.595906:-33.980015:25.621118
 PLUGIN:Ground Radar plugin:AirportElevation:229
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FAPE
+PLUGIN:TopSky plugin:HideMapData:ICAO
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:FAPE
-PLUGIN:TopSky plugin:HideMapData:ICAO

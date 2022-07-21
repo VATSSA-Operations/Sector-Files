@@ -110,9 +110,20 @@ Others
 **FNAN**
 
 Euroscope Data
+
 GroundRadar Updates
+
 TopSky Updates
+- FNAN Center Added to TopSkyViews
+- Review of TopSkySettings and Consolidation of Common Framework with Previous Settings
+- FNLU and FHSH AD MSA Added to TopSkyMSAW
+- FNAN Grid Mora Added to TopSkyMSAW
+- TopSkyCPDLC Created
+- TopSkyAres Created with Prohibited and Restricted Areas
+- QNHTL Dynamic TL Added to TopSkyAirspace
+
 Plugins
+
 Others
 
 
@@ -217,6 +228,7 @@ Euroscope Data
 GroundRadar Updates
 - Added HKJK to GroundRadar Settings Data
 - Added HKJK ILS 06 to GroundRadar AppPath Settings Data
+- Added HKJK Stand Data to GroundRadar
 
 TopSky Updates
 - Created TopSkyMSAW Data File. 

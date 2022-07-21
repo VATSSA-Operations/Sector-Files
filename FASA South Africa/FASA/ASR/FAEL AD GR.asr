@@ -1,0 +1,41 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAEL Taxiways\A:freetext
+Free Text:FAEL Taxiways\A1:freetext
+Free Text:FAEL Taxiways\A2:freetext
+Free Text:FAEL Taxiways\A3:freetext
+Free Text:FAEL Taxiways\A4:freetext
+Free Text:FAEL Taxiways\B:freetext
+Free Text:FAEL Taxiways\B1:freetext
+Free Text:FAEL Taxiways\C3:freetext
+Free Text:FAEL Taxiways\G:freetext
+Free Text:FAEL Terrain\3000:freetext
+Free Text:FAEL Terrain\4500:freetext
+Free Text:FAEL Terrain\4800:freetext
+Free Text:FAEL Terrain\5100:freetext
+Free Text:FAEL Terrain\6300:freetext
+Free Text:FAEL Terrain\7900:freetext
+Geo:FAEL Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:8.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-33.044414:27.802057:-33.025823:27.840642
+PLUGIN:Ground Radar plugin:AirportElevation:435
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAEL
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAEL

@@ -152,18 +152,25 @@ Color_Weather_Map=207,128,238
 
 
 // ##################################################################
-//                 #3 VISUAL v0.2
+//                 #3 VISUAL v0.3
 // ##################################################################
 
 Window_WxMsgs=1,1460,46,438,200
+Window_WxMsgs_MetarRefreshInterval=600
+Window_WxMsgs_HighlightNew=1
+
 
 Window_QNHTL=1,1728,250
-Window_LFUNCFP=1,1728,420
+Window_QNHTL_HighlightChanges=1
+
+Window_LFUNCFP=0,1728,420
 
 Window_CPDLC_Setting=1,1300,650
 Window_ATCmsg=1,1460,650,438,120
 Window_PrimFreqMsg=1,1460,775,438,120
 Window_CPDLC_Current=1,1460,900
+
+Window_NOTAM=3
 
 
 // ##################################################################
@@ -239,18 +246,41 @@ RDF_Floor=2500
 
 
 // ##################################################################
-//                 #9 RWY APP LINES v0.1
+//                   #9 MSAW v0.1
 // ##################################################################
 
-Color_Rwy_App_Line_Inuse=0,145,255
-RwyAppLines_Length=15
-RwyAppLines_Markers=3
-RwyAppLines_MarkerSpacing=5
-RwyAppLines_Auto=1
+MSAW=1
+MSAW_VFR=0
+//MSAW_Uncorrelated
+MSAW_Filter=2
+MSAW_UseCFL=1
+MSAW_Buffer_IFR=300
+//MSAW_Buffer_VFR
+//MSAW_PredictionTime
+//MSAW_PredictionStep
 
 
 // ##################################################################
-//                 #10 WX SERVER SETTINGS v0.1
+//                   #10 NOTAMs v0.1
+// ##################################################################
+
+HTTP_NOTAM_Server=https://www.notams.faa.gov/
+HTTP_NOTAM_Page_Prefix=PilotWeb/notamRetrievalByICAOAction.do?method=displayByICAOs&reportType=RAW&formatType=DOMESTIC&retrieveLocId=
+HTTP_NOTAM_Page_Suffix=&actionType=notamRetrievalByICAOs
+HTTP_NOTAM_Data_Prefix=<PRE>
+HTTP_NOTAM_Data_Suffix=</PRE>
+//HTTP_NOTAM_Area_Sched_Text
+//HTTP_NOTAM_Area_Sched_Debug
+
+HTTP_NOTAM_AUP_Text=NO RSA     MNM MAX WEF   TIL REMARK
+HTTP_NOTAM_AUP_Offset_MNM=8
+HTTP_NOTAM_AUP_Offset_MAX=12
+HTTP_NOTAM_AUP_Offset_WEF=16
+HTTP_NOTAM_AUP_Offset_TIL=22
+
+
+// ##################################################################
+//                 #11 WX SERVER SETTINGS v0.1
 // ##################################################################
 
 // MET Settings (METAR, TAF & SIGMET)
@@ -271,15 +301,6 @@ HTTP_SIGMET_Page_Prefix=data/iffdp/
 HTTP_SIGMET_Pages=6448
 HTTP_SIGMET_Page_Suffix=.txt
 
-
-// NAT Track Information
-HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
-
-
-// ##################################################################
-//                   Weather Radar Settings
-// ##################################################################
-
 WXR_Latitude=54.5
 WXR_Latitude_Max=61
 WXR_Latitude_Min=48
@@ -290,7 +311,19 @@ WXR_Brightness=20
 WXR_Gain=85
 WXR_Echo_dBZ_Hi=20
 WXR_Echo_dBZ_Med=15
-WXR_Echo_dBZ_Lo=12
+WXR_Echo_dBZ_Lo=12 
+
+
+// ##################################################################
+//                 #12 RWY APP LINES v0.1
+// ##################################################################
+
+Color_Rwy_App_Line_Inuse=0,145,255
+RwyAppLines_Length=15
+RwyAppLines_Markers=3
+RwyAppLines_MarkerSpacing=5
+RwyAppLines_Auto=1
+
 
 // ##################################################################
 //                   #13 APW v0.1
@@ -324,19 +357,58 @@ System_Coord_Sound_TIP_RJC=1
 
 
 // ##################################################################
-//                   CUSTOM
+//                   #15 LABELS v0.1
 // ##################################################################
 
-Airspace_ASSR_Type=0
-Airspace_No_DUPE_Codes=7000
-Airspace_NOTAM_Add=GVSC,GVAC,GVBA,GVNP,GVSV
-Airspace_NOTAM_Remove=GOOO,GDGG,GDGS,GDTT,GDPP
-Airspace_SIGMET_Areas=GVSC
+Label_SI_ShowFreq=1
+Label_SI_FreqTime=3
+Label_DAPs=1
+Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,MSFS,msfs
+Label_Rev_Highlight_Delta_ETN=0
+Label_Alt_Digits=2
 
-[GVSC_APP]
+FlightLeg_Label_DIST=1
+FlightLeg_Label_RFL=1
+FlightLeg_Label_SCFL=1
+
+
+// ##################################################################
+//                 #99 AIRSPACE v0.1
+// ##################################################################
+
+Airspace_C_Flag=GVAC
+
 Airspace_NOTAM_Add=GVSC,GVAC,GVBA,GVNP,GVSV
 Airspace_NOTAM_Remove=GO,GQ
 Airspace_SIGMET_Areas=GVSC
+
+[GVSC_CTR]
+Setup_LoadView=SAL OCEANIC
+Setup_Informed=*:*:GVAC,GVBA,GVNP,GVSV
+
+[GVSC_APP]
+Setup_LoadView=SAL TMA
+Setup_Informed=*:*:GVAC,GVBA,GVNP,GVSV
+
+[GVAC_TWR]
+Setup_LoadView=GVAC AD
+Setup_Informed=*:*:GVAC
+
+[GVBA_TWR]
+Setup_LoadView=GVBA AD
+Setup_Informed=*:*:GVBA
+
+[GVNP_TWR]
+Setup_LoadView=GVNP AD
+Setup_Informed=*:*:GVNP
+
+[GVSV_TWR]
+Setup_LoadView=GVSV AD
+Setup_Informed=*:*:GVSV
+
+
+Airspace_ASSR_Type=0
+Airspace_No_DUPE_Codes=7000
 
 
 // ##################################################################

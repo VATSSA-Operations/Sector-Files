@@ -17,6 +17,7 @@ Airports:FAWB:name
 Airports:FAWB:symbol
 Airports:FAWK:name
 Airports:FAWK:symbol
+Free Text:Default group\FAOR Stands:
 Free Text:FAOR Stands\A1:freetext
 Free Text:FAOR Stands\A10:freetext
 Free Text:FAOR Stands\A11:freetext
@@ -193,7 +194,6 @@ Free Text:FAOR VRP\Rietvlei dam:freetext
 Free Text:FAOR VRP\Sandton City:freetext
 Free Text:FAOR VRP\Shell Ultracity:freetext
 Free Text:FAOR VRP\Silver Ball:freetext
-Free Text:FAOR Stands:
 Geo:FAGM Groundlayout:
 Geo:FAOR Groundlayout Ground Markers (New):
 Geo:GEO:
@@ -211,7 +211,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:75.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:-26.166633:28.181715:-26.110580:28.298644
+WINDOWAREA:-26.166776:28.181715:-26.110437:28.298644
 PLUGIN:Ground Radar plugin:AirportElevation:5580
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FAOR

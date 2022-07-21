@@ -1,0 +1,31 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FAUP Taxiways\A1:freetext
+Free Text:FAUP Taxiways\B1:freetext
+Free Text:FAUP Taxiways\E:freetext
+Free Text:FAUP Taxiways\F1:freetext
+Free Text:FAUP Taxiways\G1:freetext
+Geo:FAUP Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:116.30000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-28.414218:21.233168:-28.385170:21.293457
+PLUGIN:Ground Radar plugin:AirportElevation:2791
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAUP
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAUP

@@ -1,6 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Airports:FALW:name
 Airports:FALW:symbol
 Airports:FASH:name
@@ -155,7 +157,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:285.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-33.983482:18.587106:-33.964146:18.627238
+WINDOWAREA:-33.980356:18.577584:-33.956185:18.627749
 PLUGIN:Ground Radar plugin:AirportElevation:160
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FACT

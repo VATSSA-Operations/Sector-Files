@@ -1,0 +1,46 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FABL Info\Tower 120.80, Approach 124.30, Atis 126.45, Elevation 4457':freetext
+Free Text:FABL Taxiways\A1:freetext
+Free Text:FABL Taxiways\A2:freetext
+Free Text:FABL Taxiways\A3:freetext
+Free Text:FABL Taxiways\A4:freetext
+Free Text:FABL Taxiways\A5:freetext
+Free Text:FABL Taxiways\B1:freetext
+Free Text:FABL Taxiways\B2:freetext
+Free Text:FABL Taxiways\B3:freetext
+Free Text:FABL Taxiways\B4:freetext
+Free Text:FABL Taxiways\B5:freetext
+Free Text:FABL Taxiways\C1:freetext
+Free Text:FABL Taxiways\C2:freetext
+Free Text:FABL Taxiways\C3:freetext
+Free Text:FABL Taxiways\C4:freetext
+Free Text:FABL Taxiways\C5:freetext
+Free Text:FABL Taxiways\D:freetext
+Free Text:FABL Taxiways\E:freetext
+Free Text:FABL Taxiways\F:freetext
+Free Text:FABL Taxiways\G:freetext
+Geo:FABL Groundlayout (New):
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-29.102206:26.274971:-29.078967:26.323203
+PLUGIN:Ground Radar plugin:AirportElevation:4457
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FABL
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FABL

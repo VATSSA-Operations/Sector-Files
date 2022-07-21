@@ -1,0 +1,30 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\ATC Control\0 GitHub\Sector-Files\FASA South Africa\FASA-Package_20220714145234-220701-0001.sct
+SECTORTITLE:FASA-Package_20220714145234-220701-0001.sct
+Free Text:FAKM Taxiways\A:freetext
+Free Text:FAKM Taxiways\A1:freetext
+Free Text:FAKM Taxiways\C:freetext
+Free Text:FAKM Taxiways\C1:freetext
+Geo:FAKM Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:60.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-28.814078:24.744740:-28.795487:24.783326
+PLUGIN:Ground Radar plugin:AirportElevation:3950
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAKM
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FAKM
