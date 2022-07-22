@@ -9,7 +9,6 @@ Airports:FASH:name
 Airports:FASH:symbol
 Airports:FAYP:name
 Airports:FAYP:symbol
-ARTCC low boundary:FACT-CTR:
 Free Text:FACT Hangers\Freight:freetext
 Free Text:FACT Hangers\General Aviation:freetext
 Free Text:FACT Hangers\Main Apron:freetext
@@ -102,7 +101,6 @@ Geo:FACT Landmark Newlands Stadium:
 Geo:FAYP Groundlayout:
 Geo:GEO:
 Regions:FACT Groundlayout:polygon
-Runways:FACT 01-19:centerline
 Runways:FACT 01-19:extended centerline 1
 Runways:FACT 01-19:extended centerline 1 left base
 Runways:FACT 01-19:extended centerline 1 left ticks
@@ -117,7 +115,6 @@ Runways:FACT 01-19:extended centerline 2 left vectoring
 Runways:FACT 01-19:extended centerline 2 right base
 Runways:FACT 01-19:extended centerline 2 right ticks
 Runways:FACT 01-19:extended centerline 2 right vectoring
-Runways:FACT 16-34:centerline
 Runways:FACT 16-34:extended centerline 1
 Runways:FACT 16-34:extended centerline 1 left base
 Runways:FACT 16-34:extended centerline 1 left ticks
@@ -132,18 +129,6 @@ Runways:FACT 16-34:extended centerline 2 left vectoring
 Runways:FACT 16-34:extended centerline 2 right base
 Runways:FACT 16-34:extended centerline 2 right ticks
 Runways:FACT 16-34:extended centerline 2 right vectoring
-VORs:CSV:frequency
-VORs:CSV:name
-VORs:CSV:symbol
-VORs:CTV:frequency
-VORs:CTV:name
-VORs:CTV:symbol
-VORs:LWV:frequency
-VORs:LWV:name
-VORs:LWV:symbol
-VORs:RIV:frequency
-VORs:RIV:name
-VORs:RIV:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -157,7 +142,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:285.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-33.980356:18.577584:-33.956185:18.627749
+WINDOWAREA:-33.984265:18.580978:-33.959845:18.631143
 PLUGIN:Ground Radar plugin:AirportElevation:160
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FACT

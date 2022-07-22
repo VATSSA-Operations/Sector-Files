@@ -82,7 +82,6 @@ Geo:FALE Groundlayout (New):
 Geo:FAVG Groundlayout:
 Geo:GEO:
 Regions:FALE Ground Layout:polygon
-Runways:FALE 06-24:centerline
 Runways:FALE 06-24:extended centerline 1
 Runways:FALE 06-24:extended centerline 1 left base
 Runways:FALE 06-24:extended centerline 1 left ticks
@@ -97,7 +96,6 @@ Runways:FALE 06-24:extended centerline 2 left vectoring
 Runways:FALE 06-24:extended centerline 2 right base
 Runways:FALE 06-24:extended centerline 2 right ticks
 Runways:FALE 06-24:extended centerline 2 right vectoring
-Runways:FALE 06-24:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -111,7 +109,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:52.50000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-29.619067:31.090008:-29.595982:31.137921
+WINDOWAREA:-29.753414:30.830319:-29.481890:31.388100
 PLUGIN:Ground Radar plugin:AirportElevation:310
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FALE

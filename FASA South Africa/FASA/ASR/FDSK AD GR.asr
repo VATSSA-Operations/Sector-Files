@@ -17,6 +17,20 @@ Free Text:FDSK Taxiways & Apron\Terminal:freetext
 Free Text:FDSK Taxiways & Apron\VIP Terminal:freetext
 Geo:FDSK Groundlayout Ground Markers:
 Regions:FDSK Ground Layout:polygon
+Runways:FDSK 02-20:extended centerline 1
+Runways:FDSK 02-20:extended centerline 1 left base
+Runways:FDSK 02-20:extended centerline 1 left ticks
+Runways:FDSK 02-20:extended centerline 1 left vectoring
+Runways:FDSK 02-20:extended centerline 1 right base
+Runways:FDSK 02-20:extended centerline 1 right ticks
+Runways:FDSK 02-20:extended centerline 1 right vectoring
+Runways:FDSK 02-20:extended centerline 2
+Runways:FDSK 02-20:extended centerline 2 left base
+Runways:FDSK 02-20:extended centerline 2 left ticks
+Runways:FDSK 02-20:extended centerline 2 left vectoring
+Runways:FDSK 02-20:extended centerline 2 right base
+Runways:FDSK 02-20:extended centerline 2 right ticks
+Runways:FDSK 02-20:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -30,7 +44,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:90.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-26.369720:31.689828:-26.346482:31.738059
+WINDOWAREA:-26.369840:31.689828:-26.346362:31.738059
 PLUGIN:Ground Radar plugin:AirportElevation:1092
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FDSK

@@ -48,8 +48,34 @@ Geo:FAJA Landmark Lakes (AP):
 Geo:FAPE Groundlayout (New):
 Geo:GEO:
 Regions:FAPE Ground Layout:polygon
-Runways:FAPE 08-26:name
-Runways:FAPE 17-35:name
+Runways:FAPE 08-26:extended centerline 1
+Runways:FAPE 08-26:extended centerline 1 left base
+Runways:FAPE 08-26:extended centerline 1 left ticks
+Runways:FAPE 08-26:extended centerline 1 left vectoring
+Runways:FAPE 08-26:extended centerline 1 right base
+Runways:FAPE 08-26:extended centerline 1 right ticks
+Runways:FAPE 08-26:extended centerline 1 right vectoring
+Runways:FAPE 08-26:extended centerline 2
+Runways:FAPE 08-26:extended centerline 2 left base
+Runways:FAPE 08-26:extended centerline 2 left ticks
+Runways:FAPE 08-26:extended centerline 2 left vectoring
+Runways:FAPE 08-26:extended centerline 2 right base
+Runways:FAPE 08-26:extended centerline 2 right ticks
+Runways:FAPE 08-26:extended centerline 2 right vectoring
+Runways:FAPE 17-35:extended centerline 1
+Runways:FAPE 17-35:extended centerline 1 left base
+Runways:FAPE 17-35:extended centerline 1 left ticks
+Runways:FAPE 17-35:extended centerline 1 left vectoring
+Runways:FAPE 17-35:extended centerline 1 right base
+Runways:FAPE 17-35:extended centerline 1 right ticks
+Runways:FAPE 17-35:extended centerline 1 right vectoring
+Runways:FAPE 17-35:extended centerline 2
+Runways:FAPE 17-35:extended centerline 2 left base
+Runways:FAPE 17-35:extended centerline 2 left ticks
+Runways:FAPE 17-35:extended centerline 2 left vectoring
+Runways:FAPE 17-35:extended centerline 2 right base
+Runways:FAPE 17-35:extended centerline 2 right ticks
+Runways:FAPE 17-35:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -63,7 +89,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:30.50000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-33.992162:25.595906:-33.980015:25.621118
+WINDOWAREA:-33.992225:25.595906:-33.979952:25.621118
 PLUGIN:Ground Radar plugin:AirportElevation:229
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FAPE

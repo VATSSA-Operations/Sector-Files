@@ -17,7 +17,6 @@ Airports:FAWB:name
 Airports:FAWB:symbol
 Airports:FAWK:name
 Airports:FAWK:symbol
-Free Text:Default group\FAOR Stands:
 Free Text:FAOR Stands\A1:freetext
 Free Text:FAOR Stands\A10:freetext
 Free Text:FAOR Stands\A11:freetext
@@ -197,7 +196,34 @@ Free Text:FAOR VRP\Silver Ball:freetext
 Geo:FAGM Groundlayout:
 Geo:FAOR Groundlayout Ground Markers (New):
 Geo:GEO:
-Regions:FAOR Ground Layout(New):polygon
+Runways:FAOR 03L-21R:extended centerline 1
+Runways:FAOR 03L-21R:extended centerline 1 left base
+Runways:FAOR 03L-21R:extended centerline 1 left ticks
+Runways:FAOR 03L-21R:extended centerline 1 left vectoring
+Runways:FAOR 03L-21R:extended centerline 1 right base
+Runways:FAOR 03L-21R:extended centerline 1 right ticks
+Runways:FAOR 03L-21R:extended centerline 1 right vectoring
+Runways:FAOR 03L-21R:extended centerline 2
+Runways:FAOR 03L-21R:extended centerline 2 left base
+Runways:FAOR 03L-21R:extended centerline 2 left ticks
+Runways:FAOR 03L-21R:extended centerline 2 left vectoring
+Runways:FAOR 03L-21R:extended centerline 2 right base
+Runways:FAOR 03L-21R:extended centerline 2 right ticks
+Runways:FAOR 03L-21R:extended centerline 2 right vectoring
+Runways:FAOR 03R-21L:extended centerline 1
+Runways:FAOR 03R-21L:extended centerline 1 left base
+Runways:FAOR 03R-21L:extended centerline 1 left ticks
+Runways:FAOR 03R-21L:extended centerline 1 left vectoring
+Runways:FAOR 03R-21L:extended centerline 1 right base
+Runways:FAOR 03R-21L:extended centerline 1 right ticks
+Runways:FAOR 03R-21L:extended centerline 1 right vectoring
+Runways:FAOR 03R-21L:extended centerline 2
+Runways:FAOR 03R-21L:extended centerline 2 left base
+Runways:FAOR 03R-21L:extended centerline 2 left ticks
+Runways:FAOR 03R-21L:extended centerline 2 left vectoring
+Runways:FAOR 03R-21L:extended centerline 2 right base
+Runways:FAOR 03R-21L:extended centerline 2 right ticks
+Runways:FAOR 03R-21L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -210,8 +236,8 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:75.00000
-TAGFAMILY:GRplugin
-WINDOWAREA:-26.166776:28.181715:-26.110437:28.298644
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-26.327076:27.738088:-25.902986:28.609277
 PLUGIN:Ground Radar plugin:AirportElevation:5580
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FAOR

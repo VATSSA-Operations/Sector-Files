@@ -56,6 +56,20 @@ Free Text:FALA Taxiways\R:freetext
 Free Text:FALA Taxiways\S:freetext
 Free Text:FALA Taxiways\T:freetext
 Geo:FALA Groundlayout:
+Runways:FALA 07-25:extended centerline 1
+Runways:FALA 07-25:extended centerline 1 left base
+Runways:FALA 07-25:extended centerline 1 left ticks
+Runways:FALA 07-25:extended centerline 1 left vectoring
+Runways:FALA 07-25:extended centerline 1 right base
+Runways:FALA 07-25:extended centerline 1 right ticks
+Runways:FALA 07-25:extended centerline 1 right vectoring
+Runways:FALA 07-25:extended centerline 2
+Runways:FALA 07-25:extended centerline 2 left base
+Runways:FALA 07-25:extended centerline 2 left ticks
+Runways:FALA 07-25:extended centerline 2 left vectoring
+Runways:FALA 07-25:extended centerline 2 right base
+Runways:FALA 07-25:extended centerline 2 right ticks
+Runways:FALA 07-25:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -69,7 +83,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:43.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-25.944935:27.903873:-25.926344:27.942459
+WINDOWAREA:-25.945031:27.903873:-25.926248:27.942459
 PLUGIN:Ground Radar plugin:AirportElevation:4521
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FALA

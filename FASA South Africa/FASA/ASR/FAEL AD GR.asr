@@ -19,6 +19,34 @@ Free Text:FAEL Terrain\5100:freetext
 Free Text:FAEL Terrain\6300:freetext
 Free Text:FAEL Terrain\7900:freetext
 Geo:FAEL Groundlayout:
+Runways:FAEL 06-24:extended centerline 1
+Runways:FAEL 06-24:extended centerline 1 left base
+Runways:FAEL 06-24:extended centerline 1 left ticks
+Runways:FAEL 06-24:extended centerline 1 left vectoring
+Runways:FAEL 06-24:extended centerline 1 right base
+Runways:FAEL 06-24:extended centerline 1 right ticks
+Runways:FAEL 06-24:extended centerline 1 right vectoring
+Runways:FAEL 06-24:extended centerline 2
+Runways:FAEL 06-24:extended centerline 2 left base
+Runways:FAEL 06-24:extended centerline 2 left ticks
+Runways:FAEL 06-24:extended centerline 2 left vectoring
+Runways:FAEL 06-24:extended centerline 2 right base
+Runways:FAEL 06-24:extended centerline 2 right ticks
+Runways:FAEL 06-24:extended centerline 2 right vectoring
+Runways:FAEL 11-29:extended centerline 1
+Runways:FAEL 11-29:extended centerline 1 left base
+Runways:FAEL 11-29:extended centerline 1 left ticks
+Runways:FAEL 11-29:extended centerline 1 left vectoring
+Runways:FAEL 11-29:extended centerline 1 right base
+Runways:FAEL 11-29:extended centerline 1 right ticks
+Runways:FAEL 11-29:extended centerline 1 right vectoring
+Runways:FAEL 11-29:extended centerline 2
+Runways:FAEL 11-29:extended centerline 2 left base
+Runways:FAEL 11-29:extended centerline 2 left ticks
+Runways:FAEL 11-29:extended centerline 2 left vectoring
+Runways:FAEL 11-29:extended centerline 2 right base
+Runways:FAEL 11-29:extended centerline 2 right ticks
+Runways:FAEL 11-29:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -32,7 +60,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:8.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-33.044414:27.802057:-33.025823:27.840642
+WINDOWAREA:-33.043178:27.805038:-33.028152:27.835906
 PLUGIN:Ground Radar plugin:AirportElevation:435
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FAEL
